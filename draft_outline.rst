@@ -118,6 +118,20 @@ Selection
 ----------
 We should ...
 
+Bob's Comparison Scheme for Collaborative Technology
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Core Functionality
+  - Jointly Authored Pages
+  - Stream
+  - Information Access
+- Access Controls
+- Content
+- Actions
+- Synchronicity
+- Identifiability
+- Relationships
+- Persistence
+
 Implementation Planning
 ========================
 We will ... and how.
