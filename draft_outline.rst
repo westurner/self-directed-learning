@@ -51,6 +51,10 @@ Information Search
   - Case Studies
   - Demos
 
+References
+------------
+See: References
+
 Channels
 --------
 - Internets
@@ -155,9 +159,24 @@ Bob's Comparison Scheme for Collaborative Technology
 - Relationships
 - Persistence
 
+
+
 Implementation Planning
 ========================
 We will ... and how.
+
+
+References
++++++++++++
+
+:: 
+
+  President’s Council of Advisors on Science and Technology.
+    Engage to Excel: Producing One Million Additional College Graduates With
+    Degrees in Science, Technology, Engineering, And Mathematics,
+    February 2012.
+
+
 
 
 Good Ideas
