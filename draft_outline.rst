@@ -55,3 +55,32 @@ Proficiency Metrics
 Technique Metrics
 ==================
 - A/B Testing
+
+Online Lab Ideas
+==================
+Math-based web game design
+----------------------------
+- Client-side
+  - HTML5, JS
+- Tutorial w/ live support
+- "Complete this triangle"
+
+Challenges
+===========
+- Employer Acceptance
+  - Verification
+    - Proctored Exams
+    - Certificates
+- Incentivization
+  - "Unlearning"
+  - Certificates
+  - Awareness
+
+Opportunities
+==============
+- "Hands-on-line"
+- Student Work Portfolio
+  - "Here's some of my work"
+    - Design
+    - Writings
+    - Code
