@@ -1,7 +1,5 @@
 Tech Writing Outline
 ++++++++++++++++++++++
-(Bob's Creative Process)
-
 Problem Identification
 =======================
 How best to implement and integrate online learning?
@@ -143,8 +141,8 @@ Selection
 ----------
 We should ...
 
-Bob's Comparison Scheme for Collaborative Technology
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Comparison Scheme for Collaborative Technology
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Core Functionality
 
   - Jointly Authored Pages
@@ -159,7 +157,7 @@ Bob's Comparison Scheme for Collaborative Technology
 - Relationships
 - Persistence
 
-
+[ComparisonSchemeforCollaborativeTechnology]_
 
 Implementation Planning
 ========================
@@ -176,7 +174,24 @@ References
     Degrees in Science, Technology, Engineering, And Mathematics,
     February 2012.
 
+.. [ComparisonSchemeforCollaborativeTechnology] 
 
+:: 
+
+  Briggs, Robert O., Pedro Antunes, Gert-Jan de Vreede, and Aaron S. Read.
+    Groupware: Design, Implementation, and Use: 14th International Workshop,
+    CRIWG 2008, Omaha, NE, USA, Sept. 14-18, 2008, Revised Selected Papers.
+    Springer, 2009.
+    [p.308]
+
+.. [CreativeProcess] 
+
+:: 
+
+  Mumford, Michael D., Samuel T. Hunter, and Katrina E. Bedell-Avers.
+    Multi-Level Issues in Creativity and Innovation.
+    Emerald Group Publishing, 2008.
+    [p.208]
 
 
 Good Ideas
