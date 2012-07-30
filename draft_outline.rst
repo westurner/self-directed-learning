@@ -40,6 +40,7 @@ Proficiency Metrics
 ====================
 - Standard-Normal
 - Instructor Evaluations ("Grading")
+- Self Evaluation (TIL: Today I Learned)
 - Voting Choice
   - Peer Evaluations
   - Community Evaluations
