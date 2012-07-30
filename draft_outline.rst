@@ -7,8 +7,9 @@ Problem Identification
 How best to implement and integrate online learning?
 
 Online Education
- - Strategies & Implementation
- - Challenges & Opportunities
+
+- Strategies & Implementation
+- Challenges & Opportunities
 
 Goals
 ------
@@ -22,6 +23,7 @@ Objectives
 Constraints
 ------------
 Resources
+
 - People
 - Space
 - Budget
@@ -29,18 +31,23 @@ Resources
 Challenges
 -----------
 - Employer Acceptance
+
   - Verification
+
     - Proctored Exams
     - Certificates
+
 - Incentivization
+
   - "Unlearning"
   - Certificates
   - Awareness
 
 Information Search
 ===================
-Brainstorm/Mental Map (above)
-Existing Implementations
+- Brainstorm/Mental Map (above)
+- Existing Implementations
+
   - Case Studies
   - Demos
 
@@ -58,11 +65,14 @@ Traditional Education
 - Homework Assignments
 - Readings
 - Quizzes
+
   - Multiple Choice
   - Take Home
   - Written
   - Clickers
+
 - Exams
+
   - Multiple Choice
   - Essay
   - Projects
@@ -73,13 +83,18 @@ Learning Assessments
 - Instructor Evaluations ("Grading")
 - Self Evaluation (TIL: Today I Learned)
 - Voting Choice
+
   - Peer Evaluations
   - Community Evaluations
+
 - Essay Qualifcation & Quantification
+
   - Flesh-Kincaid readability
   - Comma-counting
   - Term Frequency
+
 - CS/Engineering
+
   - TDD Test Suites
   - Cycles, I/O
 
@@ -102,14 +117,20 @@ Opportunities
 Returns
 ~~~~~~~~
 - Direct
+
   - Educational
+
 - Indirect
+
   - Financial
   - Renaissance
 
 - "Hands-on-line"
+
   - Student Work Portfolio
+
     - "Here's some of my work"
+
       - Design
       - Writings
       - Code
@@ -121,9 +142,11 @@ We should ...
 Bob's Comparison Scheme for Collaborative Technology
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Core Functionality
+
   - Jointly Authored Pages
   - Stream
   - Information Access
+
 - Access Controls
 - Content
 - Actions
