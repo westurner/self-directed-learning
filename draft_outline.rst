@@ -36,3 +36,21 @@ Objectives
 - Proficiency
 - Mastery
 
+Proficiency Metrics
+====================
+- Standard-Normal
+- Instructor Evaluations ("Grading")
+- Voting Choice
+  - Peer Evaluations
+  - Community Evaluations
+- Essay Qualifcation & Quantification
+  - Flesh-Kincaid readability
+  - Comma-counting
+  - Term Frequency
+- CS/Engineering
+  - TDD Test Suites
+  - Cycles, I/O
+
+Technique Metrics
+==================
+- A/B Testing
