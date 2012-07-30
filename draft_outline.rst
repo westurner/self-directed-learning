@@ -84,3 +84,10 @@ Opportunities
     - Design
     - Writings
     - Code
+
+Strategies
+===========
+
+
+Implementation
+===============
