@@ -30,3 +30,9 @@ Traditional Education
   - Essay
   - Projects
 
+Objectives
+============
+- Competency
+- Proficiency
+- Mastery
+
