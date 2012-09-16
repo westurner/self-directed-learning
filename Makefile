@@ -158,3 +158,6 @@ build_deps_ubuntu:
 							texlive-latex-recommended \
 							texlive-fonts-recommended \
 							rst2pdf
+
+rst2pdf:
+	rst2pdf --stylesheets=_static/pdf.styles index.rst

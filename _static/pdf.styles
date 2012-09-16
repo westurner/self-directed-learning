@@ -425,7 +425,7 @@
 
     literal:
       parent: normal
-      fontName: stdMono
+      fontName: stdFont
       firstLineIndent: 0
       hyphenation: false
       wordWrap: null
@@ -475,10 +475,10 @@
       leftIndent: 0
       spaceBefore: 8
       spaceAfter: 8
-      backColor: beige
-      borderColor: darkgray
-      borderWidth: 0.5
-      borderPadding: 6
+      backColor: #F0F0F0
+      borderColor: null
+      borderWidth: 0
+      borderPadding: 8
 
     linenumber:
       parent: code
