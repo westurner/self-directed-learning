@@ -152,9 +152,19 @@ doctest:
 	@echo "Testing of doctests in the sources finished, look at the " \
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
-build_deps_ubuntu:
+latex_build_deps_ubuntu:
 	sudo apt-get install -y texlive-latex-base \
 							texlive-latex-extra \
 							texlive-latex-recommended \
-							texlive-fonts-recommended \
-							rst2pdf
+							texlive-fonts-recommended
+
+rst2pdf_build_deps_ubuntu:
+	sudo apt-get install -y rst2pdf
+
+rst2pdf:
+	rst2pdf --stylesheets=_static/pdf.styles index.rst -o _build/index.pdf
+
+rst2pdf_open:
+	evince _build/index.pdf
+
+rst2pdf_preview: rst2pdf rst2pdf_open
