@@ -34,6 +34,48 @@ Journal Articles
 ~~~~~~~~~~~~~~~~~
 Database, Search Terms, # Articles, UNO Availability
 
+UNOmaha Criss Library Journal Search, [online learning], 4 journals::
+
+    Journal of Interactive Online Learning
+    Journal of Online Learning and Teaching
+    Mobile, Hybrid, and On-line Learning (ELML), International
+        Conference on
+    Online journal of distance learning administration
+
+UNOmaha Criss Library Journal Search, [educational technology], 15
+journals::
+
+    Australasian journal of educational technology
+    British journal of educational technology  (0007-1013)
+    Cabell's directory of publishing opportunities in educational technology and library science
+    Contemporary educational technology  (1309-517X)
+    Educational and Information Technology (ICEIT), International Conference on
+    Educational media and technology yearbook  (8755-2094)
+    Educational technology  (0013-1962)
+    Educational technology & society  (1176-3647)
+    Educational technology research and development  (1042-1629)
+    Information and Communication Technology in Educational Sciences  (2228-5318)
+    International Journal of Educational Research and Technology  (0976-4089)
+    Journal of educational technology systems  (0047-2395)
+    Journal of the Research Center for Educational Technology  (1948-075X)
+    TOJET the Turkish online journal of educational technology
+    World Journal on Educational Technology  (1309-1506)
+
+
+Academic Search Premier (EBSCO), [SU: online learning], 1 result
+
+Academic Search Premier (EBSCO), [AB: online learning], 4543::
+
+    Shaw, R.-S. (2012). A study of the relationships among learning styles, participation types, and performance in programming language learning supported by online forums. Computers & Education, 58(1), 111–120. doi:10.1016/j.compedu.2011.08.013
+
+    Shum, S. B., & Ferguson, R. (2012). Social Learning Analytics. Journal of Educational Technology & Society, 15(3), 3–26.
+
+Business Source Premier (EBSCO), [online training], 4708 ::
+
+    Wan, Z., Compeau, D., & Haggerty, N. (2012). The Effects of Self-Regulated Learning Processes on E-Learning Outcomes in Organizational Settings. Journal of Management Information Systems, 29(1), 307–340.
+
+    Chio, K. S. (2012). Effective practices in providing online, in-service training to health professionals in low-resource settings. International Journal of Training & Development, 16(3), 228–234. doi:10.1111/j.1468-2419.2012.00406.x
+
 
 Web Sites
 ~~~~~~~~~
