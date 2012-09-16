@@ -46,15 +46,24 @@ Academic Search Premier (EBSCO), [SU: online learning], 1 result
 
 Academic Search Premier (EBSCO), [AB: online learning], 4543::
 
-    Shaw, R.-S. (2012). A study of the relationships among learning styles, participation types, and performance in programming language learning supported by online forums. Computers & Education, 58(1), 111–120. doi:10.1016/j.compedu.2011.08.013
+    Shaw, R.-S. (2012). A study of the relationships among learning styles,
+        participation types, and performance in programming language learning
+        supported by online forums. Computers & Education, 58(1), 111–120.
+        doi:10.1016/j.compedu.2011.08.013
 
-    Shum, S. B., & Ferguson, R. (2012). Social Learning Analytics. Journal of Educational Technology & Society, 15(3), 3–26.
+    Shum, S. B., & Ferguson, R. (2012). Social Learning Analytics.
+        Journal of Educational Technology & Society, 15(3), 3–26.
 
 Business Source Premier (EBSCO), [online training], 4708 ::
 
-    Wan, Z., Compeau, D., & Haggerty, N. (2012). The Effects of Self-Regulated Learning Processes on E-Learning Outcomes in Organizational Settings. Journal of Management Information Systems, 29(1), 307–340.
+    Wan, Z., Compeau, D., & Haggerty, N. (2012). The Effects of Self-Regulated
+        Learning Processes on E-Learning Outcomes in Organizational Settings.
+        Journal of Management Information Systems, 29(1), 307–340.
 
-    Chio, K. S. (2012). Effective practices in providing online, in-service training to health professionals in low-resource settings. International Journal of Training & Development, 16(3), 228–234. doi:10.1111/j.1468-2419.2012.00406.x
+    Chio, K. S. (2012). Effective practices in providing online, in-service
+        training to health professionals in low-resource settings.
+        International Journal of Training & Development, 16(3), 228–234.
+        doi:10.1111/j.1468-2419.2012.00406.x
 
     Kamenetz, A. (2012). The Coursera Effect. Fast Company, (168), 98–118.
 
@@ -70,44 +79,58 @@ Search Engine, Search Terms, Result Count
 
 Google, [Online Learning], 861,000,000 ::
 
-    Means, B., Yukie Toyama, B. A., Murphy, Robert, Bakia, M., & Jones, K. (2010). Evaluation of Evidence-based Practices in Online Learning. Evaluation. Retrieved from http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf
+    Means, B., Yukie Toyama, B. A., Murphy, Robert, Bakia, M., & Jones, K.
+        (2010). Evaluation of Evidence-based Practices in Online Learning.
+        Evaluation. Retrieved from
+        http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf
 
 
 Google, ["Against School"], 715,000 ::
 
-    Gatto, J. T. (2003, September). Against School - John Taylor Gatto. Harper’s Magazine. Retrieved from http://www.wesjones.com/gatto1.htm
+    Gatto, J. T. (2003, September). Against School - John Taylor Gatto.
+        Harper’s Magazine. Retrieved from http://www.wesjones.com/gatto1.htm
 
 
 Harpers Magazine Search, [against school gatto], 8 ::
 
-    Gatto, J. T. (2003, September). Against school: How public education cripples our kids, and why. Harpers Magazine, 32–38.
+    Gatto, J. T. (2003, September). Against school: How public education
+        cripples our kids, and why. Harpers Magazine, 32–38.
 
 
 Google, [inurl:.edu online learning analytics], 63,900 ::
 
-    Stein, Z. (2012, August 13). Learning Analytics and the Learning Sciences. Retrieved September 16, 2012, from http://www.educause.edu/node/267647
+    Stein, Z. (2012, August 13). Learning Analytics and the Learning Sciences.
+        Retrieved September 16, 2012, from http://www.educause.edu/node/267647
 
 Bing, [coursera], 506,000 ::
 
-    Pedagogy. (n.d.).Coursera. Retrieved September 16, 2012, from http://www.coursera.org/
+    Pedagogy. (n.d.).Coursera. Retrieved September 16, 2012, from
+        http://www.coursera.org/
 
 Google, [edx.org], 2,600,000 ::
 
-    About edX. (n.d.). Retrieved September 16, 2012, from https://www.edx.org/about
+    About edX. (n.d.). Retrieved September 16, 2012, from
+        https://www.edx.org/about
 
 Yahoo, [opencourseware], 54,700,000 ::
 
-    About OCW. (n.d.).MIT OpenCourseWare. Retrieved September 16, 2012, from http://ocw.mit.edu/about/
+    About OCW. (n.d.).MIT OpenCourseWare. Retrieved September 16, 2012, from
+        http://ocw.mit.edu/about/
 
 Wikipedia, [self directed learning], 1 ::
 
-    Wikipedia contributors. (2012, September 16). Autodidacticism. Wikipedia, the free encyclopedia. Wikimedia Foundation, Inc. Retrieved from http://en.wikipedia.org/wiki/Autodidacticism
+    Wikipedia contributors. (2012, September 16). Autodidacticism. Wikipedia,
+        the free encyclopedia. Wikimedia Foundation, Inc. Retrieved from
+        http://en.wikipedia.org/wiki/Autodidacticism
 
 Wikipedia, [wikipedia accuracy], 1 ::
 
-    Wikipedia contributors. (2012, September 13). Reliability of Wikipedia. Wikipedia, the free encyclopedia. Wikimedia Foundation, Inc. Retrieved from http://en.wikipedia.org/wiki/Reliability_of_Wikipedia
+    Wikipedia contributors. (2012, September 13). Reliability of Wikipedia.
+        Wikipedia, the free encyclopedia. Wikimedia Foundation, Inc. Retrieved
+        from http://en.wikipedia.org/wiki/Reliability_of_Wikipedia
 
 ASk.com, [openbadges], ?? ::
 
-    About OpenBadges. (n.d.).Open Badges. Retrieved September 16, 2012, from http://openbadges.org/en-US/about.html
+    About OpenBadges. (n.d.).Open Badges. Retrieved September 16, 2012, from
+        http://openbadges.org/en-US/about.html
 
