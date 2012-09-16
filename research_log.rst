@@ -78,6 +78,11 @@ Business Source Premier (EBSCO), [online training], 4708 ::
 
     Kamenetz, A. (2012). The Coursera Effect. Fast Company, (168), 98–118.
 
+UNO Criss Library Availability
++++++++++++++++++++++++++++++++
+All of the above journal articles are available either in hardcopy,
+web-based fulltext, or web-based PDF form.
+
 
 Web Sites
 ~~~~~~~~~
