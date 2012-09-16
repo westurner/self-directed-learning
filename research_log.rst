@@ -23,6 +23,8 @@ Internet Searches
 
 Preliminary Research
 ---------------------
+Conducted September 16, 2012
+
 Requirements
 ~~~~~~~~~~~~~
 * 3 journal articles with proper citations
@@ -33,9 +35,31 @@ Journal Articles
 Database, Search Terms, # Articles, UNO Availability
 
 
+
 Web Sites
 ~~~~~~~~~
 Search Engine, Search Terms, Result Count
 
+Google, [Online Learning], 861,000,000 ::
 
+    Means, B., Yukie Toyama, B. A., Murphy, Robert, Bakia, M., & Jones, K. (2010). Evaluation of Evidence-based Practices in Online Learning. Evaluation. Retrieved from http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf
+
+
+Google, ["Against School"], 715,000 ::
+
+    Gatto, J. T. (2003, September). Against School - John Taylor Gatto. Harper’s Magazine. Retrieved from http://www.wesjones.com/gatto1.htm
+
+
+Harpers Magazine Search, [against school gatto], 8 ::
+
+    Gatto, J. T. (2003, September). Against school: How public education cripples our kids, and why. Harpers Magazine, 32–38.
+
+
+Google, [inurl:.edu online learning analytics], 63,900 ::
+
+    Stein, Z. (2012, August 13). Learning Analytics and the Learning Sciences. Retrieved September 16, 2012, from http://www.educause.edu/node/267647
+
+Bing, [coursera], 506,000 ::
+
+    Pedagogy. (n.d.).Coursera. Retrieved September 16, 2012, from http://www.coursera.org/
 
