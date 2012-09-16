@@ -1,18 +1,19 @@
-Research Memo
-==============
-ENGL3980: Technical Writing
+..  Research Memo
+    ==============
+..  centered ENGL3980: Technical Writing
 
 MEMORANDUM
+===========
+
 :Date: September 16, 2012
 :To: Sheri Hronek, ENGL3980 Students
 :From: Wes Turner
 :Subject: Assignment 2: Report Memo
 
+Report Subject
+---------------
 Subject
---------
-
-Subject
-~~~~~~~~
+~~~~~~~
 
 Purpose
 ~~~~~~~~
@@ -29,12 +30,8 @@ Personal Experience
 Challenges
 ~~~~~~~~~~~
 
-Research
----------
-Preliminary Research
-~~~~~~~~~~~~~~~~~~~~~
-.. subdocument:: research_log.rst
 
-Research Plan
-~~~~~~~~~~~~~~
-.. subdocument:: research_plan.rst
+.. include:: research_log.rst
+
+
+.. include:: research_plan.rst
