@@ -14,7 +14,7 @@ Journal Articles
 ~~~~~~~~~~~~~~~~~
 Database, Search Terms, # Articles, UNO Availability
 
-UNOmaha Criss Library Journal Search, [online learning], 4 journals::
+UNOmaha Criss Library Journal Search, [online learning], 4 journals ::
 
     Journal of Interactive Online Learning
     Journal of Online Learning and Teaching
@@ -23,7 +23,7 @@ UNOmaha Criss Library Journal Search, [online learning], 4 journals::
     Online journal of distance learning administration
 
 UNOmaha Criss Library Journal Search, [educational technology], 15
-journals::
+journals ::
 
     Australasian journal of educational technology
     British journal of educational technology  (0007-1013)
@@ -44,7 +44,7 @@ journals::
 
 Academic Search Premier (EBSCO), [SU: online learning], 1 result
 
-Academic Search Premier (EBSCO), [AB: online learning], 4543::
+Academic Search Premier (EBSCO), [AB: online learning], 4543 ::
 
     Shaw, R.-S. (2012). A study of the relationships among learning styles,
         participation types, and performance in programming language learning
