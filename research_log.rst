@@ -70,3 +70,11 @@ Yahoo, [opencourseware], 54,700,000 ::
 
     About OCW. (n.d.).MIT OpenCourseWare. Retrieved September 16, 2012, from http://ocw.mit.edu/about/
 
+Wikipedia, [self directed learning], 1 ::
+
+    Wikipedia contributors. (2012, September 16). Autodidacticism. Wikipedia, the free encyclopedia. Wikimedia Foundation, Inc. Retrieved from http://en.wikipedia.org/wiki/Autodidacticism
+
+Wikipedia, [wikipedia accuracy], 1 ::
+
+    Wikipedia contributors. (2012, September 13). Reliability of Wikipedia. Wikipedia, the free encyclopedia. Wikimedia Foundation, Inc. Retrieved from http://en.wikipedia.org/wiki/Reliability_of_Wikipedia
+
