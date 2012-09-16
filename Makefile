@@ -153,4 +153,6 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 build_deps_ubuntu:
-	sudo apt-get install -y texlive-latex-base rst2pdf
+	sudo apt-get install -y texlive-latex-base \
+							texlive-latex-recommended \
+							rst2pdf
