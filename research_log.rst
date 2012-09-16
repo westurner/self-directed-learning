@@ -78,3 +78,7 @@ Wikipedia, [wikipedia accuracy], 1 ::
 
     Wikipedia contributors. (2012, September 13). Reliability of Wikipedia. Wikipedia, the free encyclopedia. Wikimedia Foundation, Inc. Retrieved from http://en.wikipedia.org/wiki/Reliability_of_Wikipedia
 
+ASk.com, [openbadges], ?? ::
+
+    About OpenBadges. (n.d.).Open Badges. Retrieved September 16, 2012, from http://openbadges.org/en-US/about.html
+
