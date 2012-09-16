@@ -154,5 +154,7 @@ doctest:
 
 build_deps_ubuntu:
 	sudo apt-get install -y texlive-latex-base \
+							texlive-latex-extra \
 							texlive-latex-recommended \
+							texlive-fonts-recommended \
 							rst2pdf
