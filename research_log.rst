@@ -76,6 +76,8 @@ Business Source Premier (EBSCO), [online training], 4708 ::
 
     Chio, K. S. (2012). Effective practices in providing online, in-service training to health professionals in low-resource settings. International Journal of Training & Development, 16(3), 228–234. doi:10.1111/j.1468-2419.2012.00406.x
 
+    Kamenetz, A. (2012). The Coursera Effect. Fast Company, (168), 98–118.
+
 
 Web Sites
 ~~~~~~~~~
