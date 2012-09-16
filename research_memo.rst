@@ -1,5 +1,13 @@
 Research Memo
 ==============
+ENGL3980: Technical Writing
+
+MEMORANDUM
+:Date: September 16, 2012
+:To: Sheri Hronek, ENGL3980 Students
+:From: Wes Turner
+:Subject: Assignment 2: Report Memo
+
 Subject
 --------
 
@@ -25,8 +33,8 @@ Research
 ---------
 Preliminary Research
 ~~~~~~~~~~~~~~~~~~~~~
-.. include: research_log.rst
+.. subdocument:: research_log.rst
 
 Research Plan
 ~~~~~~~~~~~~~~
-.. include: research_plan.rst
+.. subdocument:: research_plan.rst
