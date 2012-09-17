@@ -48,6 +48,10 @@ Journal Searches are listed below in the following format::
         Conference on
     Online journal of distance learning administration
 
+.. raw:: pdf
+
+    PageBreak
+
 **UNOmaha Criss Library Journal Search :: [educational technology] :: 15 journals** ::
 
     Australasian journal of educational technology
@@ -147,6 +151,10 @@ to rearch the content of interest. In regards to ease of use, the site
 could benefit from more descriptive URLs. Given the .edu URL and
 institute listed by the speaker of this particular URL, I would consider
 the site trustworthy.
+
+.. raw:: pdf
+
+    PageBreak
 
 **Bing :: [coursera] :: 506,000 results** ::
 
