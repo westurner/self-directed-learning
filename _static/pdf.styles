@@ -354,12 +354,12 @@
 
     admonition:
       parent: normal
-      spaceBefore: 12
+      spaceBefore: 6
       spaceAfter: 6
       borderPadding: [16,16,16,16]
       backColor: beige
-      borderColor: darkgray
-      borderWidth: 0.5
+      borderColor: beige
+      borderWidth: 0
       commands:[]
              [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
 
