@@ -117,6 +117,14 @@ Web Searches are listed below in the following format::
         Evaluation. Retrieved from
         http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf
 
+I must assume content from the Department of Education (**ed.gov**) 
+to be credibly trustworthy. I found this report PDF in the first page of search results and had hoped that trimming the filename from the URL would
+redirect to a web page describing the resource. I would guess that
+accessibility policy determines the site resolution and font sizes required
+of agency web sites. Site search for the PDF title returned the PDF
+report as the first result. I like that the search field is placed at
+the top of the page, though it could be wider.
+
 **Google :: ["Against School"] :: 715,000 results** ::
 
     Gatto, J. T. (2003, September). Against School - John Taylor Gatto.
@@ -132,20 +140,43 @@ Web Searches are listed below in the following format::
     Stein, Z. (2012, August 13). Learning Analytics and the Learning Sciences.
         Retrieved September 16, 2012, from http://www.educause.edu/node/267647
 
+The content hosted by **educause.edu** is of superb helpfulness in regards
+to my proposed research subject. While it is unfair to judge design from
+a netbook, the expansive site header requires scrolling below the fold
+to rearch the content of interest. In regards to ease of use, the site
+could benefit from more descriptive URLs. Given the .edu URL and
+institute listed by the speaker of this particular URL, I would consider
+the site trustworthy.
+
 **Bing :: [coursera] :: 506,000 results** ::
 
     Pedagogy. (n.d.).Coursera. Retrieved September 16, 2012, from
         http://www.coursera.org/
+
+The content hosted by **coursera.org** is of extreme quality.
+Instructors at top-tier universities are truly delivering credible
+content. The site design is very effective in presenting the courses and course descriptions without extra noise. The use of Twitter bootstrap for
+buttons gives the design a familiar look and feel, as well as a simply
+usable interface.
 
 **Google :: [edx.org] :: 2,600,000 results** ::
 
     About edX. (n.d.). Retrieved September 16, 2012, from
         https://www.edx.org/about
 
+The content hosted by **edx.org** is of extreme quality. Instructors at
+MIT, Harvard, and UC Berkeley are truly delivering credbile content. The
+course descriptions present the most relevant information at first
+glance, with a well-designed, easy to use set of graphical icons as well
+as video up front.
+
 **Yahoo :: [opencourseware] :: 54,700,000 results** ::
 
     About OCW. (n.d.).MIT OpenCourseWare. Retrieved September 16, 2012, from
         http://ocw.mit.edu/about/
+
+The content hosted by **ocw.mit.edu** is of extreme quality. Instructors
+at MIT have been delivering credible, quality course content and materials for a number of years. While I do appreciate the site design, the fonts could be a little larger for my tastes. The tree of links on the sidebar makes the breadth of content very approachable.
 
 **Wikipedia :: [self directed learning] :: 1 result** ::
 
