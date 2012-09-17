@@ -35,32 +35,6 @@ I would interview:
 - An individual with firsthand experience regarding the
   challenges of traditional STEM education
 
-Budget
--------
-**Direct Costs**
-
-===========  ==========
-   Item         Cost
-===========  ==========
-Photopaper   10.00
-Index Cards  5.00
-Parking      5.00
-Books        50.00
-Articles     45.00
-**Total**    **105.00**
-===========  ==========
-
-**Subsidized Costs**
-
-=========== ===========
-   Item        Cost
-=========== ===========
-Tuition     923.00
-Internet    200.00
-Electrical  20.00
-**Total**   **1153.00**
-=========== ===========
-
 Schedule
 ---------
 
@@ -109,3 +83,28 @@ Schedule
      - Presentation
      - December 2, 2012
 
+Budget
+-------
+**Direct Costs**
+
+===========  ==========
+   Item         Cost
+===========  ==========
+Photopaper   10.00
+Index Cards  5.00
+Parking      5.00
+Books        50.00
+Articles     45.00
+**Total**    **105.00**
+===========  ==========
+
+**Subsidized Costs**
+
+=========== ===========
+   Item        Cost
+=========== ===========
+Tuition     923.00
+Internet    200.00
+Electrical  20.00
+**Total**   **1153.00**
+=========== ===========
