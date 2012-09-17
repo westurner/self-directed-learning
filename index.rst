@@ -1,21 +1,24 @@
-..  Research Memo
-    ==============
-..  centered: ENGL3980: Technical Writing
 
 MEMORANDUM
 ===========
+ENGL3980: Technical Writing
 
 :Date: September 16, 2012
 :To: Sheri Hronek, ENGL3980 Students
 :From: Wes Turner
 :Subject: Assignment 2: Report Memo
 
+This memo addresses my Report Subject, Research Log, and Research Plan
+for my proposed report on Self-Directed Learning with Online Resources.
+
+.. contents::
+
 Report Subject
----------------
+==============
 Self-Directed Learning with Online Resources
 
 Subject
-~~~~~~~
+-------
 I formally request your permission to write about Self-Directed Learning
 with Online Resources. The report would address challenges, opportunities,
 and strategies for learning online by reviewing implementations of and
@@ -51,7 +54,7 @@ mathematically capable (4) stakeholders in their community.
 
 
 Terms
-++++++
+~~~~~~
 :Self-directed:
     Control of and responsibility for how, what, and when
 
@@ -62,7 +65,7 @@ Terms
     Science, Technology, Engineering, and Mathematics
 
 Purpose
-~~~~~~~~
+--------
 The report's purpose would be twofold:
 
 1. Help lifelong learners acquire valuable skills by learning to learn
@@ -72,7 +75,7 @@ The report's purpose would be twofold:
 
 
 Audience Profile
-~~~~~~~~~~~~~~~~~
+-----------------
 **Audience Identity and Needs**
 
 :Primary Audience:
@@ -155,7 +158,7 @@ Audience Profile
     Cautious
 
 Scope
-~~~~~~
+------
 The report would address challenges, opportunites, and strategies for 
 reaping returns from online resources.
 
@@ -164,7 +167,7 @@ reaping returns from online resources.
  - Strategies
 
 Personal Experience
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 The interwebs have allowed me to acquire knowledge, skills, and wisdom
 on my own. Through the generosity and attention-seeking of online
 resource creators, I have learned to:
@@ -178,7 +181,7 @@ resource creators, I have learned to:
 I would like to give back.
 
 Challenges
-~~~~~~~~~~~
+-----------
 With self-directed learning, the relation between student and instructor
 may be less defined. Self-motivated learning and exploration require
 students to assume some of the roles that a formalized instructor
