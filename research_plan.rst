@@ -50,7 +50,7 @@ Articles     45.00
 **Subsidized Costs**
 
 =========== ===========
-Item        Cost
+   Item        Cost
 =========== ===========
 Tuition     923.00
 Internet    200.00
