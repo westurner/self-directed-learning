@@ -162,7 +162,10 @@ rst2pdf_build_deps_ubuntu:
 	sudo apt-get install -y rst2pdf
 
 rst2pdf:
-	rst2pdf --stylesheets=_static/pdf.styles index.rst -o _build/index.pdf
+	rst2pdf --break-level=1 \
+			--stylesheets=_static/pdf.styles \
+			--repeat-table-rows \
+			index.rst -o _build/index.pdf
 
 rst2pdf_open:
 	evince _build/index.pdf
