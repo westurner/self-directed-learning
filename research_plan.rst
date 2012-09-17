@@ -41,7 +41,6 @@ I would interview:
 
 Schedule
 ---------
-
 .. list-table:: Research Schedule
    :header-rows: 1
 
@@ -101,14 +100,3 @@ Books        50.00
 Articles     45.00
 **Total**    **105.00**
 ===========  ==========
-
-**Subsidized Costs**
-
-=========== ===========
-   Item        Cost
-=========== ===========
-Tuition     923.00
-Internet    200.00
-Electrical  20.00
-**Total**   **1153.00**
-=========== ===========
