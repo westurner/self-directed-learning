@@ -24,13 +24,16 @@ cited in my research log.
 Primary Research
 ~~~~~~~~~~~~~~~~~
 In search of real human perspective from primary sources,
-I would conduct interview of prior and current students from a range of
+I would conduct interviews of prior and current students from a range of
 generations and learning backgrounds.
 
-I would like to interview an individual from the information technology
-industry with a perspective on lifelong education, a STEM instructor,
-and an individual with firsthand experience regarding the
-challenges of traditional STEM education.
+I would interview:
+
+- An individual from the information technology industry with a perspective
+  on lifelong education
+- A STEM instructor
+- An individual with firsthand experience regarding the
+  challenges of traditional STEM education
 
 Budget
 -------
@@ -60,6 +63,7 @@ Electrical  20.00
 
 Schedule
 ---------
+
 .. list-table:: Research Schedule
    :header-rows: 1
 
@@ -79,4 +83,29 @@ Schedule
      - 1 week
    * - Primary: Interview: STEM Student
      - 1 week
+
+.. list-table:: Report Schedule
+   :header-rows: 1
+
+   * - Assignment #
+     - Deliverable
+     - Due Date
+   * - 2
+     - Report Subject & Research Strategy
+     - September 16, 2012
+   * - 3
+     - Proposal & Detailed Outline
+     - September 30, 2012
+   * - 4
+     - Report Draft
+     - October 14, 2012
+   * - 5
+     - Report Design
+     - October 21, 2012
+   * -
+     - Final Report
+     - November 18, 2012
+   * -
+     - Presentation
+     - December 2, 2012
 
