@@ -1,0 +1,4912 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 49 0 R
+ /F4 50 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 48 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 576.7736
+ 138.2329
+ 588.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 48 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 576.7736
+ 532.5827
+ 588.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 558.7736
+ 133.8129
+ 570.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 558.7736
+ 532.5827
+ 570.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 702.0236
+ 0 ]
+ /Rect [ 82.69291
+ 540.7736
+ 116.0429
+ 552.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 702.0236
+ 0 ]
+ /Rect [ 527.0227
+ 540.7736
+ 532.5827
+ 552.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Rect [ 102.6929
+ 522.7736
+ 131.0229
+ 534.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Rect [ 527.0227
+ 522.7736
+ 532.5827
+ 534.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 246.0236
+ 0 ]
+ /Rect [ 82.69291
+ 504.7736
+ 119.9329
+ 516.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 246.0236
+ 0 ]
+ /Rect [ 527.0227
+ 504.7736
+ 532.5827
+ 516.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 52 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 82.69291
+ 486.7736
+ 155.5029
+ 498.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 52 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 486.7736
+ 532.5827
+ 498.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 582.0236
+ 0 ]
+ /Rect [ 82.69291
+ 468.7736
+ 111.0429
+ 480.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 582.0236
+ 0 ]
+ /Rect [ 527.0227
+ 468.7736
+ 532.5827
+ 480.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 82.69291
+ 450.7736
+ 174.9529
+ 462.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 527.0227
+ 450.7736
+ 532.5827
+ 462.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 294.0236
+ 0 ]
+ /Rect [ 82.69291
+ 432.7736
+ 132.7129
+ 444.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 294.0236
+ 0 ]
+ /Rect [ 527.0227
+ 432.7736
+ 532.5827
+ 444.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 414.7736
+ 128.8229
+ 426.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 414.7736
+ 532.5827
+ 426.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 82.69291
+ 396.7736
+ 178.2629
+ 408.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 527.0227
+ 396.7736
+ 532.5827
+ 408.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 654.0236
+ 0 ]
+ /Rect [ 102.6929
+ 378.7736
+ 164.9329
+ 390.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 654.0236
+ 0 ]
+ /Rect [ 527.0227
+ 378.7736
+ 532.5827
+ 390.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 495.0236
+ 0 ]
+ /Rect [ 102.6929
+ 360.7736
+ 153.8229
+ 372.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 495.0236
+ 0 ]
+ /Rect [ 527.0227
+ 360.7736
+ 532.5827
+ 372.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+30 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 335.8236
+ 0 ]
+ /Rect [ 102.6929
+ 342.7736
+ 140.4829
+ 354.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+31 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 335.8236
+ 0 ]
+ /Rect [ 527.0227
+ 342.7736
+ 532.5827
+ 354.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class LinkAnnotation 
+32 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 55 0 R
+ /XYZ
+ 62.69291
+ 512.8236
+ 0 ]
+ /Rect [ 102.6929
+ 324.7736
+ 171.0429
+ 336.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER30': class LinkAnnotation 
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 55 0 R
+ /XYZ
+ 62.69291
+ 512.8236
+ 0 ]
+ /Rect [ 527.0227
+ 324.7736
+ 532.5827
+ 336.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER31': class LinkAnnotation 
+34 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 56 0 R
+ /XYZ
+ 62.69291
+ 646.0236
+ 0 ]
+ /Rect [ 102.6929
+ 306.7736
+ 148.2629
+ 318.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER32': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 56 0 R
+ /XYZ
+ 62.69291
+ 646.0236
+ 0 ]
+ /Rect [ 527.0227
+ 306.7736
+ 532.5827
+ 318.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER33': class LinkAnnotation 
+36 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 288.7736
+ 131.6129
+ 300.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER34': class LinkAnnotation 
+37 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 288.7736
+ 532.5827
+ 300.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER35': class LinkAnnotation 
+38 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 82.69291
+ 270.7736
+ 119.9329
+ 282.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER36': class LinkAnnotation 
+39 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 527.0227
+ 270.7736
+ 532.5827
+ 282.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER37': class LinkAnnotation 
+40 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 660.0236
+ 0 ]
+ /Rect [ 102.6929
+ 252.7736
+ 196.0629
+ 264.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER38': class LinkAnnotation 
+41 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 660.0236
+ 0 ]
+ /Rect [ 527.0227
+ 252.7736
+ 532.5827
+ 264.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER39': class LinkAnnotation 
+42 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 525.0236
+ 0 ]
+ /Rect [ 102.6929
+ 234.7736
+ 182.7029
+ 246.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER40': class LinkAnnotation 
+43 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 525.0236
+ 0 ]
+ /Rect [ 527.0227
+ 234.7736
+ 532.5827
+ 246.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER41': class LinkAnnotation 
+44 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 82.69291
+ 216.7736
+ 124.3829
+ 228.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER42': class LinkAnnotation 
+45 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 521.4627
+ 216.7736
+ 532.5827
+ 228.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER43': class LinkAnnotation 
+46 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Rect [ 82.69291
+ 198.7736
+ 114.3829
+ 210.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER44': class LinkAnnotation 
+47 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Rect [ 521.4627
+ 198.7736
+ 532.5827
+ 210.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+48 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R
+ 32 0 R
+ 33 0 R
+ 34 0 R
+ 35 0 R
+ 36 0 R
+ 37 0 R
+ 38 0 R
+ 39 0 R
+ 40 0 R
+ 41 0 R
+ 42 0 R
+ 43 0 R
+ 44 0 R
+ 45 0 R
+ 46 0 R
+ 47 0 R ]
+ /Contents 87 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+49 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+50 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+51 0 obj
+% Page dictionary
+<< /Contents 88 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+52 0 obj
+% Page dictionary
+<< /Contents 89 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+53 0 obj
+% Page dictionary
+<< /Contents 90 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+54 0 obj
+% Page dictionary
+<< /Contents 91 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+55 0 obj
+% Page dictionary
+<< /Contents 92 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+56 0 obj
+% Page dictionary
+<< /Contents 93 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+57 0 obj
+% Page dictionary
+<< /Contents 94 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER45': class LinkAnnotation 
+58 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 338.3236
+ 0 ]
+ /Rect [ 165.5329
+ 567.7736
+ 206.1029
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page9': class PDFPage 
+59 0 obj
+% Page dictionary
+<< /Annots [ 58 0 R ]
+ /Contents 95 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+60 0 obj
+% Page dictionary
+<< /Contents 96 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 86 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R61': class PDFCatalog 
+61 0 obj
+% Document Root
+<< /Outlines 63 0 R
+ /PageLabels 97 0 R
+ /PageMode /UseNone
+ /Pages 86 0 R
+ /Type /Catalog >>
+endobj
+% 'R62': class PDFInfo 
+62 0 obj
+<< /Author ()
+ /CreationDate (D:20120916220128+06'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R63': class PDFOutlines 
+63 0 obj
+<< /Count 28
+ /First 64 0 R
+ /Last 80 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+64 0 obj
+<< /Dest [ 48 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 65 0 R
+ /Parent 63 0 R
+ /Title (MEMORANDUM) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+65 0 obj
+<< /Count 7
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /First 66 0 R
+ /Last 72 0 R
+ /Next 73 0 R
+ /Parent 63 0 R
+ /Prev 64 0 R
+ /Title (Report Subject) >>
+endobj
+% 'Outline.23.0': class OutlineEntryObject 
+66 0 obj
+<< /Count 1
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 702.0236
+ 0 ]
+ /First 67 0 R
+ /Last 67 0 R
+ /Next 68 0 R
+ /Parent 65 0 R
+ /Title (Subject) >>
+endobj
+% 'Outline.24.0': class OutlineEntryObject 
+67 0 obj
+<< /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Parent 66 0 R
+ /Title (Terms) >>
+endobj
+% 'Outline.23.1': class OutlineEntryObject 
+68 0 obj
+<< /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 246.0236
+ 0 ]
+ /Next 69 0 R
+ /Parent 65 0 R
+ /Prev 66 0 R
+ /Title (Purpose) >>
+endobj
+% 'Outline.23.2': class OutlineEntryObject 
+69 0 obj
+<< /Dest [ 52 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 70 0 R
+ /Parent 65 0 R
+ /Prev 68 0 R
+ /Title (Audience Profile) >>
+endobj
+% 'Outline.23.3': class OutlineEntryObject 
+70 0 obj
+<< /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 582.0236
+ 0 ]
+ /Next 71 0 R
+ /Parent 65 0 R
+ /Prev 69 0 R
+ /Title (Scope) >>
+endobj
+% 'Outline.23.4': class OutlineEntryObject 
+71 0 obj
+<< /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Next 72 0 R
+ /Parent 65 0 R
+ /Prev 70 0 R
+ /Title (Personal Experience) >>
+endobj
+% 'Outline.23.5': class OutlineEntryObject 
+72 0 obj
+<< /Dest [ 53 0 R
+ /XYZ
+ 62.69291
+ 294.0236
+ 0 ]
+ /Parent 65 0 R
+ /Prev 71 0 R
+ /Title (Challenges) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+73 0 obj
+<< /Count 6
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /First 74 0 R
+ /Last 74 0 R
+ /Next 80 0 R
+ /Parent 63 0 R
+ /Prev 65 0 R
+ /Title (Research Log) >>
+endobj
+% 'Outline.25.0': class OutlineEntryObject 
+74 0 obj
+<< /Count 5
+ /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /First 75 0 R
+ /Last 79 0 R
+ /Parent 73 0 R
+ /Title (Preliminary Research) >>
+endobj
+% 'Outline.26.0': class OutlineEntryObject 
+75 0 obj
+<< /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 654.0236
+ 0 ]
+ /Next 76 0 R
+ /Parent 74 0 R
+ /Title (Requirements) >>
+endobj
+% 'Outline.26.1': class OutlineEntryObject 
+76 0 obj
+<< /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 495.0236
+ 0 ]
+ /Next 77 0 R
+ /Parent 74 0 R
+ /Prev 75 0 R
+ /Title (References) >>
+endobj
+% 'Outline.26.2': class OutlineEntryObject 
+77 0 obj
+<< /Dest [ 54 0 R
+ /XYZ
+ 62.69291
+ 335.8236
+ 0 ]
+ /Next 78 0 R
+ /Parent 74 0 R
+ /Prev 76 0 R
+ /Title (Journals) >>
+endobj
+% 'Outline.26.3': class OutlineEntryObject 
+78 0 obj
+<< /Dest [ 55 0 R
+ /XYZ
+ 62.69291
+ 512.8236
+ 0 ]
+ /Next 79 0 R
+ /Parent 74 0 R
+ /Prev 77 0 R
+ /Title (Journal Articles) >>
+endobj
+% 'Outline.26.4': class OutlineEntryObject 
+79 0 obj
+<< /Dest [ 56 0 R
+ /XYZ
+ 62.69291
+ 646.0236
+ 0 ]
+ /Parent 74 0 R
+ /Prev 78 0 R
+ /Title (Web Sites) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+80 0 obj
+<< /Count 5
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /First 81 0 R
+ /Last 85 0 R
+ /Parent 63 0 R
+ /Prev 73 0 R
+ /Title (Research Plan) >>
+endobj
+% 'Outline.27.0': class OutlineEntryObject 
+81 0 obj
+<< /Count 2
+ /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /First 82 0 R
+ /Last 83 0 R
+ /Next 84 0 R
+ /Parent 80 0 R
+ /Title (Strategy) >>
+endobj
+% 'Outline.28.0': class OutlineEntryObject 
+82 0 obj
+<< /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 660.0236
+ 0 ]
+ /Next 83 0 R
+ /Parent 81 0 R
+ /Title (Secondary Research) >>
+endobj
+% 'Outline.28.1': class OutlineEntryObject 
+83 0 obj
+<< /Dest [ 59 0 R
+ /XYZ
+ 62.69291
+ 525.0236
+ 0 ]
+ /Parent 81 0 R
+ /Prev 82 0 R
+ /Title (Primary Research) >>
+endobj
+% 'Outline.27.1': class OutlineEntryObject 
+84 0 obj
+<< /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 85 0 R
+ /Parent 80 0 R
+ /Prev 81 0 R
+ /Title (Schedule) >>
+endobj
+% 'Outline.27.2': class OutlineEntryObject 
+85 0 obj
+<< /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Parent 80 0 R
+ /Prev 84 0 R
+ /Title (Budget) >>
+endobj
+% 'R86': class PDFPages 
+86 0 obj
+% page tree
+<< /Count 10
+ /Kids [ 48 0 R
+ 51 0 R
+ 52 0 R
+ 53 0 R
+ 54 0 R
+ 55 0 R
+ 56 0 R
+ 57 0 R
+ 59 0 R
+ 60 0 R ]
+ /Type /Pages >>
+endobj
+% 'R87': class PDFStream 
+87 0 obj
+% page stream
+<< /Length 7606 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (MEMORANDUM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (September 16, 2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 57.48937 0 Td (To:) Tj T* -57.48937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sheri Hronek, ENGL3980 Students) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 44.70937 0 Td (From:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wes Turner) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 33.58937 0 Td (Subject:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Assignment 2: Report Memo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.275984 Tw (This memo includes the Report Subject, Research Log, and Research Plan for my proposed report on) Tj T* 0 Tw (Self-Directed Learning with Online Resources.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 381 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (MEMORANDUM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 381 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 363 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Report Subject) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 363 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 345 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Subject) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 345 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 327 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 327 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 309 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 309 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 291 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Audience Profile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 291 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 273 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 273 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 255 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Personal Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 255 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 237 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 237 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Research Log) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Preliminary Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Journals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Journal Articles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Web Sites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Research Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Strategy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Secondary Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Primary Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Budget) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 1/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R88': class PDFStream 
+88 0 obj
+% page stream
+<< /Length 7449 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Report Subject) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Self-Directed Learning with Online Resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Subject) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .019983 Tw (I formally request your permission to write about Self-Directed Learning with Online Resources. The report) Tj T* 0 Tw .679069 Tw (would address challenges, opportunities, and strategies for learning online by reviewing implementations) Tj T* 0 Tw (of and empirical research regarding online-based instruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.889213 Tw 12 TL /F1 10 Tf 0 0 0 rg (According to the Fact Sheet accompanying the President's Council of Advisors on Science and) Tj T* 0 Tw 1.50248 Tw (Technology \(PCAST\) February 2012 report entitled ) Tj /F3 10 Tf (Engage to Excel: Producing One Million Additional) Tj T* 0 Tw (College Graduates With Degrees in Science, Technology, Engineering, and Mathematics) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.299985 Tw (Fewer than 40 percent of students who enter college intending to major in a STEM field complete) Tj T* 0 Tw (college with a STEM degree today.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.387674 Tw (The PCAST STEM Report proposes four policy recommendations for increasing the retention rate and) Tj T* 0 Tw (thereby producing one million additional college graduates with degrees in STEM fields.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 132 cm
+Q
+q
+1 0 0 1 20 132 cm
+Q
+q
+1 0 0 1 20 120 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (catalyze widespread adoption of empirically validated teaching practices;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.448976 Tw (advocate and provide support for replacing standard laboratory courses with discovery-based) Tj T* 0 Tw (research courses;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.892976 Tw (launch a national experiment in postsecondary mathematics education to address the) Tj T* 0 Tw (mathematics-preparation gap;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (encourage partnerships among stakeholders to diversify pathways to STEM careers; and) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.829147 Tw (create a Presidential Council on STEM Education with leadership from the academic and) Tj T* 0 Tw .337976 Tw (business communities to provide strategic leadership for transformative and sustainable change) Tj T* 0 Tw (in STEM undergraduate education.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .733555 Tw (The report would address how students can \(1\) learn using empirically validated teaching practices from) Tj T* 0 Tw 4.775433 Tw (\(2\) discovery-based online resources in order to \(3\) transform themselves into foward-thinking,) Tj T* 0 Tw (mathematically capable \(4\) stakeholders in their community.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.13937 0 Td (Self-directed:) Tj T* -9.13937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Control of and responsibility for how, what, and when) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 41.91937 0 Td (Online) Tj T* -23.34 0 Td (Resources:) Tj T* -18.57937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Web Sites, Web Applications, and Computer-Based Information Resources) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 258.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 41.92937 0 Td (STEM:) Tj T* -41.92937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Science, Technology, Engineering, and Mathematics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The report's purpose would be twofold:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Help lifelong learners acquire valuable skills by learning to learn with online resources.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide perspective for instructors interested in adapting and leveraging online resources.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 2/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R89': class PDFStream 
+89 0 obj
+% page stream
+<< /Length 7593 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 735.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Audience Profile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Audience Identity and Needs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 35.79937 0 Td (Primary) Tj T* -11.1 0 Td (Audience:) Tj T* -24.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Layperson Students / Lifelong Learners) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 21.90937 0 Td (Secondary) Tj T* 2.79 0 Td (Audience:) Tj T* -24.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ENGL3980 Peers, Instructor) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.69937 0 Td (Relationship:) Tj T* -9.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Peer, Co-Learner) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 3.02937 0 Td (Purpose of the) Tj T* 18.9 0 Td (document:) Tj T* -21.92937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Analyze Online Learning Challenges, Opportunities, and Strategies) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 11.35937 0 Td (Intended use) Tj T* -1.65 0 Td (of document:) Tj T* -9.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learning) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 26.90937 0 Td (Technical) Tj T* -15.54 0 Td (Background:) Tj T* -11.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Layperson) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 49.69937 0 Td (Prior) Tj T* -33.33 0 Td (Knowledge:) Tj T* -16.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Computer and Web Skills) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 24.14937 0 Td (Additional) Tj T* -6.11 0 Td (Information) Tj T* 15.55 0 Td (Needed:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 30.24937 0 Td (Probable) Tj T* -9.44 0 Td (Questions:) Tj T* -20.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How is this relevant to my continuing education and lifelong learning?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Audience's Probable Attitude and Personality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 35.26937 0 Td (Attitude) Tj T* -30.57 0 Td (Toward Topic:) Tj T* -4.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Curious) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 30.24937 0 Td (Probable) Tj T* -12.22 0 Td (Objections:) Tj T* -18.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Change) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 30.24937 0 Td (Probable) Tj T* 5.02 0 Td (Attitude) Tj T* 2.21 0 Td (Toward) Tj T* -0.54 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Benevolent) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 3.57937 0 Td (Organizational) Tj T* 30.01 0 Td (Climate:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adapting) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 7.46937 0 Td (Persons Most) Tj T* 22.24 0 Td (Affected:) Tj T* -29.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Grade Receiver) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 4.13937 0 Td (Temperament:) Tj T* -4.13937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Amiable) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 30.24937 0 Td (Probable) Tj T* -2.77 0 Td (Reaction:) Tj T* -27.47937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I want to try that.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 39.69937 0 Td (Risk of) Tj T* -15 0 Td (Alienating) Tj T* 8.34 0 Td (Anyone:) Tj T* -33.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Low Risk) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Audience Expectations about the Document) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 36.91937 0 Td (Reason) Tj T* -12.77 0 Td (Document) Tj T* -4.45 0 Td (Originated:) Tj T* -19.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Course Requirement -) Tj (> Need for STEM Personnel) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 114.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 16.90937 0 Td (Reasonable) Tj T* 19.47 0 Td (Length:) Tj T* -36.37937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15+ Pages) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 3/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R90': class PDFStream 
+90 0 obj
+% page stream
+<< /Length 6738 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 714.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 35.24937 0 Td (Material) Tj T* -20.54 0 Td (Important to) Tj T* -10.57 0 Td (this Audience:) Tj T* -4.13937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paycheck) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 45.81937 0 Td (Tone:) Tj T* -45.81937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Helpfully Analytical) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 35.25937 0 Td (Cultural) Tj T* -38.34 0 Td (Considerations:) Tj T* 3.08063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 31.36937 0 Td (Intended) Tj T* 10.56 0 Td (Effect:) Tj T* -41.92937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Interest in pursuing self-directed online learning) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Audience's Probable Attitude and Personality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 35.26937 0 Td (Attitude) Tj T* -30.57 0 Td (Toward Topic:) Tj T* -4.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cautious) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.354147 Tw (The report would address challenges, opportunites, and strategies for reaping returns from online) Tj T* 0 Tw (resources.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Challenges) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Opportunities) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Strategies) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Personal Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.351318 Tw (The interwebs have allowed me to acquire knowledge, skills, and wisdom on my own. Through the) Tj T* 0 Tw (generosity and attention-seeking of online resource creators, I have learned to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create Websites with HTML, CSS, and Javascript) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write code in Various Programming Languages) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Edit Video) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Interpret Stories) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pass Math Class) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I would like to give back.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 5.438314 Tw (With self-directed learning, the relation between student and instructor may be less defined.) Tj T* 0 Tw 1.20784 Tw (Self-motivated learning and exploration require students to assume some of the roles that a formalized) Tj T* 0 Tw (instructor fulfills.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.12561 Tw (It may be difficult to address our Prussian tendencies in relation to both creativity and the achievement) Tj T* 0 Tw (gap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 4/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R91': class PDFStream 
+91 0 obj
+% page stream
+<< /Length 5505 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Research Log) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Preliminary Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Conducted September 16, 2012.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Citations are in APA format. If you find a citation error, I welcome your feedback.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3 Journal Articles with Proper Citations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4 Web Sites \(.gov, .org, .edu, .com\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Evaluate 4 Web Sites in Paragraph Form for:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Content) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Design) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ease of Use) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Credibility) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 347.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 124 re f*
+Q
+q
+BT 1 0 0 1 0 98 Tm 12 TL /F1 10 Tf 0 0 0 rg (President\222s Council of Advisors on Science and Technology. \(2012\).) Tj T* (    Engage to Excel: Producing One Million Additional College Graduates) Tj T* (    With Degrees in Science, Technology, Engineering, And Mathematics.) Tj T* (    OSTP: President\222s Council of Advisors on Science and Technology.) Tj T*  T* (Means, B., Yukie Toyama, B. A., Murphy, Robert, Bakia, M., ) Tj (&) Tj ( Jones, K.) Tj T* (    \(2010\). Evaluation of Evidence-based Practices in Online Learning.) Tj T* (    Evaluation. Retrieved from) Tj T* (    http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 320.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Journals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 302.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Journal Searches are listed below in the following format:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 28 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Database :: [Search Terms] :: # Journals) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 246.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (UNOmaha Criss Library Journal Search :: [online learning] :: 4 journals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 76 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (Journal of Interactive Online Learning) Tj T* (Journal of Online Learning and Teaching) Tj T* (Mobile, Hybrid, and On-line Learning \(ELML\), International) Tj T* (    Conference on) Tj T* (Online journal of distance learning administration) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 154.4236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 5/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R92': class PDFStream 
+92 0 obj
+% page stream
+<< /Length 4500 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (UNOmaha Criss Library Journal Search :: [educational technology] :: 15 journals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 208 re f*
+Q
+q
+BT 1 0 0 1 0 182 Tm 12 TL /F1 10 Tf 0 0 0 rg (Australasian journal of educational technology) Tj T* (British journal of educational technology) Tj T* (Cabell's directory of publishing opportunities in educational technology) Tj T* (    and library science) Tj T* (Contemporary educational technology) Tj T* (Educational and Information Technology \(ICEIT\), International Conference on) Tj T* (Educational media and technology yearbook) Tj T* (Educational technology) Tj T* (Educational technology ) Tj (&) Tj ( society) Tj T* (Educational technology research and development) Tj T* (Information and Communication Technology in Educational Sciences) Tj T* (International Journal of Educational Research and Technology) Tj T* (Journal of educational technology systems) Tj T* (Journal of the Research Center for Educational Technology) Tj T* (TOJET the Turkish online journal of educational technology) Tj T* (World Journal on Educational Technology) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 497.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Journal Articles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 479.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Journal Articles are listed below in the following format:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 443.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 28 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Database :: [Search Terms] :: # Articles) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 423.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Academic Search Premier \(EBSCO\) :: [SU: online learning] :: 1 result) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 28 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Not Relevant) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 367.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Academic Search Premier \(EBSCO\) :: [AB: online learning] :: 4543 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 259.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 100 re f*
+Q
+q
+BT 1 0 0 1 0 74 Tm 12 TL /F1 10 Tf 0 0 0 rg (Shaw, R.-S. \(2012\). A study of the relationships among learning styles,) Tj T* (    participation types, and performance in programming language learning) Tj T* (    supported by online forums. Computers ) Tj (&) Tj ( Education, 58\(1\), 111\226120.) Tj T* (    doi:10.1016/j.compedu.2011.08.013) Tj T*  T* (Shum, S. B., ) Tj (&) Tj ( Ferguson, R. \(2012\). Social Learning Analytics.) Tj T* (    Journal of Educational Technology ) Tj (&) Tj ( Society, 15\(3\), 3\22626.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 239.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Business Source Premier \(EBSCO\) :: [online training] :: 4708 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 95.02362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 136 re f*
+Q
+q
+BT 1 0 0 1 0 110 Tm 12 TL /F1 10 Tf 0 0 0 rg (Wan, Z., Compeau, D., ) Tj (&) Tj ( Haggerty, N. \(2012\). The Effects of Self-Regulated) Tj T* (    Learning Processes on E-Learning Outcomes in Organizational Settings.) Tj T* (    Journal of Management Information Systems, 29\(1\), 307\226340.) Tj T*  T* (Chio, K. S. \(2012\). Effective practices in providing online, in-service) Tj T* (    training to health professionals in low-resource settings.) Tj T* (    International Journal of Training ) Tj (&) Tj ( Development, 16\(3\), 228\226234.) Tj T* (    doi:10.1111/j.1468-2419.2012.00406.x) Tj T*  T* (Kamenetz, A. \(2012\). The Coursera Effect. Fast Company, \(168\), 98\226118.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 6/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R93': class PDFStream 
+93 0 obj
+% page stream
+<< /Length 5357 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 664.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.286136 Tw (All of the preceding journal articles are available either in hardcopy, web-based fulltext, or) Tj T* 0 Tw (web-based PDF form through the UNO Criss Library.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.960784 .960784 .862745 RG
+0 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 658.0236 cm
+Q
+q
+1 0 0 1 62.69291 631.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Web Sites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 613.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Web Searches are listed below in the following format:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 28 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Search Engine :: [Search Terms] :: Result Count) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 556.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Google :: [Online Learning] :: 861,000,000 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 484.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 64 re f*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F1 10 Tf 0 0 0 rg (Means, B., Yukie Toyama, B. A., Murphy, Robert, Bakia, M., ) Tj (&) Tj ( Jones, K.) Tj T* (    \(2010\). Evaluation of Evidence-based Practices in Online Learning.) Tj T* (    Evaluation. Retrieved from) Tj T* (    http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 404.6236 cm
+q
+BT 1 0 0 1 0 62 Tm .397485 Tw 12 TL /F1 10 Tf 0 0 0 rg (I must assume content from the Department of Education \() Tj /F2 10 Tf (ed.gov) Tj /F1 10 Tf (\) to be credibly trustworthy. I found this) Tj T* 0 Tw 1.341098 Tw (report PDF in the first page of search results and had hoped that trimming the filename from the URL) Tj T* 0 Tw .831984 Tw (would redirect to a web page describing the resource. I would guess that accessibility policy determines) Tj T* 0 Tw .691654 Tw (the site resolution and font sizes required of agency web sites. Site search for the PDF title returned the) Tj T* 0 Tw .201729 Tw (PDF report as the first result. I like that the search field is placed at the top of the page, though it could be) Tj T* 0 Tw (wider.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Google :: ["Against School"] :: 715,000 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Gatto, J. T. \(2003, September\). Against School - John Taylor Gatto.) Tj T* (    Harper\222s Magazine. Retrieved from http://www.wesjones.com/gatto1.htm) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 318.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Harpers Magazine Search :: [against school gatto] :: 8 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Gatto, J. T. \(2003, September\). Against school: How public education) Tj T* (    cripples our kids, and why. Harpers Magazine, 32\22638.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 250.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Google :: [inurl:.edu online learning analytics] :: 63,900 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 202.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Stein, Z. \(2012, August 13\). Learning Analytics and the Learning Sciences.) Tj T* (    Retrieved September 16, 2012, from http://www.educause.edu/node/267647) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 134.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 2.358555 Tw 12 TL /F1 10 Tf 0 0 0 rg (The content hosted by ) Tj /F2 10 Tf (educause.edu ) Tj /F1 10 Tf (is of superb helpfulness in regards to my proposed research) Tj T* 0 Tw 1.508735 Tw (subject. While it is unfair to judge design from a netbook, the expansive site header requires scrolling) Tj T* 0 Tw .259988 Tw (below the fold to rearch the content of interest. In regards to ease of use, the site could benefit from more) Tj T* 0 Tw .962927 Tw (descriptive URLs. Given the .edu URL and institute listed by the speaker of this particular URL, I would) Tj T* 0 Tw (consider the site trustworthy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 134.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 7/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R94': class PDFStream 
+94 0 obj
+% page stream
+<< /Length 5015 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Bing :: [coursera] :: 506,000 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 692.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Pedagogy. \(n.d.\).Coursera. Retrieved September 16, 2012, from) Tj T* (    http://www.coursera.org/) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 636.8236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.884269 Tw 12 TL /F1 10 Tf 0 0 0 rg (The content hosted by ) Tj /F2 10 Tf (coursera.org ) Tj /F1 10 Tf (is of extreme quality. Instructors at top-tier universities are truly) Tj T* 0 Tw 2.994269 Tw (delivering credible content. The site design is very effective in presenting the courses and course) Tj T* 0 Tw .674985 Tw (descriptions without extra noise. The use of Twitter bootstrap for buttons gives the design a familiar look) Tj T* 0 Tw (and feel, as well as a simply usable interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Google :: [edx.org] :: 2,600,000 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (About edX. \(n.d.\). Retrieved September 16, 2012, from) Tj T* (    https://www.edx.org/about) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 526.6236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.09311 Tw 12 TL /F1 10 Tf 0 0 0 rg (The content hosted by ) Tj /F2 10 Tf (edx.org ) Tj /F1 10 Tf (is of extreme quality. Instructors at MIT, Harvard, and UC Berkeley are) Tj T* 0 Tw 1.729982 Tw (truly delivering credbile content. The course descriptions present the most relevant information at first) Tj T* 0 Tw (glance, with a well-designed, easy to use set of graphical icons as well as video up front.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 508.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Yahoo :: [opencourseware] :: 54,700,000 results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (About OCW. \(n.d.\).MIT OpenCourseWare. Retrieved September 16, 2012, from) Tj T* (    http://ocw.mit.edu/about/) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 404.4236 cm
+q
+BT 1 0 0 1 0 38 Tm 2.875697 Tw 12 TL /F1 10 Tf 0 0 0 rg (The content hosted by ) Tj /F2 10 Tf (ocw.mit.edu ) Tj /F1 10 Tf (is of extreme quality. Instructors at MIT have been delivering) Tj T* 0 Tw .111751 Tw (credible, quality course content and materials for a number of years. While I do appreciate the site design,) Tj T* 0 Tw 1.705988 Tw (the fonts could be a little larger for my tastes. The tree of links on the sidebar makes the breadth of) Tj T* 0 Tw (content very approachable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Wikipedia :: [self directed learning] :: 1 result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 52 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Wikipedia contributors. \(2012, September 16\). Autodidacticism. Wikipedia,) Tj T* (    the free encyclopedia. Wikimedia Foundation, Inc. Retrieved from) Tj T* (    http://en.wikipedia.org/wiki/Autodidacticism) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 306.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Wikipedia :: [wikipedia accuracy] :: 1 result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 52 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Wikipedia contributors. \(2012, September 13\). Reliability of Wikipedia.) Tj T* (    Wikipedia, the free encyclopedia. Wikimedia Foundation, Inc. Retrieved) Tj T* (    from http://en.wikipedia.org/wiki/Reliability_of_Wikipedia) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 226.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (ASk.com :: [openbadges] :: unknown # results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 469.6898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (About OpenBadges. \(n.d.\).Open Badges. Retrieved September 16, 2012, from) Tj T* (    http://openbadges.org/en-US/about.html) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 169.8236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 8/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R95': class PDFStream 
+95 0 obj
+% page stream
+<< /Length 3849 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Research Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Strategy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .759318 Tw (I would perform research utilizing both secondary and primary research resources in order to deliver the) Tj T* 0 Tw (report on time and on budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Secondary Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .104597 Tw (I would utilize internet search engines, academic journals, and government reports as secondary research) Tj T* 0 Tw (resources.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Search Engines utilized would include Google, Google Scholar, Yahoo, and Bing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .538735 Tw 12 TL /F1 10 Tf 0 0 0 rg (Academic Journals utilized may include any of the journals I found while searching the UNO Criss library) Tj T* 0 Tw (that I have listed in the ) Tj 0 0 .501961 rg (Journals ) Tj 0 0 0 rg (section of my research log.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .874597 Tw 12 TL /F1 10 Tf 0 0 0 rg (Goverment Reports utilized would include the PCAST STEM report and Department of Education report) Tj T* 0 Tw (entitled ) Tj /F3 10 Tf (Evaluation of Evidence-based Practices in Online Learning) Tj /F1 10 Tf (, that I have cited in my research log.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Primary Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .294985 Tw (In search of real human perspective from primary sources, I would conduct interviews of prior and current) Tj T* 0 Tw (students from a range of generations and learning backgrounds.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I would interview:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (An individual from the information technology industry with a perspective on lifelong education) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A STEM instructor) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (An individual with firsthand experience regarding the challenges of traditional STEM education) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 9/10) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R96': class PDFStream 
+96 0 obj
+% page stream
+<< /Length 9333 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 735.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 188.8149 0 Td (Research Schedule) Tj T* -188.8149 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+1 1 1 rg
+n 0 144 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 126 469.8898 -18 re f*
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 144 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 222.9449 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 72.01244 0 Td (Research Section) Tj T* -72.01244 0 Td ET
+Q
+Q
+q
+1 0 0 1 240.9449 129 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 222.9449 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 79.52244 0 Td (Time Estimate) Tj T* -79.52244 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Secondary: Implementations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3 weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Secondary: Challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2 weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Secondary: Opportunities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2 weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Secondary: Strengths) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2 weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Primary: Interview: IT Interview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1 week) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Primary: Interview: STEM Instructor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1 week) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Primary: Interview: STEM Student) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1 week) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 234.9449 0 m 234.9449 144 l S
+n 0 144 m 469.8898 144 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 144 l S
+n 469.8898 0 m 469.8898 144 l S
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 195.2149 0 Td (Report Schedule) Tj T* -195.2149 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+1 1 1 rg
+n 0 138 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 138 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 144.6299 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 42.02496 0 Td (Assignment #) Tj T* -42.02496 0 Td ET
+Q
+Q
+q
+1 0 0 1 162.6299 123 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 144.6299 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 47.30996 0 Td (Deliverable) Tj T* -47.30996 0 Td ET
+Q
+Q
+q
+1 0 0 1 319.2598 123 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 144.6299 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 51.19496 0 Td (Due Date) Tj T* -51.19496 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 93 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Report Subject & Research) Tj T* (Strategy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319.2598 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (September 16, 2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 75 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Proposal & Detailed Outline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319.2598 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (September 30, 2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Report Draft) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319.2598 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (October 14, 2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Report Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319.2598 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (October 21, 2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319.2598 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (November 18, 2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 319.2598 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (December 2, 2012) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 156.6299 0 m 156.6299 138 l S
+n 313.2598 0 m 313.2598 138 l S
+n 0 138 m 469.8898 138 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 138 l S
+n 469.8898 0 m 469.8898 138 l S
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Budget) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Direct Costs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+1 1 1 rg
+n 0 126 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 469.8898 -18 re f*
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 126 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 111 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 234.1327 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 107.3414 0 Td (Item) Tj T* -107.3414 0 Td ET
+Q
+Q
+q
+1 0 0 1 252.1327 111 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 211.757 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 95.59852 0 Td (Cost) Tj T* -95.59852 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Photopaper) Tj T* ET
+Q
+Q
+q
+1 0 0 1 252.1327 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Index Cards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 252.1327 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 252.1327 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Books) Tj T* ET
+Q
+Q
+q
+1 0 0 1 252.1327 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (50.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Articles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 252.1327 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (45.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Total) Tj T* ET
+Q
+Q
+q
+1 0 0 1 252.1327 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (105.00) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 246.1327 0 m 246.1327 126 l S
+n 0 126 m 469.8898 126 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 126 l S
+n 469.8898 0 m 469.8898 126 l S
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 65.87488 0 Td 12 TL /F1 10 Tf 0 0 0 rg (ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan) Tj T* -65.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 215.3699 0 Td (Page 10/10) Tj T* -215.3699 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R97': class PDFPageLabels 
+97 0 obj
+% Document Root
+<< /Nums [ 0
+ 98 0 R
+ 1
+ 99 0 R
+ 2
+ 100 0 R
+ 3
+ 101 0 R
+ 4
+ 102 0 R
+ 5
+ 103 0 R
+ 6
+ 104 0 R
+ 7
+ 105 0 R
+ 8
+ 106 0 R
+ 9
+ 107 0 R ] >>
+endobj
+% 'R98': class PDFPageLabel 
+98 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R99': class PDFPageLabel 
+99 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R100': class PDFPageLabel 
+100 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R101': class PDFPageLabel 
+101 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R102': class PDFPageLabel 
+102 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R103': class PDFPageLabel 
+103 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R104': class PDFPageLabel 
+104 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R105': class PDFPageLabel 
+105 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R106': class PDFPageLabel 
+106 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R107': class PDFPageLabel 
+107 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+xref
+0 108
+0000000000 65535 f
+0000000113 00000 n
+0000000247 00000 n
+0000000412 00000 n
+0000000600 00000 n
+0000000841 00000 n
+0000001082 00000 n
+0000001323 00000 n
+0000001564 00000 n
+0000001805 00000 n
+0000002046 00000 n
+0000002288 00000 n
+0000002530 00000 n
+0000002773 00000 n
+0000003016 00000 n
+0000003259 00000 n
+0000003502 00000 n
+0000003745 00000 n
+0000003988 00000 n
+0000004231 00000 n
+0000004474 00000 n
+0000004717 00000 n
+0000004960 00000 n
+0000005203 00000 n
+0000005446 00000 n
+0000005689 00000 n
+0000005932 00000 n
+0000006175 00000 n
+0000006418 00000 n
+0000006661 00000 n
+0000006904 00000 n
+0000007147 00000 n
+0000007390 00000 n
+0000007633 00000 n
+0000007876 00000 n
+0000008119 00000 n
+0000008362 00000 n
+0000008605 00000 n
+0000008848 00000 n
+0000009091 00000 n
+0000009334 00000 n
+0000009577 00000 n
+0000009820 00000 n
+0000010063 00000 n
+0000010306 00000 n
+0000010549 00000 n
+0000010792 00000 n
+0000011035 00000 n
+0000011262 00000 n
+0000011946 00000 n
+0000012128 00000 n
+0000012316 00000 n
+0000012596 00000 n
+0000012876 00000 n
+0000013156 00000 n
+0000013436 00000 n
+0000013716 00000 n
+0000013996 00000 n
+0000014292 00000 n
+0000014519 00000 n
+0000014821 00000 n
+0000015102 00000 n
+0000015261 00000 n
+0000015509 00000 n
+0000015635 00000 n
+0000015806 00000 n
+0000016041 00000 n
+0000016254 00000 n
+0000016408 00000 n
+0000016594 00000 n
+0000016789 00000 n
+0000016973 00000 n
+0000017171 00000 n
+0000017342 00000 n
+0000017575 00000 n
+0000017786 00000 n
+0000017962 00000 n
+0000018151 00000 n
+0000018338 00000 n
+0000018533 00000 n
+0000018703 00000 n
+0000018922 00000 n
+0000019136 00000 n
+0000019318 00000 n
+0000019498 00000 n
+0000019685 00000 n
+0000019836 00000 n
+0000020026 00000 n
+0000027731 00000 n
+0000035279 00000 n
+0000042971 00000 n
+0000049808 00000 n
+0000055412 00000 n
+0000060011 00000 n
+0000065467 00000 n
+0000070581 00000 n
+0000074529 00000 n
+0000083965 00000 n
+0000084183 00000 n
+0000084260 00000 n
+0000084338 00000 n
+0000084417 00000 n
+0000084496 00000 n
+0000084575 00000 n
+0000084654 00000 n
+0000084733 00000 n
+0000084812 00000 n
+0000084891 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\310\271\204h\341\220g\253KU[\230/\002-{) (\310\271\204h\341\220g\253KU[\230/\002-{)] 
+
+ /Info 62 0 R
+ /Root 61 0 R
+ /Size 108 >>
+startxref
+84940
+%%EOF
