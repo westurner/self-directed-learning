@@ -8,7 +8,7 @@ MEMORANDUM
 :From: Wes Turner
 :Subject: Assignment 2: Report Memo
 
-This memo addresses my Report Subject, Research Log, and Research Plan
+This memo includes the Report Subject, Research Log, and Research Plan
 for my proposed report on Self-Directed Learning with Online Resources.
 
 .. contents::
