@@ -1,8 +1,8 @@
+.. header:: ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan
+.. footer:: Page ###Page###/###Total###
 
 MEMORANDUM
 ===========
-ENGL3980: Technical Writing
-
 :Date: September 16, 2012
 :To: Sheri Hronek, ENGL3980 Students
 :From: Wes Turner
