@@ -73,6 +73,9 @@ The report's purpose would be twofold:
 2. Provide perspective for instructors interested in adapting and
    leveraging online resources.
 
+.. raw:: pdf
+
+    PageBreak
 
 Audience Profile
 -----------------
