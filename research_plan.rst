@@ -65,6 +65,8 @@ Schedule
 
    * - Research Section
      - Time Estimate
+   * - Secondary: Implementations
+     - 3 weeks
    * - Secondary: Challenges
      - 2 weeks
    * - Secondary: Opportunities
