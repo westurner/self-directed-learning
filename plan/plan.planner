@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<project name="Tech Writing Report" company="ENGL3980 Tech Writing" manager="Wes Turner" phase="" project-start="20120907T000000Z" mrproject-version="2" calendar="1">
+  <properties/>
+  <phases/>
+  <calendars>
+    <day-types>
+      <day-type id="0" name="Working" description="A default working day"/>
+      <day-type id="1" name="Nonworking" description="A default non working day"/>
+      <day-type id="2" name="Use base" description="Use day from base calendar"/>
+    </day-types>
+    <calendar id="1" name="Default">
+      <default-week mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="0"/>
+      <overridden-day-types>
+        <overridden-day-type id="0">
+          <interval start="0000" end="2359"/>
+        </overridden-day-type>
+      </overridden-day-types>
+      <days/>
+    </calendar>
+  </calendars>
+  <tasks>
+    <task id="1" name="#2: Subject &amp; Research" note="" work="604380" start="20120907T000000Z" end="20120913T235820Z" work-start="20120907T000000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="2" name="#3: Proposal &amp; Outline" note="" work="1208760" start="20120913T235820Z" end="20120927T235820Z" work-start="20120913T235820Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="1" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="3" name="R: Challenges" note="" work="863400" start="20120930T000000Z" end="20121009T235820Z" work-start="20120930T000000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="start-no-earlier-than" time="20120930T000000Z"/>
+    </task>
+    <task id="4" name="R: Opportunities" note="" work="863400" start="20120930T000000Z" end="20121009T235820Z" work-start="20120930T000000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="start-no-earlier-than" time="20120930T000000Z"/>
+    </task>
+    <task id="5" name="R: Strategies" note="" work="863400" start="20120930T000000Z" end="20121009T235820Z" work-start="20120930T000000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="start-no-earlier-than" time="20120930T000000Z"/>
+    </task>
+    <task id="6" name="R: Interview: IT" note="" work="431700" start="20120930T000000Z" end="20121004T235820Z" work-start="20120930T000000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="start-no-earlier-than" time="20120930T000000Z"/>
+    </task>
+    <task id="7" name="R: Interview: STEM Instructor" note="" work="431700" start="20120930T000000Z" end="20121004T235820Z" work-start="20120930T000000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="start-no-earlier-than" time="20120930T000000Z"/>
+    </task>
+    <task id="8" name="R: Interview: STEM Student" note="" work="431700" start="20120930T000000Z" end="20121004T235820Z" work-start="20120930T000000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="start-no-earlier-than" time="20120930T000000Z"/>
+    </task>
+    <task id="9" name="#4: Draft" note="" work="431700" start="20121009T235820Z" end="20121014T235820Z" work-start="20121009T235820Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="2" type="FS"/>
+        <predecessor id="1" predecessor-id="1" type="FS"/>
+        <predecessor id="1" predecessor-id="8" type="FS"/>
+        <predecessor id="1" predecessor-id="7" type="FS"/>
+        <predecessor id="1" predecessor-id="6" type="FS"/>
+        <predecessor id="1" predecessor-id="5" type="FS"/>
+        <predecessor id="1" predecessor-id="4" type="FS"/>
+        <predecessor id="1" predecessor-id="3" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="10" name="#5: Design" note="" work="431700" start="20120913T235820Z" end="20120918T235820Z" work-start="20120913T235820Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="1" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="11" name="Report" note="" work="3021900" start="20121014T235820Z" end="20121118T235820Z" work-start="20121014T235820Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="10" type="FS"/>
+        <predecessor id="1" predecessor-id="9" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="12" name="Presentation" note="" work="863400" start="20121118T235820Z" end="20121128T235820Z" work-start="20121118T235820Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="11" type="FS"/>
+      </predecessors>
+    </task>
+  </tasks>
+  <resource-groups/>
+  <resources/>
+  <allocations/>
+</project>

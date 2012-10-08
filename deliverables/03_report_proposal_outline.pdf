@@ -1,0 +1,6871 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 37 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 580.7736
+ 132.7129
+ 592.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 580.7736
+ 532.5827
+ 592.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 562.7736
+ 123.2629
+ 574.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 562.7736
+ 532.5827
+ 574.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 82.69291
+ 544.7736
+ 187.7429
+ 556.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 527.0227
+ 544.7736
+ 532.5827
+ 556.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 426.0236
+ 0 ]
+ /Rect [ 82.69291
+ 526.7736
+ 166.6229
+ 538.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 426.0236
+ 0 ]
+ /Rect [ 527.0227
+ 526.7736
+ 532.5827
+ 538.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 244.0236
+ 0 ]
+ /Rect [ 82.69291
+ 508.7736
+ 231.6729
+ 520.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 244.0236
+ 0 ]
+ /Rect [ 527.0227
+ 508.7736
+ 532.5827
+ 520.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 148.0236
+ 0 ]
+ /Rect [ 82.69291
+ 490.7736
+ 162.7329
+ 502.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 148.0236
+ 0 ]
+ /Rect [ 527.0227
+ 490.7736
+ 532.5827
+ 502.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 42 0 R
+ /XYZ
+ 62.69291
+ 413.0236
+ 0 ]
+ /Rect [ 82.69291
+ 472.7736
+ 147.7229
+ 484.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 42 0 R
+ /XYZ
+ 62.69291
+ 413.0236
+ 0 ]
+ /Rect [ 527.0227
+ 472.7736
+ 532.5827
+ 484.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 454.7736
+ 187.7229
+ 466.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 454.7736
+ 532.5827
+ 466.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 82.69291
+ 436.7736
+ 157.1829
+ 448.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Rect [ 527.0227
+ 436.7736
+ 532.5827
+ 448.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 471.0236
+ 0 ]
+ /Rect [ 82.69291
+ 418.7736
+ 154.9529
+ 430.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 471.0236
+ 0 ]
+ /Rect [ 527.0227
+ 418.7736
+ 532.5827
+ 430.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Rect [ 82.69291
+ 400.7736
+ 164.4029
+ 412.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Rect [ 527.0227
+ 400.7736
+ 532.5827
+ 412.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 663.0236
+ 0 ]
+ /Rect [ 82.69291
+ 382.7736
+ 149.9529
+ 394.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 663.0236
+ 0 ]
+ /Rect [ 527.0227
+ 382.7736
+ 532.5827
+ 394.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 83 0 R
+ /XYZ
+ 62.69291
+ 448.0236
+ 0 ]
+ /Rect [ 82.69291
+ 364.7736
+ 154.3929
+ 376.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 83 0 R
+ /XYZ
+ 62.69291
+ 448.0236
+ 0 ]
+ /Rect [ 521.4627
+ 364.7736
+ 532.5827
+ 376.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+30 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 84 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 346.7736
+ 139.9329
+ 358.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+31 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 84 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 521.4627
+ 346.7736
+ 532.5827
+ 358.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class LinkAnnotation 
+32 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 89 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 328.7736
+ 119.9429
+ 340.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER30': class LinkAnnotation 
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 89 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 521.4627
+ 328.7736
+ 532.5827
+ 340.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER31': class LinkAnnotation 
+34 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 310.7736
+ 130.5029
+ 322.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER32': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 521.4627
+ 310.7736
+ 532.5827
+ 322.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+36 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R
+ 32 0 R
+ 33 0 R
+ 34 0 R
+ 35 0 R ]
+ /Contents 188 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+37 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER33': class LinkAnnotation 
+38 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 644.9843
+ 0 ]
+ /Rect [ 458.9729
+ 660.7736
+ 467.8689
+ 672.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+39 0 obj
+% Page dictionary
+<< /Annots [ 38 0 R ]
+ /Contents 189 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER34': class LinkAnnotation 
+40 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 89 0 R
+ /XYZ
+ 62.69291
+ 756.5236
+ 0 ]
+ /Rect [ 108.2729
+ 365.7736
+ 151.6129
+ 377.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER35': class LinkAnnotation 
+41 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 84 0 R
+ /XYZ
+ 62.69291
+ 756.5236
+ 0 ]
+ /Rect [ 199.9729
+ 365.7736
+ 260.5629
+ 377.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+42 0 obj
+% Page dictionary
+<< /Annots [ 40 0 R
+ 41 0 R ]
+ /Contents 190 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER36': class LinkAnnotation 
+43 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 644.9843
+ 0 ]
+ /Rect [ 458.9729
+ 510.7736
+ 467.8689
+ 522.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER37': class LinkAnnotation 
+44 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 644.9843
+ 0 ]
+ /Rect [ 227.2129
+ 414.7736
+ 238.3329
+ 426.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+45 0 obj
+% Page dictionary
+<< /Annots [ 43 0 R
+ 44 0 R ]
+ /Contents 191 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER38': class LinkAnnotation 
+46 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 467.9843
+ 0 ]
+ /Rect [ 103.2629
+ 621.7736
+ 112.1589
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER39': class LinkAnnotation 
+47 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 644.9843
+ 0 ]
+ /Rect [ 294.4729
+ 435.7736
+ 303.3689
+ 447.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER40': class LinkAnnotation 
+48 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 455.9843
+ 0 ]
+ /Rect [ 323.5929
+ 288.7736
+ 334.7129
+ 300.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER41': class LinkAnnotation 
+49 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 443.9843
+ 0 ]
+ /Rect [ 116.0529
+ 276.7736
+ 124.9489
+ 288.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page5': class PDFPage 
+50 0 obj
+% Page dictionary
+<< /Annots [ 46 0 R
+ 47 0 R
+ 48 0 R
+ 49 0 R ]
+ /Contents 192 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER42': class LinkAnnotation 
+51 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 128.9843
+ 0 ]
+ /Rect [ 335.0429
+ 561.7736
+ 346.1629
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+52 0 obj
+% Page dictionary
+<< /Annots [ 51 0 R ]
+ /Contents 193 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER43': class LinkAnnotation 
+53 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 491.9843
+ 0 ]
+ /Rect [ 128.2629
+ 723.7736
+ 139.3829
+ 735.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER44': class LinkAnnotation 
+54 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 431.9843
+ 0 ]
+ /Rect [ 222.7429
+ 570.7736
+ 231.6389
+ 582.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER45': class LinkAnnotation 
+55 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 377.9843
+ 0 ]
+ /Rect [ 107.1529
+ 468.7736
+ 116.0489
+ 480.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER46': class LinkAnnotation 
+56 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 365.9843
+ 0 ]
+ /Rect [ 133.2729
+ 324.7736
+ 142.1689
+ 336.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER47': class LinkAnnotation 
+57 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 353.9843
+ 0 ]
+ /Rect [ 117.1729
+ 198.7736
+ 126.0689
+ 210.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER48': class LinkAnnotation 
+58 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 341.9843
+ 0 ]
+ /Rect [ 261.3329
+ 168.7736
+ 270.2289
+ 180.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER49': class LinkAnnotation 
+59 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 479.9843
+ 0 ]
+ /Rect [ 256.1029
+ 102.7736
+ 264.9989
+ 114.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page7': class PDFPage 
+60 0 obj
+% Page dictionary
+<< /Annots [ 53 0 R
+ 54 0 R
+ 55 0 R
+ 56 0 R
+ 57 0 R
+ 58 0 R
+ 59 0 R ]
+ /Contents 194 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER50': class LinkAnnotation 
+61 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 644.9843
+ 0 ]
+ /Rect [ 193.8529
+ 669.7736
+ 202.7489
+ 681.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER51': class LinkAnnotation 
+62 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 329.9843
+ 0 ]
+ /Rect [ 62.69291
+ 615.7736
+ 73.81291
+ 627.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER52': class LinkAnnotation 
+63 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 317.9843
+ 0 ]
+ /Rect [ 136.0429
+ 561.7736
+ 144.9389
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER53': class LinkAnnotation 
+64 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 305.9843
+ 0 ]
+ /Rect [ 120.5129
+ 477.7736
+ 129.4089
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER54': class LinkAnnotation 
+65 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 293.9843
+ 0 ]
+ /Rect [ 510.0829
+ 447.7736
+ 518.9789
+ 459.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER55': class LinkAnnotation 
+66 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 281.9843
+ 0 ]
+ /Rect [ 374.4929
+ 246.7736
+ 383.3889
+ 258.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER56': class LinkAnnotation 
+67 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 269.9843
+ 0 ]
+ /Rect [ 464.5729
+ 123.7736
+ 473.4689
+ 135.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page8': class PDFPage 
+68 0 obj
+% Page dictionary
+<< /Annots [ 61 0 R
+ 62 0 R
+ 63 0 R
+ 64 0 R
+ 65 0 R
+ 66 0 R
+ 67 0 R ]
+ /Contents 195 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER57': class LinkAnnotation 
+69 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 257.9843
+ 0 ]
+ /Rect [ 494.5829
+ 729.7736
+ 503.4789
+ 741.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER58': class LinkAnnotation 
+70 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 245.9843
+ 0 ]
+ /Rect [ 343.3629
+ 534.7736
+ 354.4829
+ 546.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER59': class LinkAnnotation 
+71 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 593.9843
+ 0 ]
+ /Rect [ 239.9829
+ 522.7736
+ 248.8789
+ 534.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER60': class PDFDictionary 
+72 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://StackExchange.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 255.0029
+ 480.7736
+ 373.9529
+ 492.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER61': class LinkAnnotation 
+73 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 233.9843
+ 0 ]
+ /Rect [ 311.1229
+ 456.7736
+ 320.0189
+ 468.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER62': class LinkAnnotation 
+74 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 593.9843
+ 0 ]
+ /Rect [ 62.69291
+ 357.7736
+ 71.58891
+ 369.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER63': class LinkAnnotation 
+75 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 221.9843
+ 0 ]
+ /Rect [ 502.8429
+ 303.7736
+ 511.7389
+ 315.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER64': class LinkAnnotation 
+76 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 194.9843
+ 0 ]
+ /Rect [ 259.4229
+ 285.7736
+ 270.5429
+ 297.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER65': class LinkAnnotation 
+77 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 167.9843
+ 0 ]
+ /Rect [ 311.6829
+ 285.7736
+ 322.8029
+ 297.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER66': class LinkAnnotation 
+78 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 593.9843
+ 0 ]
+ /Rect [ 382.2729
+ 231.7736
+ 391.1689
+ 243.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER67': class LinkAnnotation 
+79 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 542.9843
+ 0 ]
+ /Rect [ 281.6329
+ 189.7736
+ 292.7529
+ 201.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page9': class PDFPage 
+80 0 obj
+% Page dictionary
+<< /Annots [ 69 0 R
+ 70 0 R
+ 71 0 R
+ 72 0 R
+ 73 0 R
+ 74 0 R
+ 75 0 R
+ 76 0 R
+ 77 0 R
+ 78 0 R
+ 79 0 R ]
+ /Contents 196 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER68': class LinkAnnotation 
+81 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 644.9843
+ 0 ]
+ /Rect [ 215.5329
+ 580.7736
+ 224.4289
+ 592.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER69': class LinkAnnotation 
+82 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 131 0 R
+ /XYZ
+ 68.69291
+ 140.9843
+ 0 ]
+ /Rect [ 258.3129
+ 526.7736
+ 267.2089
+ 538.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page10': class PDFPage 
+83 0 obj
+% Page dictionary
+<< /Annots [ 81 0 R
+ 82 0 R ]
+ /Contents 197 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+84 0 obj
+% Page dictionary
+<< /Contents 198 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'FormXob.c1173058a218add04d37c463733ca4f7': class PDFImageXObject 
+85 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 240
+ /Length 7013
+ /SMask 86 0 R
+ /Subtype /Image
+ /Type /XObject
+ /Width 740 >>
+stream
+Gb"0W]8n7>SHnX',EX,e40^[dJH.O$B+4'm^bRJu#hslkO<orAEjQ+b&I^FNiT2fB&0N_P!^^N2'/'=$rWE$.CfWWuQ?m?34Dm;WS[rt/o*MLFlZ#\MY9)jge^a&i!rr<$zz!!!#W&5K-%[>q9[Fii,6%`S)NbK26!W<4,tlQ):T<@UoP3#'t+/17JtV@IPnY'3uC<iJb5i)!\IYahdmR6&-W\DCXS=f!lrJ4"=i_fE%TAc4Z[HMUtRT>MtMD%>Vc^p/DN108IX9>8U+?!Zp+@ECMlkn7sKg`"t.\jXsPDd6SZLA;ShCUnXT9nW5ge\1$Ln&tB>W0gd\>s$kuK/2\i3Q/DD3b6AS>r'mep`#Q0!Hk3@fs@#ml;F0pa`m0dMa_ENq3kHFfi%!\3$iW6`Z,6hlW3:/&q9&1h7-@2\T"4=;rV.('e]<$H"MjBG+#P%`L&6'cHe2A,6t9-h.QSV#PAMgL+A#E%PEsp@Opmqn:/;jYl?_)a`iS('<[g./F8T=18U"[c.I>DFt@dpS38^V.J\uDWG_RE[@(MZBQO*FE@dcOe3165?h12"rAI/Po(cJj@q>#IdGpKpN7jr'qUn4I?0,lm%TZZ0%ac%s&TE;Y>`p`8%>=mnQd(hql.bXFhOT8"hMk)'rT.UU8^mbN`Us_a<P+9MdC7U+%`S)Nb>lh;!)QC\!KOQf4-WsAYQ,Y<SH4bY<BHF?Rp50^"skii-&Y^M25offa=<IS_]"cH'U:4E8_9W87jG'6V@IB<dSa&M3$hj_WZI/$;OKSI5tO^Hal8P,%B=_2Z:\]nYQcC*74!jjdP[ugdE!f&WP]X=ZkScV:.a%kVQ)-'&m;':INA!o>Gk`dKdH+#E0cV6-fam#VimlE:XmlL1dG*@/BfU&#K+JZRB.%'Vo#<i4?:"i92.mC<MGhj8kp"jW*SBsh/!`RWnO.gg>%Ql8($;2*GiCPbpl`AcInS.FpN&9:3@JG<>9MeZR9DK12fgn6g:tg'toX%2_3u.06Q=?d\F^GRsVtH;mOPhS%0p*7;ZF<DWHYch$-cEXA[`=+i(d,Wpn"cp^ho1E,.+0lK%:E,ur'n:9gnKq16L?i?dBpG`$Z:g(mhfZ:n<`?5uOr"lm]SV2RDp<H=8PaVh5DQ5dCc@9#DZYA)MsV:4Rm3ikV=92Wgj7(Y=TjO)$uQ)VY>PdD-i/C)$#f:\L$,HFe@%Vnnh;H0q]-!`llWeNa<"6TF'BDuc69`V\.Z3kF9(VfaKXZ$:=EYWuM_M5'28uKoPSiutCXZ$7\eg7B`R]HQUo4hm&Dh%Z=Nsb^&2ni.%ZN6_Z_*@3<s53V%[P6T3_9I5]c9M@)ci5WYace)@[VG7n<rof6rAS9X0?dth:<b8f('`7>H\\MJ<f-68frXbr^]*opL&C4;^FHNhHRGioCb,0RDtkLP3K,mq-OrW5e/!c\17q)1)r66+S7:``3u8:fFnEkOMJUi"aXR;F8r_P56HC^-2@8H2*44KI6IEHc7rI;>71O+i?$o[ur:og'iZD*]6O(>/dG&U=DB,gBq3nk3T40$iAn.,GF;g^[L/b(K=;kGs;8K@)e"?WHaB%\6oXW,uk6q?7U8)uN'aC:CLP4lmB]H)VdHsWPMJbn*osK\tmS::F76:;+P>D0XaA79UP9O5=GHqRk[_guY27Rk`?o)CqCADQ'VfZ#ZhrFL6>._k.Jk&I>Un`OV#P=c5rM[e<m@C<[d%ms7nD70G_t/m04EtgNaNH6O>\CD;aLMbaGCiFoc)agI01R]`E<'[/XKlVj"pD/bZYsa.Y_$LbWMXi5<WQ=?etXNq.Xh^>BlLgt'`a\(D-U9iWt]9M4XpP!94X;no3;HLk3Xn(4SS-AYJ,@G^A6#ler0sA$37QXhY^/LrlEhbP;ZoBhC+jnhK\(?;L_`MXM=`$DmB_cdI\OUk?k5ol'9Gr_,N(#2m<8?6@Og>hl=L>V5DK)W8RZhrV"uq^IWkRo:Is+XIF,.^i>kGrTRTAr.TDC>Wqa;^Z(XNH=Wr6-a$J#@'^*m+7;md%4f%hn%S[:_>b0X5u4(7WHRW+2W"Lbj2d;D>qE&;NEIU7m\#o_#)&U)SW9+?V8f;0ImBu29^Se::;-DYHX!D2\D+)_c-=LgdHRLm$p\.ap7&W48+5+/&,lN_bN)COWj)H)QO63"6ci6'7<]nTJL)79G,O2Hs8B&u8R1B?.c+5-fN**qm"-Cg^\hKqDIP0]0+b:Ug8aB/<6JQ.X+\YqE40H-I@8\a_4CGZpV-Bo([3T&q+J,*f?#KB>78KleEDB@GHbt"Q1/SSF#ZFGS2K>BFI1U&9%::6Z,hZbh5N?jHunW2pkc'LHU(GtDZBc1\;_$K$q1?sHMQZhY:n=V#7kR@A"K_$[)[$2@&I/HEP*Tu!73i2A_1H-J2N#KHZ0r.c_=<3[7>3:(>=)AA4m*PU/F_QRcc.#1p>WC-EF46<WSk=ZHB>l.KD;$<iP-Ak2t%uIe^g1%k$5KIt-e?"X#!FGcgMM6o-1?A4[4@SlM@FHWKP&d=(r_a'8!b^es/K`q]9dAX/4dRLDe&/XiarS#c\<UslmSqbM_<?u1gO*^AuWP0Fi3<L3*fX<O\FZmRn>p1Kq%G`qT4<Nj>u:?hQ*,mlE>UOo>sh,1,=<LuC&](PIm*(=Ie$n(b(f5>%ul-bVh$4bXRknM;j?*'"@ZFh?]<6Ha5IItq<]*iQldH&ZH)kAi9SHLH4qhd#7]2:=:/8>-*WXeV].Tj:<*<fRLTLmONZTgB0L?;E)C;k-m^6*$'MOa]-YG6]GgYG_g<<+GAeNf9pD,1\6<N`L-Y#k,<4!0.i?[:auX`kS3[2^csFL''7q7F$71f%.dO5^-jP^3Xh,:IdPQ"k'c4BDPc_q(S/>:Ok5Q"k'cA/,*5=)D3+<Rr:n!73i2V*0\<5YGXQ3c8hQ*j+B!p\uJ.GjjM&X`kS3WWn)lfeI\lPP/S0^)oJ<pfh\;:!157=lcF(0e3`[Bf2q".N,@jX>69H!mm`/2FrgsK+EU\B><T,O'/t##5T?#NQWf(YOae)=J+E7>#kZ;;KTG8cPh1kL5L9HA%$5([D6K]r*-mrAa?\7;V0,B^]49$\)(D@UWACTrJCK(2-_[0g:d88U&Q:BDLV@e30%q@'[%t3[NMn<P#^fBh=#g%p$Ml$75PtUk>"V]K-gDS7+WGDEA4G:R?e.PgAd\sds2rK/C*\K/?8b-.6;A?k7/i19bI?-q,P;>7aA,<Sha24c@;D:;8N+qY10`a!+#F5!?'FfFRZAPF`hh4b@a':fr]H7J2g\C#$GNhr/H+)RO>0&R]HRpL<N:51p>h?<2up'P>qV6Yk;\OQ3s3PV4).[iW.>gC?(ba;N9Z9ck9JmfDH$_JEFs'Fkkd-4BfR^J,Cjfpn]WlC$XRY?km5Xe%M-Ub=bHLn>tVf_#ZAAs%_^PpGU&#PR#MaK/,n(/$$l@WrP!@'`3CZhT^q<Wfoj&m9Ud?UI02t7V7qIFXUJ3h&Qu."e\H7iA*H<7OFO3ZU1`B/8=mQ80,k(E-I()<WQm^g$pe^8]"Vul)BA0NR8R1'[%u^M\!54o$6Pl<iP,g^]!QN]*iQld3*Ef.mKDu_T()QZ@%VFE1*ej.EK/^$J'0?LI5)CBMrs-%&\d3,?u?56:S,i9bg]p.WYOS]T*?ME-I()<WQU"k+g"#eTUlK=lnr6l?WX&]^nu[nYMRYg3RrD.-AT"jd*!RC]83'!6p^-G"l!<=@;@j&<<FA=]DE#p*^Ed6<fM:CoQ>q<2up'o3;HLk#EAPA<f$n.KD;$<nT?5"b>aW.Wp.;lX,-c\i8Jj@n'h;.h2P.DX#uf+qtG&#L=mkrYF;8IeL*hc$HMoYbh7ZRH#Z,g0_-W`SVKf`81,WpIJ=6jlt6lJ"Q/l5Q?#C=]ko9>Gp-R_'_9&,@%*1-.B_=Z+Ec+)m`n(XO<^^mf((`Ngs+@4F-M@ks#%7_gJer$Ga*Eae:r.)j+,u+_4IYK1u\3B"q)tk:4m8?eA5lMX@SAo<QO!a,al'iO^TM^jbD6]n=OJ3Yt#t#%u`_#OAP)s&BL$,$L^=*>P[.mY\d-F-W]['aJ-]U5:(a)h-&-Nkn!9`R7L.Yr%tN_J5kJg['r\S5hcPpu?iup\=:=I'\8+"L,!^@#W2W.K-,AX/*K'4)HsXAEm!eUEaCd^BXlAo2H[\%\?\'Y-+q*]79j0^0+SBJEFs'm84i'=sC$6Rcc.#CWO.d6LtPU7AZI,2-C)j%9nmZCoQ>q<2up'P>qTr?F=cI<iJQ.!,.4jdN6@.TI$m9*B,o9O/@:&p"/f[qABi0gYC5hF%%Jo0Fj[Sr%0mY-KX.,*'Z1,rfTtos!m8@(XA&pC[X]6ok:aEPu;--J0pgrs+d',gjE;H9ZaXq=R<3>]34*WE61CuR9=$CAE7'@M;XLFEdmm5*4'HOV4-[m3#o,d<MFY<*.\!FNkbP'h2!4<23^mO+gjmIOB&/913N9[gDopV.WVE?@p0_K?rPkkLZ<Y_jb"(-a<03@IeB6L#9A=mo(V"iMZMs^/q/H_k!str^L8?s>0FB/R*sm4/s[n@Fi\BHWf1TbDRk?nFbe'gIKfpoiDN&=?uG`s',AAT&H/'^1c:`bQV>X22_!P!e5iF"$%"d=jCgCt[54\T;GD9q*0+SFJ0m]TlG;9>:n&BJ],*u]<'1H$p,bu+33q"\O3qf(]1U5/,#<&g9LkqJl?5-,HX?pVk,C8A*B^B-?!U`3GQ7[@I']EF!73i2A_1H-!1G:9m$b!WY_J;/>0s'sB2PY*G"l!<=Mr^b-!MjD(6rX74c0>,9<*teZH=(J<rnt>ZHB>l.KD;$<iP-Ak2t'5YJ:'_^0+SBTP_<NV3`4^U[?[trSUhthgtrD;Z<62nIm_G0A3/kYEBB=@BdQ<['4(W)Jir+;eJ$QkX\`'SlImS!SGuZ:d4XccHW8@b`kd/K>m7>*<_>Fk(O76=,D+S`?NQoD4Xhir:\HM2VM$-VRdcXa0H%;P>[&.h:um9<_;D(8M-_rWQPL,0o\T1m;+js]9lRY9XSLl)ssS';r%q=j*=ehK+C/eT*u5PrjpUI!5K$=Hg`D.$INGF8(_3u'Zfnc2DV/;BHu>kBjpp/%TZ_1j=u"j>f!;K_djMNWrQD7k[5FV%DV$1pH_?+Ia)u')U7kH7^kM6<(;>?QP;G`NH!(-.+hM._r4]u!GKn1#T1r$J+,<Od!%.'R*e2[qR,3pWkjggk'K3PrKQ.(Jjg1D@\JBJFZUS']rqJ;o2H[\%\?\'Y-+q*]79j0^0+SBJEFs']-aQYcobI-4c0?G;!KnHNhG<5<2up'o3;H,%9nmZCoQ>q<2up'$a[toeHUO5<?'=rPr6W4!&RJPBoeng5YGXQp3c.(TDIu"^\_]UHhZrF^$Pgt5D.doHlWOu$s@-Nd<BA5H0(;/Is:=klg*m5])^3._%5EZ5DpWZ)Q+\@pP"=gQUOrcE3]hd[\CN*&q97%+'gDIK#H(@=f"?rCjfiZ2976IgDZJ@qTFq&;-)q>(+oGfUa'$=N`TS9F^A,EiYTA>osOth9IcR.`mE5>)m4G;>/e1c:kKr[$XThX=f&XlF-Z(WlZlXpo:Q&1rETEU[Bj"I0`7d<9PU]8UZYDFj'7rGhaWst86.07<WUiRC:HrkND(&.A<he.HI3@Z?]0"OWtZq^!78AnK>+Ebbnn+`L$Ml*rTR*r^$PeR,cg98oXW+\WX?NFP#Z["<WQ;iq!&.*;=H+de^UbD.KF8:HF.3U`D<0O%ITRa!^Q@W%8UbMPp3>M7nE`k5dJP8H*.36oCePOT)7=+55/a%\))G3Z/Jec!GIaJQ/B^8U%lNe,#(5pX`&W'`nriSjHE@X479B]^a82/nB\jK3W:m2=lmq7*MTBo<=VH;!2^\6%`u8DFHC-5T2TTebW1Y#A<m/dZIP%:f&4(G^pZ_0MuN9W<g6V\U.#I)(?qc*@DDj@n'B9//U@-\f4>mPFasH%,'=\rh,I1VZ:alN".ARbs103:Cfm*'eL3Kn^A$K2SuZt)WrQsQ9W0oScW/91P'ga'%X,l6luf[3V)jc>MN_$?[M9:=q1&)#Qd=u.Puqm7Ps\CgJ4igg38UEFqd-_VYJ'Y`olSO3C@#&LXoct_K*RZZ[onDhZ3gTVP>ud#<WQ=?pif8Bcdl_N3=ZV9XfY)d[^>_\f:#U`<?*4`/loBbaZ-d7=Ts?<aXXo'n9l#V#_:)DX)RD#dCFJihRdUeCL?tmen5$!-(:&?QK/KXjmkQ_qK0_afV=ZQr87faT)uf=bC>7aE'3Hh7"]5EM_D,9R^0]7/?<S[<e3F!&"6f#(PoZh3,=>o)\f2W_f32gEbT'LQH1P[7qWLVR-8"8bW>uh:!QddG"3$1EFlK!ZY.Um*j-%@45]j/_4q=d0f>8=]gjf$/Sqrq]5UA)=6Y2T<-rdY%`a;#e"?WHol,=m%j+!jq@ioVMuEfCS.],cXp*iqhB:F(W@qH6Go\m\`KbkS,-,NQ<e3CP7#lXSa^c,RA4ErIB>;aXaFPa7<b[Dl!f\r(Pu=`C%bVcCAsG$!q9.B+kG=MO.X3e$bo-:KO]C=+\3L%gA/2Tc/eGN4q3OljgX^"ECWcVbLi'[fi,WWs>-b!,cb@uO.W'-a!+]'@2nBO'5uq]SX9+J-X2$$C<<,p-Q!NudV'QWn4EsiKgMajoHA$],nh<+=a-RM*a@0ErXO<9hr8orgrpJQ+rp^NN,8=#EIC!T3G8$$"N8EssT[_BKb:8iJ<b[Dl!diE-&lIJC,A^u60f#kJ>)%0j`atFseS)[[Y`PpfHSdfu'Xr32<cj3^2T_;-G"6CNEYG%F[,_aIpk,XL]+Z22Ve1moX65i6>5n\!Vo4X@16n9`;;7AkKWNUb5Q:26Z3oqnF;UP_>.R,k3#c79Q$c<gFjtR\@3JbWp*c,)cGl%;3@+HDd,Pmg?V*)ESGbLPUUDZZ$csju;:Y)9Z3oZ@jXX]KY3!(C??872HQfEi!1-A[!J#aF$RE)rlVe;o7bN+'A2@G^H2mpFzzzzzzzzz!!i)0R2WL?~>endstream
+endobj
+% 'FormXob.8be923b0b371a4df3a1871cf2642e455': class PDFImageXObject 
+86 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceGray
+ /Decode [ 0
+ 1 ]
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 240
+ /Length 9594
+ /Subtype /Image
+ /Type /XObject
+ /Width 740 >>
+stream
+Gb"/l$WId`^;k^K]SRm8,5?[Q!ZG7ATNKUiMLp_C)H8QQ$gJ+I+G(e$d"i3/!C<Xgn.?6I7?I@6X)7V'\T]-$pE'4aZY+4NFgntqGOO5>h0ZbXGKZQ!U]cBk8=5ghK\tr41.gWKr2/F_qG668rrG@r"@3S%5nF/b&-P91"Hbga\Ouu.$.CrO?'t!h=:uUe!tp<,QNV#UBq=64b]X4B.?<6cM*e^FcuGJ(NqX%B/j[Nh!]o1"KY%@-QO2l#mh"n"FBg/cj1Rgi9@.[HJ<'@6i@Y_jnYuuo?/W,FAME2)H@Y)nCI^,FL@.3qihB'DY10L`PVE!m<)AU%(`Nh`k+7tK@J(uJ1/7G(bdu/R[BDmc<(geKb8c<)V>--YSl7fN"tQM0_dR2Xih$#diEh'UoV4/(R!#mFDH/KUn"skIX;jhq4E)N7R!ip'.*#TqiP`p>2V5"DKD_\be.p!Q1$d[&o4j.hEHtku>Sd"q*4@V,[(Z&0r$&5S.pBPk+Q2gcKeEC+#&f`M4nisL;^K;@<DJPrG8-?R!d)eMOq$PR,;'"UWK4U^;Tt?#5lgFZX3bj(R'Ffqn7gW"G8Be%^4(c]lQ1Bk?tr8*oa?W6J'FI/X;B3&<TghiM`unbV&P0,b'A>G:>%W9r75KUMREWZqtQqtW'>b4?YsqT>rW`8ZBd':\1D<+UpWTea4G3_#tJCn)Wjg.FjYipX%%V:f7U(GVLj,i\F\^6"iBVY;djis<sHmiL!=\,(NfH<($8N$-NU*o`Y:_u*qNl=*P_:[jnS*e=!#2u^MWo3m8#@OkGK6U(2X:ia7hf$BDc%%kCg,o%fRuqn;ka#4uRgig9!b6a0Tpj-uUOb7[sE'g(rs:AqUu.m`nABOYsjBLbV^:PXS%0<sZ,C:'L%[cLh1Obq=too*agjrg+ePQ$WG#+Lh3s;'h<kB.aqLn[Y9@oJrH>knjAQO&&5e:>,ZhR*I(OrFrKLHU%S.IsWR'g?l)/TC%@d$OskE`[]kpU?GW%UuQB]9QOX^R4Rhch(s>C1n0B]>U[9iLH_Z1ra<bk17?k@&]3me;aEFHTjH(K=EJ]u"Ing:_!_&_;:&)$NM;G_ZBtDm;]N-2Y"WbJ>qOW6WB*u+3^<B88'\Y?C(s?&@gkS!r-ESZ-F*E:*V]QJcB2<lhh"cK/cTIbi?slMB0JKA@P&2f]0e`fn>X4,(2\`d]0jaL)GoiOhQCt<dhE6+V:6lFbpFi6%kr_$8g(_;HBEH!5cC<-2%XJ*!Wh'$bl_\cW')#<G.P'a^E8dKq#,I+&FL0Q>UH-(]gK;&JmKXQY^26^gE!N"G&7%@_.C"f_HdfHC5a:r]I_9Mg"GZ/h'd<^DA\SnrBZh/ZJ#WD/odJfMU%'jJKr/ane`AZmLjVH%c%+*B7k/iT]:(V#3\#cKY%@-QU<\sa4VTj-0ViY\cFk;#2q1#a5tYW*::7skhZ+Ci@Y_jnI]=AKdu\h>[a'`"_CuVqsMfR67\qfWp=S>lba,h4@'q<-sAQ&a0[q*@e9PA;*3M6i@Y_jnYQR_bD3m8gS5f+%25U52^muihV/)Pi4EF313!Rn&G5<5W`u&)igRYuq.`\2/QsB01E,!;G9Q3AMMpA^SYEcr;b]#'!L0p3rLeS9(`i!pE0gjo\E<qof8"<@)sZ"S;$tdL)mnWE+8BrnQ+2h,dgG&k5Vmq5Fe]q3%TRXVg]?m@,=@-#7`.2L9!pH]q`(Z+8Eb4ja3=9PkrGe2cbQ`Z6tg6MKY'W;a-D^aESN,t*=d!'VTDc`Nb?\kdfF[/qjP^aJ9+&$UE+j=m/r!71hDT<^!&0jD`lU\?!@flZ\38lh>;Gt_9f.USd>;]K5d._3EA/2k-6j<q51V+>]es(NW*C1*,`J$/cIQ76h07`TtBFN!]JXqI5%T)2nO>@g'tc;r&X0nd[!2-(kWQ]j#`Dh"2>K;U^%h^ga,9Jm_5b\f``]B08G5O:gr("K<d+U)GDQ5Lr7tq@H;,+pTO4mgWXu]A0hBIXB>VR:@&b')jlU`G/0j;S@QK#0J-JlG"fr0"9;HIa[4XO+[SQ.+P\:<h4Yh"!H"@mq$eNlPQQTN"<Egr2kZ.O&bJG4D]Rp>i@[F:jj4GVI13&U!YQf0T"ANAW\CQac!Xa38!o$fK`Z*m$Jd,=M;@[cNamEUgeB!o?K*RT*@gu)4O%TF)^7Befn9*R]0rU&$9M6s2aj/R_HeA"j*kGr7%>.3?1NTPS:q$\G7PQ&\@GHq??R?lnDoU[OKNp;0:%cS:,[coZYl$ngI3)VI`uodct'H+d(67Flk8n14[%+g?>rs`oB*Ti5+c/7]j5iH?%2tNCp*saa4*M470qWrR,.;QS=?tu*030/A>,uGQ-'Jh>_35gl<X&pJ;\_'6q?Nd'h:QQ=tt)6!,/Z^7m&5pkELD9r0Gn>qkl_b@5s3%C]RP%hVBEk-kqhV(Uu%V6jtSiLNBl"D\a$P5[fE7NrP-Cs7g4t'55"6A'rlj5LcY5(@?c4UT);!=-pI\1<@u0Dh["K<KX\WTbjA5>`d8P%5iB-J!:2#e7V)7*Smj%f],=P.GB/:T](SbgHEX)HDikapkW5k@&O@Eb0cO%2m%XM7=37%a8_kIPkBF<^51fPpMSrF9.?S"^)KEE(0=FpBBf%-?s@XdBff^9oV^%+0V<8\3c=tp3pQ*=gTfauHC*#U+1CH([c.sQiP;+tnt2q^`W//C^EF))E3pq@:N-\d1dS51Ndo<sIsFg@kq(3m'I(CLjML7XIZSNb'd.fV2-,Qe(E5LU($B`9Z\g:4<FjiX:r@E_V=G8t)0B@(>eU4#Z-$iP?S)DGdMH)7YPNesFhQ*S1fXZR7Y:q'*p5QdM,6E*o)LCgD6i!fht$REFMkC3kdZhM=u^pi5d&4.!ZBK1>$60_,QsFbD]1iSCMbP#O7_:*>mN*J<r0`UM[&[n42%><:iF1N!VX)WW@E*F/U\Y\^=lQTZJu,F)$(:F<:uD,K_%#lC)]u;s1>;TA]mQK48pOu00hJCnGu21/YUH4+P\:%gGcCa.aUpn5fX*BIdTO>R;eLs+6P1d>JUj635PoR]0q%eR;:BHj75\ufilcDa76[G+Id1!S)`scoD9\_]J>er!MeZ\*t[iQf!3At:;J;r5`gF^\4]pEGPd:`e&K<]$ZmBI"2\?\rgE@p[a6TfQ$kZL'?B,=J2cd4TBE<A"nM:QF--,6fH'u8ld6kVrnNhR0(q"-FPQ,RZaC1d2d,;4C,2Ai^UCAEH02KVL1TL;9?nA]AY.5Ej"(FPq(eK@be@Y]mY(V)T!ptgmodNqp_2C&s-jHF'qsY_#*Z.m:u*s@CS:i:Hm:8O`-&nN6*P&$E[=-BLkP7\7;hWcdTk%WO#/T+WBIHS]'kd>#7CVU(IbgNI-%H*U>_d%YcnWSeg1=a`!G:!G>A=pia"H&rZAR1r\&A@i*sgZB"snRA8C([fpA=TG%fad\-qfLpbeOr[?5gmQ\Puj%J@ikR2lh<q)fKiBtSX:5[gZY$gl);NI*`DHQ%ed9lM7bfimgPK`7Ybc^ELi;;DQEYfZE2D0Pp4ja@Eb?=anMm!L5oM.4TX_FsWja)>mP=6.VX)fBU"h>t+Jji_%9dd4EUMQGj9bKZ&+%mE)P$FSZp#iOXAPiH]1PJ<P,*s"<J4u&;gjDIW+m(!(".3GE4DhT1#*<1j\n)K_[S,u1a&@#ZL[Jg_Ze"!P:`[Ut6M6Q_3s"!U#OG'/:D^[7Lp4^X*Do13XZfBT"PonAFcA(-_d_;JY3D]5m1oM83K;_5n+R"GR"O)l:dd)CefY:;2BTqHeD0Pomqr5+s3_FMLa^DE^/*[Y+0kY:HVes`/JnE&s;/j!TT._aq8qFjbI$e'-S`,l%XW=_ANV*0alH\V2770@H>#kpV7pjPq*4OI5lI4q[P1i+D4\Pi&RESaEaRt;;g9$QbQEWH"gNLX7oY$+cFF4'3i2'H[G6tnA44lm/m,[g0j^\lQs#/9p!JGu)+t).lm#DJH`<VFD&KW+N-/q##R9?3CZ:FoI>(OH(7`T)$m'F*O3Gpj#KoRC*5e'I+4H@K$_HhbR,I3&CQO)UGOllme/JI5phu:kF18&D\IQ)JIO;E'c:Hu3<>MB\/^Z`iq;>W;58.h&jc>l49;9-sg#jsb?UW\TL'!NsmA8>ZoWWU)gCb7].fKogr?2uR*IRD:LnC"Zk(&5\(P)5.XOZUS!eAPVq!dDk["iKq=KcpWs"8HP&/D8b#?ISL^cIS`MLb1_[3P$5OLBFL=ff5[RD-SBGp2(X?477;Ik\NMP@FS:je*\t@>D=.9G:\%o0@sYY@*W;ng]Q(AS$TL(48q292igLl#ANAaRI@XMTPrRji<C8Omms8qf3^>`]NQ'OmE-1M1WDX5PV7L]C,qoH_efZ=CNHpb@)r;frllZcU]XjDHAkp&pWh&aOQ"]6]\U%oEE,Lj*a5I\pF7E7%QB.()SKA1'n^mBr?=GZ&mu\D5:UHNc.Q9B*3k2!J2n:pd[*Al=CNg!PY7X=\[d%0q!e[LF(&*\F\mAaoaEi_YT"o2X3n(6<c$6qa_VM][aoBS3]EP7[HKTe57=r*dIOk7_He@Aj&s\9i4d)[IVf&H&c(EMg9(grYsZ#o`';O]af>\0oeS?g+P\:&4)P'>QT^_<A]'ZQ8&o0OAo$)(A?sR%KF\?4M>1QqbP@[l35PoR]*-17Lo_cT-/rQQ:!DU0p2;"74m!#dD`Lph+h_^e)=SIS_@P46D<UMEr*GCl(3I0\S3/DA?;'FS/Wk"\(*.TSXP)<C+crr@Q5%PqOL`=DJ=3rk?.P46OSRfn<Lp]G'r%E4h,kO4"gNcD0Qu?6I^CC6cIS`M:<$5c>0m*8kEg?D:Ac69D.N(S\-qff/*]27f4NBqOjCniL$J?BD(;)?lI=0R*nSr9rFehh]%PeUm,'oL7BG1r[fA7%n.#TQ-LQY#.pBUE%brj9#hKJ^AY^(s([1N@fq?f44(Bt)?$;unA(/bVJ98-*J%'q!L_R++CX:9!4Lbg6)ROa3i[na/QsDNGYL%l.<PW1tS2*tGR6&#FY)m[O@Yp#P].]P+gY\<IFL/C=\<C@Gep=J[3L.=M<.S[kI;K0EF)<NpI!NX\FZJ[e)3?P$dNh7ihY9[Hn3lB2rFP<ld?[<_>DnM'3V5ndM0X]^+l"C'B59*s_Z%e)Ee'a^<[Gt$N4VHe9>j'?Bt;O[7fmNK)-@I<&r4_qKoX=tbgs(.)5<hbZ3R_D*2)<t*t[iQLZK#nEJ+i.G6s;M&QqK29>o0-reO_TVu<)TA;em"mk'^#+%e"eMoU@<$u<:pIGMH`+j7Gt/08CTMX872_/4fq3*V<$3uM>W>.<5d0!!mc4=kW)8D`cRjhltTXp]:"0RE3SR(ri\/;sb<CUXiK(Ae5sE4-N&G;?b8[:$Y[8>/3*)ugN?)E#G9AJ76$bT:'QH9\bk43!r-)Is8j1i+RIK,+O:c.;ldrL6<Q86<58+Lpb<.>.Eoi+4J>EI^=_%h+3(kQ?o93M(EM:n9H'qE]=sg(KKb[e:g:D]Y#b?.iE-:mb.UWJ1*k8C$o+pRp<.TmRhnh!YZSV]642UNH+tKmcmEC.gh'fiiLQalpmuH65;`57#i,K[0g_,N[\05mL?e[ajHSKVQTMK]jPX]R%M^UH;_*C.fhBX[U88)VOq']ROuNd;5prhV,1"h`N)U<25-!.cE""fQ#1i"PPsnYTV^Ii]D%g$4JsJHSA[I!BMi[0O)`?)J4P\,CDbd95m"Ra;Vp$,/3*:bQ8eTpjd=MLm5$td%^dc+(4RQ_KlF7F\gu8;BjODTPh)q7p'Nmh`N)OXP);3B(=(RDb$GuKlm^!Msm/3)n%$mS$/5ldeBbD8d'/3G<HrGSol?>a.3n0]X8b65<7UcmR`O%3.EErbW23U$8^3?6+&&q/O".7Hs!>@%gNiGJ>Tm7D$b_9L0=cqAr,aIs7UEES'f9E"Zl'^=L5CUd'dt8V8jU9Z=UuR8_MA+2Pn8rBSV<Yk%pTR[I(\Do@T>DUZ3:40?(dCm4ei-rX7Pgi3@YW_j[^pJ85Kal#ql.gMe\g>6fUOYO$g``?tl-!MArmKc/XhA\:#5&9ua#$"Bb&5&T>gp2;"7,1_$T4.r"5mdM->[!F-JZVpjm>"2Cc>TF4kBK867k@4U#!$30TK.3_VP1M$X*WK[]a7!56=tU_DN]S-0H#!d1#9Xg\.fC][eOE>m#+/kmT-4#G;djCGU)(-#<8$&?nBU9B>6;%;ISUMC=6=,!P_f@QMWJ1a3f`\1i@Y]k><C$>nmuEaN[&p:\4[f":DQ!On,_K#&`7TOM1"Nsm(mKi)`Sm_(,/t9#(Eb-n-Iu*_=9K/CC#+j3f_9"_He@7[apUC6,s3I""@H4T/iGUS$TM4)sYW/RN>`n`P,t?9hKa?TY-M83e(C97IJX>nB=6(ih1+)?h37@\<C?B[^LWA\,_c4"#3Z61*99]H'>s@(*>\Lml6+Q/e!&2'YQ2Kl$S#8&?r-Qbi>FZ^oc'.D!lkjf!`L_g"PUMD?1c%12P7ecFptSOE(1+UG4=kopV/H9L(h)ff\7@Zj\#?euE`i+N)5>n@JMV8<6f2lb07FPa$qJ>chk"K<hmJ*PZM%eK/08s(25m&Lh11[MIZ]s$1"9r1^*e9;\kpH'eo^N\:U#H;WF?3kfhLbTTGBO+3V7s!gDW:YFI8/YR)&OKIonGl1A2D]Y#b2J6eq]6N-&Y`;_*':&jMG::LS@++g:rU:"+I7<^qTp%QCDQDPt)AR5;BAMR3m-\_IK<ho2Fkeae$9ITcfUT'LEr&0J5^GBmQqXAk$0)'9oZ<ZgiRH\khYYJS6M/ZlWR$up2-Y)Ek#f/L^-!V5G`I.C[-hdf'XP1_cuF^L#^;.#filRHLZg_7#DB_-@In$'is6_<mLjU]YntX8ZJihTcuI`kfiem4EJ+i.GDZ*)PuZ$0*ComTE0oL-*0E+3]0uR5D&T`G`s3H)Ao$4.T>-t>h31[DecIo#AFPkdSQJt.YM8No;1S-!/R1rER&pg/(?i8l_,n)=g(84[Hr:Y6+8i"Q\DiYcR'JjX(=(0'-Tj$Pkg>\e0jBRrET`"YD!fYt48dn%BO%#m>8Gj,p0L@3nZZfuBM%bYcW3cdX"tD<Anu<>Mndu\GsmPZQ)t59`?3HH_e+]S>J(ktV4=J>S0)bZi!/g3""9j]UmA-jn?r4a8#-Dtg"Oj3og!Ls!LI)5b/c$NRji(;5tt#0%SaXD,uVt<>!U-!%)0$TRDt-+&76LK8mP1QUt=`t/!j<XV*Ak[K!)EB=!pCng"JQ#JW:t&5e'J*cdl;!O+NB:HpG27`';O-Q!'d?#TjWG&r4_qKoX=tbgs'3b:M"[fn7s]2OO"oof;XT!]<4I&qmkbr3=C.oBi<u:/?EZ+9Mqe?/i*YGj!t<h**SJ+P\7QF8TBXHN\:8#hor2,Q^\El`b3mF"(N5ht/m'e@A/DNef[Ua%Q_7hO_VIC-#@sn&g*[>$(>WlYQSE%a*?d(X&DCj%]e]BW>@7JqB24M!tR/[GlWpeON[tG-,0mPddiB>SJSW>6e_TT1_#I5f]E(D12CNSN>2\WJ<@+JT`$S`LpSPi%[]2EhB\_[oK1;U+L@][^IjeYc$MOK^FR$b.;d)5?nOIBbdJg\<q;a>Rd5LXJg@k/hsui?n;g"qSiQhg?4X;/2m0C]M>,[L_pQ20RK!*bgE&cp5,[0_!cen/X(gG0X=1$&PkE9Z01olHpA[9XaMgf4[I,Z%+W5ZoLV<00F9MOWTDu8f`]g*!=DV=%bFI.`/<M?Zm?4)eioGFbQ8eTpjd=M3,C\udNa7RBq;IK&SHc9Q\b)iqg97_s/SJV&].i5Yjo5Z*>)_qCb6Ui\?d=TD!cS!qu%'l?5`I3?0F7W1PEAnFf_mKo,OC7dML8M`+B:!$*3*(Iu***=0/WSMi!H=G!NQ1fKXGGH=UAYW;,!o*01Uu4;@p7Quq/j,?oN,a"a$dKD=)uFOi>5\@eNA[7f7JQ9XD.fim#F.Ss'lT5:W+NjF@ub8DX2S"3++[:X3*ClaA1KuJ\BqRN``\-NkqareiKg\t`!KlW\H[=F:\)(&S"[-@.GDV83SCV^`qN8Xe$A_QO>EF6Q<Q*9\I/g^J<es^nGSuLb$>HDU`o(udTL^K?J"W2?FH#1dW::kAASH$a>1=%`CFYEM2gf2&uIbPM3`nkP!8V,a=ffsPDo!*JY5qptqIi*MEXP$caPH.UC$i*A*g0JEf^LF(4jV?49CopNoZfb?8EB1pICGQn&O6i17KnNq`,BAh3G"iM@hGV_C9L$]NUd*O9Tc@\M*Hu,&gFIq:D4,@0YWG%J8+ng<kLE]$?o.*eFPNi=^4L0d]7f![Ttp1X_BX`G7"!%==P'5+nj<?/>4Fo!jb<'-[=T"8npKE*SNdm47hB<`E0j+.4KeIVF,m1\JiEjc]0q%e9A!:8_+Sqq2FFuI`-7^dn"98Do8:_-8&#+]m?"4f]".JbOc\VmFjDL<7-/ro?N=5=1=hHPq5cifeQO*r)<[JqKfYDHKR0TKpFHp6nU7KScuD(p!ML<;aHdO,a>q4L_0nn@2_<gU.F;n=<X=+0iXuoWd2)26K]DF>JC&9ro-!/YG.80RZTr_!m-`e[b?m=?J"3GQBXV(pK_if?G;<-i5NerU'@n<5a(&9(r5$40T+^ZoE'>>=SY$_rOl>dVh,_Tg]rcfHFM(YIfkRW#qBhfJNq_nQA?)s]*,"Fn%X.c5UL+"(dfHT^4g'*^>'EPX+o(9>@HZnFK0Zcn=s3nF&9aJQaij0l<&@4anYrU*cuD'E!&/'FfL%N[FZ$Qf#hXQ5"T<mMT\4(^&:jHH#=>)rDNb=$eo%&.ZU@FGEHKtbct/*fNGt5?ms#o>RLMEXZ5&Xa,/+CZN7q(ODM5Vi9&jn]PN(dH5\u3pQ_<A>cuIgUCb6Umj)ISANnXbMCY=fLj2:olf@u>B#K13[GDZ*)'qlrXlShm,k<!u+&=Xiu,rct7@cFSE5$ig0&)f,QhsiP.)to[YqiJRpjCRc9!K%9>bd.1t4T/(pfikA8`rSBk_f6lokEqAb-KAfWY:EYQbmV!cn13S7/HM5eb5`+.:e`;WV3.lc-$I0iK9#\]%L>9<PBtk-C"lHT4KO=3>A(H6c.Fi/j8D=OP7FM$-9j-RSHWF`@Nd@L%tE2L+9:iJ#]SI4HCeZQ[F,4!mgo/&MKWVk"g;#eZH;L&pBYFAad],F)f\erHF,%sAM)?;C4_C^O%)!^jY`!5j/jo,IuN<+%ocUUPH>Sm8?Ybc&0:3EDf'_fOhCat*&LoBhg8WFp:d5BSUL_ZLK4SpMMfljT$7gWN&q#RC\!X6S@k/<fl=M2!G<^BX_#6gOJDU_*Ua4Re5(5pCmbePG7We@7B;c5RMm1cKD%`29!9s!BZIg@>q<qW-1X$@/HNl]o:rVB8g[am?-r-@:dFtQM[&VZ-hjVk&'p#N7qsAGRKT\ATncRD=)D+MkpQC16W00jAnlTRc'&-$17=$9Dr3T7a^f1`$T]n-#^6S9DC)t,q-/=1mR;AQE0m6XLoaHpQh]M9&n35OaO^%g8&%lVClq,o[P'W:KgH=R5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%6$VPl!IOOe0)~>endstream
+endobj
+% 'FormXob.dfd144e04de16addab454cf4c066a8ee': class PDFImageXObject 
+87 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 320
+ /Length 11393
+ /SMask 88 0 R
+ /Subtype /Image
+ /Type /XObject
+ /Width 740 >>
+stream
+Gb"0VgTKlkY<_'Zs%?utqcB,in,[TbanW#R<e2u[&CanKpB:Nszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!(qJci74?"nH9.eBBL!BWN44p:(5d7c'h8EMNrsl)^*6B&$BY__0j!gf:p1<T$VbSQ%Q.Y#60]q8VR"dN,:gG<5&c\f#^Wd]gnR2KtGS8/8Y`=XVbE\>tjK?,!SSX)pk3^n&b3WG]^]V)7Q0NQkb*4&Q7MFOj$+1[Z`h@@(nKmOI%T.WD;l:9'e'="+TjHt.5!l&J_o4.ULlh2Js<C"VMdS%D::U^GoAXHVp]gf6ta0&P=:<OsDTi&JJ=k&GegbB$7`Gu$N9/s0H-@/&S]hd4ueeF/#7>2(\c2<S$k=uIH?V#$c5/Yb21'D]$XD(DLTAXD0rP4%jRadQC]>8BAk<A8#XI=T(#4THSa['uW3oq[ajX:`uB(a6E!rd"b"-lYJNe&e_<XQ3HjfrJu)84n=MCTQ-:C9#IEUhu*\NU3R@##lPB;tHnp%H1"-RR5Fk:>D74,c6iD[S'K+eeEYhW)&rV/Gfsc)Xn1U<baFL:p_YMH:>jM%N:;mWuJ*cLa5t<htbA9_YI-m+K&8FP`POj-IXNJTiJ%OK!k.oW"\opamUacc$l;0<m;_r;#I#6`M&Cs;$/jH'Kred,.f7cTAj@/#OSfOlGdiKII1;lbN3haXK?<l=@Usi>;U-HfaNL=I+<Wi3>CkHjJTRLb2Pp[a_YPZ^pW/4On1h$`oE\N'8_cVWYZuG*ZRi?Q/iKJ-9JSn+.nl\e'`8*)TQo?b1OR<TU'9+Dq^DV:*\L9\6Fi*&o:]M)(S_FEp<c"jrQ,m+c07lOK'>K?.#CfjX=<'UmI?6,T.K<)XB!._cE7C\X[Sq)ESD01.LhY`$6'eCWreIG29Jd1E4[_]jijdXdVJ)/F2!Xoh=ml%OFp2Tjpg_4(ofY2g.h(cC_pZeSTntrB`[,![.AD0C-2cIF#ZPQ!iWsn@Db)7r-N9!$"'?l%k_;;DYf#4a3/S,I\@:E`)(:oG)em[0f12*KG50r0]L\S?[7ifRNn'1*<IsG<5&c\f#^Wd]gnR2KtGS8/8Y`=XVbE\>tjK?,!SSX)pk3^n&b3WG]^]V)7Q0NQkb*4&Q5WnGiQt\,'A2r#ImuVjP"m1Uk;qZ$+dPitCPmH&"`*OXb=JZVINiEE=Ru]6n+0=6Y`EJNKEF;Vd;D8nlr>)k4H3GGGT$l)^*6B&$BY__0j!gf:p1<T$]5:IOG=jgV^J9tmgS=nWd.DqHs1^qV<5V>'m<fYnc?H`BY1R:l21q-QX-mM"/1R>#"3dP\/mW.s#CX#li2dBP$(/5H8u7$fiTjR/-np=71..+t-@GGY/Iku%XAJ_c?Ti$qhL9=r9Z7<umO<Q?TC/P[3Z%MRDp:@32%=]FH-EqON4h!0oqL;,B7GMTW*!W5aR'B)($O-"H\^Jrt/_rPr9(i)MiH#"*Y\GoKj_fA>canOJqMrnJK5$4Z&2f^HlRak'(B&4T;1^>P'`fuViC73A;;Y6-:o_7<Ga`m.c3tA8?0L=_4iP.e1pJGtNqX*C2_4T4NP!Q2U'kt`"h_mR;c:+:pllI/4gFG%d2-./E<o:nC836GO>FL2:O'fmtAGMoCaU+g--)okl6aF5-nU(RA'ptZaM6K`)lP.UXGEOT0T?\!g;GOPfn%T*u/BbBEJJ4ZfCoi*GO!X\3N9-"9[;9*"mtf(u5G*tc*VF/C6"rqH<:t@qPbOM?Uq[Gt)E.#R?4Ntb0\Xm;8d9KG;GYrGrMNgVZ5$Uk*uWI%7W%bbFPs*=H/6$S^@AJB*@$`Pr&3hBYJ$^jR6.+RKItG7%N6m.7HE_Z-^:?lCe<Np9,pM<^sJ9;#$9+Rq3*oqjA/f5q,n.QPBR4j,\)i)CieO5F*ZT@ahI;M^)\`Do%U*QaZQnXr@'kK5%t=-RY)SZQDGcOVe?f::+/OaeiG,]ggO+('*/#pq%*-.a2j)]FmE&^8<B6LeV.;Cc,M'V1%Gg.MBc-Z:1p+s2k.?U1UdL2Q*l`u-r_1c!d?]kUq.FfQ-un[2`>lFmRS'P`<-+mhWf:gn9=@qSRU_Rc.iqa`nFj2O%Z-Uj;eRB8#j@qc8qqB`a,Dtm.-.\?)9V\"n$K`8TciW.]$R?Df"hkh2s1+VmB-uRrMLY%D.!tF'%Ud<.P^jT/3;USG%RF4W2hs+VHK]E\$$M=-WR952/5,n49-8_6Np3K:*u*rNP=jXu_4s>\T>d3i\k`H5?E9rI/':WT=EdS&i;Ii^&/`p`jt(-_$ee9(o[fI8dc`Sg;-PYW=*ab3Z^[)lmJJJn%rO-g`.H"N/5,=@A^K<Kj-sWY\282.H!+W,%h9TtMcn;[)YHkbNNXUl.?OeQrikH_*HQ,MhX#7?]sX5IZe$R=+I&m+4pjArWWFZc5muZ[u^$PJb)q9-Z7]'"3T9<6_WkLSV@1q%&qk+R5DE/,=)S'H^:S@"QBgdcmpKO6#J3q`$**1<Q*`DsU'%n#rp<XB?ccU8"GTpEYtZ8#MNdZ+aQLa,1Cu0:%#f#u70%=nC_#l5ZCF2tJQB=Hqm&\I[]$l)S[6q&0/O<)m>5p1)\=m[U$)0(6QQL\7_EVtuAmh9S\_Hc;t%V'dL+_QSSq^neT$Akg`h*#Zq,R`JU^T\3-skO)c:=@H&A0$6JN:3D^Ek!"U-VQZr<g3F]<<F@5#jAlN-``Kp[?3dZRH8r2^Za9?-Wdhb_*d?n6pCWfpYW1;r52(nkeFmh=<>`h6R!*2SjI^j'ASI[''tHBI&T]$>>LI_bVtcpb!^kM/Eb^\PI.`u)miu."1.a!hoi]Qmnro:)pWrTkUJIHO5+IHh(&mq"gEc/ta%.3GIC>MDGCS2oj_>3.6nP06U7rXW\Psq:@d\lI-%1bcIp&*;jfgWDi%LMo;"&@RS1@LN?58J'R5n;Rf]AT>>QPojmnfrB;?cK1ek("jag]DQ"-"78LQ0PaV)qQYmW@#OFYiG8V.#^/D!ie/OXb=-#6;!AeaEk'n)0Tp`QXU9\KqH>[DU!*QU&U43ts0)<.R-%F].%S]1QeijVs]$8p@'<h!(o(l=SgO9#E:=f\BK<,?<YsB:W!\j/u8uG59/?Y0n>i![h_IB:K6ii4h0F9E)2!(Z,:[(/q[9],*?uqj+\:%NUM#9KDo"7iAQlkM0&UP<\BL[+9=dS#6Kbe)_($]rP6E*ar`Rpg+>dlC#!i/t)(,?5qruZZMo&=FRWO=U2hSg771]I'uX9TalB&Xkg:VST=n!(j&Z(O8AV.8'a6oeJEmTT`4$M.=\p*;MsO^[Cg5WF[9T^A5Hn]fsk^`P*Ti>R=$8r;C+>]MQfOhm8[p_FeQh:fj1o"G#!M@`.7[;O'/Bmo4jK&S6(6*D;_n)T'Xis9D=88HG\kC,;'D.]u4rUU1JYh7`s"8(cKK1NF.fegk_=hAGMoCe@7WQMsoWd[S704V<*:$?Wbl60#+c".p9trOW\d&4^Bge^HTrCq/(R4je12)3C<r4jUWBU=b]Yn,r;V.>@cMqFV^ete@7WQ9@dnAjL7hlQqSR3eNp:/?McEucMSm;=P5=9;2b@`7Jh6ZWhe1sMO#MjZqOMEBA?hTW_5<h7*HosHiAZ[5)?cV=!sj!2DJUF/l/Os?(QgP!q3m:a;]TmI#!e>Z6J'q/^*IGqV*a([U2_9]8Ym2<AZ?Z<GS&>YZ=803q8_m7`:OR)j;@#pHdecGe'Ad"-0_<o02fcEOn\DHBiA[r<J=i__.C!=(r2Q]MNUD$JamIPNla9=,OU^Y8m7s]L/CP8/8Y`=XVbE\>tjK?,!SSX)pk3^aU<)_"LgD.tGBeBBg0e=)-l`(c9eR)gbfk*@(#LW&RZYmW@#OFYiG8V.#^/D!ie/OXb=JZVINiEE=Ru]6n+0=6Y`EJNKEF;Vd;D8nlr>)k4H3GGGQcWq!$-\jmr?GTN&*c8o,jqG+]1#dV/$]r83n\$UR,k[8eKD60AZDn;<W<uH2`Crff/%;h[X0\P[%MUgY\=7tdn%"G%BFgQ=V<$5KP[=E`#jAKNrQhQ&gr?0/OUD;$7(j=9')RiSM<@S>uci[kHQ4<5O)_bFl"7(&Yrk08LDl$OJcD3uMX''07l8n8bR;DH-=r'!42i][p18m!jCg==_8P:q09Kj(IWKNc?7G&gE2P`4$\kqGXm-YI@d^I89Ri!h^QXeV2/l-VtQh^^+H&\"8gVn+#=2h3cX!%lGk*A1KoX3TIEg3<+86X00lW.0NVT,f13,V..,dR>E&SbRBh8T-XEn_oF9\/=$oj:g%nAm-HdGAR-ce!ClaU)-X[MRm.aTVPdW7?^2q6cH>au[]O'l+s;,f,*nbHORKA;1h-Mi?DPcD"9k)OG)\O*5!6:.i!4@_cOFaK5q]rUeg!Tfhq)A:mhl;-/POWF^?r22j@ga&;e<d?5c5(;fA)N8(C<FU?*JLm^YKc[X<s#>mG=lD/OV-3c$Kpp<*<ja!fu/U\jk6cnfq?J/\dl`e-KD3IjWATu.Wh.8EUXJ0uCWERaZL:''Gdu!6-1a8fUgmJ#4\IT>1_oqG;)fV<Rcb'&!C(H5p84bnGAp]WIA*pK&kM0(k6S0rj*2s!`3pWTQg!#`@Y0nhUr?Lc-W&RZYmW@#OFYiG8V.#^/D!ie/OXb=-#6;!AeaEk'n)0Tp`QXU9\KqH>[DU!*QU&U43ts0)<.R-%F].%S]1QeijVs]$8p@'<h!(o(l=SgO9#E:=f\BK<,?<YsB:W!\j/u8uG59/?Y0n>i![ha_7pJg`Cui=.gf\:PI,Fdbek3BsY&(bUhm]t@G3E?3ABN#,3Qd/k2s7>!mKD1([AFns4?[)@kG'b&7Jo[F7qp'JYPUOnNH?`:Sm7/Sp@:CDYp&42I^GhP#K%&*HfOg@[Rru^%XRQEh6N`FEs$%>o!CFi^.8/!n"]'YUuJ[#Hd2)!88=<8Y?"GYn;ZIePmlpd,T@OOfje8UP!&]B=d-81apg7<O,_o'eo^1DNQ\Z?7iY.U-GOD,^gp`2=f8koeZE3/P@*^X2Md$dT&?7"(YL:u\*jtok9"\PGjVuQ*2R>j*jMoSo*pFKE`;"",TJ`eAeJ6qW!G75cgKe>Ge%Z)"'0,]@/Un-IuMRG?@BT$\JKqs;H5Zl59hV/?RW<kOZ't?E_s:^1.&s+aTtK-@*UND;D+AG7G&gE2Qa;6'qrY/g"iEo1TQ_fD4;@rR65MjK31@O`aL8+I.cu1s/]6[_*=]h[bm*6-+3SQd?5c5f$!@HN8(C<FU?*JLm^YKc[X<s#>mG=lD/OV-3d/pj_8kKbO\ON](D!?J+#5.>Z#@?`Cdja`ff.h1hWnaH!.+MdgUu=3a1!hk8Z<&VMs;tr1LS2'&UUMm@5,7S@-]?rWg_4,),;^baBt:BWN6JeXX6DH`6%[MBc-Z:1p+s2k.?Ugf8[^Y^b^S$5H(2^n&b3WG]^]V)7Q0NQkb*4&Q5WnGiQt\,'A2r#ImuVjP"m1Uk;qZ$+dPitCPmH&"`*OXb=JZVINiEE=Ru]6n+0=6Y`EJNKEF;Vd;D8nlr>)k4H3GGGT$l)^*6B&$BY__0j!gf:p1<T$]57uc!RO50^[<^aIn+0^/@><6cWhX=e#3'10LIF>T9FI@lk<@7(&AA+-G>'=hf3:5NL9.'*)[!Ycp'*.aRrlWOC<NHDqbEeJo]F/qKd^^am,Mgn:CiI@o[t-D5h%FA`4(7=I;et("fqK483p7_Zf(A]Jkmj>O.Y'.tUD)V`i4n:!PK/9$>f\i&Y?%tTgZ8[fI+I)D!icj6"\i/IK/s+6aV;ummH`(E&m!gWNF>J$8-\IH6f1]R9$p;;fmY$W>C,EE3tA8?0U27EW!JQGs+]tlYP+Ehr_t,@0p?F?+%5_"ALsjN\iSDEae5iNRW=XeV9-`\>A,N^A(]3L^<-.c<#n!p:_@G/.=+SZg[Bd+-eHZ0TW/&\,u82a&F1^E_/F#?dQ3R:c2<d<bENO&9\D(f;nY^2+7U,.h6SQLkEX:J(eP!p"3oUc14`j3j,ki!/ji>]75)c3qgE^J'4sh!8UA26l<Xp7&F67G4q-Ppmn7]0i]DQqE@B@3q,#@f*3?\L=?2]$f8=/t%aM+9cc1!*KItI-RnUjBXN5OX-Bt6klu%+3/o`.:!:>iCdp4"&o%3'^RtH#lI/>7_hqTrXN,*ik"2@6)_.EL&Y\hnX17ArUBPGu;_*%\#flC)G/^<7D9ZJ.6!js:6TbP1N9D\U0=dK*LYVlO?0A5<X7RUd`HEH>R/MUq?*B*W$"?K$/Thoa)$JamIPNla9=,OU^Y8m7s]L/CP8/8Y`=XVbE\>tjK?,!SSX)pk3^aU<)_"LgD.tGBeBBg0e=)-l`(c9eR)gbfk*@(#LW&RZYmW@#OFYiG8V.#^/D!ie/OXb=JZVINiEE=Ru]6n+0=6Y`EJNKEF;Vd;D8nlr>)k4H3GGGQcVouj8Er,W@gRlEq#f!I4J>>iAba39\<7L[:NScqV3'10LIF>T9FI@mVN(hk.aa2'Wf^d[<M::=0Z@a4Zc-lcl;;]Q>6*g%2?fRi]q!l?ZV$Jr`Cn@D7;<O9hl(TQm,MaI/,o^+Zl>9o<<*/&FHm^J85IJp+`?U_(R^S"+abd4Ga0B]'^jM+PXOI,peA("jP:qOVl(NQdr+\*qZ:u5bh^8GqT<'k[RquRlo60Yl>!pIYS[">DSUo:$MWUc/p#cqoX0+m$f[:b&6$q_?2q3LYo^ZZkip*=]gEm+UdJ1(0h32>&C%`B^m8nX/=F[=_e<juCel_GbZMQ.Y"PLn#UK9++ZQ-f==]:W+XKdpS?[FZl-q/4'`ilG='rNd&Bb'$2r&(L7S:%7@25(_t`:rbAgEm+UdJ1*F0.c9SI>g,XCRiVbAs&;Tqic/;3MBt%h_/@67:8QJBfO49b>'aZJkR<8ju]PD/%,;p8gus-CnAI>15Hnu484bG!l=`R,Id-N3Mks$d2odI8a3ZX%%+6s;9chZXM[l+r4_W=<aR@VP-#-0ah\<^Pd^KI11D'bLlhfi1:6m]dB(@(Gua%\=K[OcV)`pel'R)<\LuBb;Y6]$_UV6B[S70tYPh=@,09@Prq\c=j9Kt%,bNuL0qO?i"I(.2KDHgm3B1<GR3j/%iKqWS]0@<K/D4;uZf2\Dh(!Fj:Hr[(>SU[?F8.*20aG6S/P/\c75%s?`Z.)'"rq:Ik8cdLQ0PcG1Uk;qZ$+dPitCPmH&"`*OXb=JZVINic!2^c._TlT5Oo;<MBc-Z:1p+s2rh&=)Ktqrk-!,QW</uB!!(bXrN6/"%\BXubZq-8>@Pr]4)F8'$$;-=6_WL1'tD^q-e6JOX-A?E^9P5LF@W@HS^'9qDT5tY2!jdmc!@/-;?cK1ek(!?mOG&AQZ$^..c$4:E2^c(_E"Un6`g5XXGcSkb5!E%5=lY/,X1"(rf#ibJ)C%gj,LBTA_SS\>=OrnaSjHu[PWbX1._s->H:hqp?n+j'47+uf&l2te#;`s\ff]$lEB_S<r@2PR8S^,=OOu\,<Ml=8,YC*U.(F?c$"TDQY^W[X1*X;:gJ@Qo:<+#rmY+p::=h)U#p1L0''t&k2Y)S2diND1i<_rrfi@Nr@6]<lK?6l<\l71WsEH*)8mCLP*d/;OSDMOI,liKZ'%DDJ^e4fk,%cgXK>a//n%Co8-\IH6f1]R9$tiRmj#&Xo%PJqbh%=/3o-!00PU4tDs^VQ9iunF&_*1_9%I*56(FII3)8s_iYadUQ>s"2P!NH%2<?5T"j+cf/$B\c0l1P6hdlXBWfETsW!G8S'YVHZn8d81##*V0JT^hc-gGV`g!VpF,L%D[q=c8;#h`&3N\X?fa_ZC:b>(mrVFL(0r*%6/ja@#kiq(=T)%7gDaFUX<mmnc:XFE?Qq^.h3MI%@kBjI9oDVN*[am*1AC(T^/f00W)amVlC[c0AseR\T<OW]eIAX?`rO&H_co9]%Xk%s^uU03J.o;^*BZ!8#P969kTdkM(XEa>UMV<CA(KWC<bD4;@r?i/=;FI20ar:PDYa:Ii(8Nso"@ltX\#q/;C#PCU2B(EI<*\*YH3d7K8:<mTu)9n%;<"1^*0MaoL[TjPU969kTdkM*<5V5Q&-q,dpp;S(6k6;o=oB.,YOd54>RPVFkTWr[mf]*V.(jUm'`K;WhVmB-uS'>1emOGnjfK\p:Ko.*Ti(dpU<&`j?;As`S`oaGP*N9+<GQ7`u>Q(])rXPO!;p8LGR9O.I=?C?cE=$`G]L/CP8/8Y`=XVbE\>tjK?,!SSX)pk3^n&b3WG]^]V)7Q0NQkb*4&Q7MFOj$+1[Z`h@@(nKmOI%T.WD?+-_fUrZF[tASTR&4+t6\m!@sJG]"@=pG>BP3gXg;-?_$;S4`"gB'-]A!9kQVJeW7LnS#6Kb@i`E$6/k6k,6mc(P4jUZQ`mKaH;uAq[Tm]c/8I5C9k5ef7e%qKEj^ZSc!b_Tp8@/V-S]WQD.;\`J=2SL\1rg4;fW_tcenFs7pfQa[uk6gM^#4uD,W8ldbPg1Y+XJp5*e674EHo[hlrq;N/l[WSN3P17G[d?PL=<;(bhBL^*jF'M(aWWqPr_Vhn:Z*4/mAo=6-L>,Z!j2o%NgLft\[g)o$9_=E,7sQKBk^ZM[N2lC]LZg#kFE^MRGqI-h0Beb9Z]_aRlmanKp<hasEcl>e.MQ":JdPmjZ&VoH*p4ZesuZe?N]"^-^a]^1@k2h\Lc'ql+`'%KK[F],ef'*BRs5Ghc]@CP)fej8h>,2ZHLIhf#Unf)5`ia^*ufs.VcrR%aPl7u-jOVMO<>FNInaR.HE;i4o29t355h6r.@PBD.SSaKPVjOfgdeRnAsg&.f%NNB8Y_QnV?*@i!d1=iMnRI'-PjHekjENNM*@H3=d6Irdqe:^`ldUd@@Z#afuEAi='nM>6_Ao<GkA*pM*kM0(k6S0rj*2s!`3pWTQ)0_@oYfes`GEqSe'tD^q-e6JOX-A?E^9P5LF@W@H.38K)p/\pYJA6_Ll4c$UC?Cg!1tE-UHX$Um,O\I-3)TqJFOj$+1[Z`h@@(nKmOI%T.WD;l:9'e'="+TjHt.5!l&J_o4.ULlh2Js<C"VMdS%D::U^A(kGp5j&OJ7r]s(>j3:cu]3^?)JA^O4dK]?<oK1gJHm5*idll?:?(NjWRKCdPlB/O_9qc"s>2T#^W?>&Ns(J8(/[fY9uP6*`lQa*q_(4N/%eX'g'$g*\JAb1\OMK^;f`]-U[a$(K;1R[R,gOk%Nq8PU[&066&fo5X,e)_bXin@jV&M#S*mW.!2ieFQg+Z.i(1^F^m6o"DG#he$U[CFlkrG"Yr:3l=,#gS]$UaF2SbChXB3;X-643Mkpc^9<jW2DJSGq-#41oUM8(6h[q5:UQtTXJun_S5i@7NP=54:emR69BhCH7Aq0+YZ1Y`co5cT%Pf>;Bk7%5,0:.fkiMX7jOlQhD%d#;8<3PUnG0I14/]%+`TjKnPK-F4nlJ[i_5ZfH?Bd46<GJRSHn;h<_6K0^e-6Lc"_MX.\R%iSIMjAmP9>!>:+/OanU7h#[YY%V3H("R#he/$2b@@,)(S)MVk;;sS@W:@6+2=abO8OfQ8MoXX?ksJ#[<b82]4K.\sZ`al]Rc7MI+d6Y"hTuD.:;.eeqR.+VNQK::=4K,TYEKIQj*^X/qoIl5kbg8_V@J'k=q.4_]ljl0F.iX!2@o%c:eXVY#\BX<kspV<Fc!hO%g9gjnE9I,8MM2?&+sTm@G0&nL-,F^^X*X)SGfN4_NOi^afodoe'Kc"=-.bUpY:ASpKK$5H(2^n&b3WG]^]V)7Q0NQkb*4&Q5WnGiQt\,'A2r#ImuVjP"m1Uk;qZ$+dPitCPmH&"`*OXb=JZVINiEE=Ru]6n+0=6Y`EJNKEF;Vd;D8nlr>)k4H3GGGT$l)^*6B&$BY__0j!gf:p1<T$]q'2eUV3%*6ZLY/5c/4\+9aA(Z<s8De2=ZrKDSCR3+YhJs\=L4)t#As,oGEp2/c[*g9++a5G:Cig>3HEZ&4W)+u?iA@A[!)(GM!&-NRHu5,D+/Z6hmi2=ZW@WL/3-F;JpnWSYUu@"c_5^0,]]6,oUtAHh3iWD3B(?[\s*'HhLCB\LV.^->A__8WOD`_e6K_SrC'T@#hE+][YnZ!CIJ!33g%kXPdH[_WXE$A7*HosHiAZ[50.4r!ZTiO0jk=NXVC-i]L8j1;FEr/E2Zc:=%DYY[Wf`SmJRJj4eatXCMMPHP>H^1IgYR4`(VAu%i(eXjk8J]mloVhq/$cIQ:RU'dKd^?M>1EOj\h3L*:eJXhm7(Bj]gJ(jK8.@ctXsdJj5Qkl*nK-phl6\jI``RI?!"]na].9NQ\Xioat;sP]#6oJGI\r8^T>WI>M&naJ3&gd!1H-bGr#K7U:V?I?J]]7XqflG&iM"A`Xe$4'SkFoNI30R7(r=J'csUOfPp-o%PJqbibM`71lVnr)(rGru5qK_rN@D@@]R>I-H]W[$5?CKlZlVA1Xck2NCe?^0uqYLaaQ--9l23K?2lS2BTub\H0aMHep\G-2s^.24qFhK>uVRMpAl6["hgkW&RZYmW@#OFYiG8V.#^/D!ie/OXb=JZVINiEE=Ru]6n+0=6Y`EJQ"Z2JF0If<rd^TcdXCUY11ZI0kdX/2YOW`3_%u":iW9<h!(o(l=SgO9#E:=f\BK<,?<YsB:W!\j/u8uG59/?Y0n>i!d?]kUq.FfQ-un[2`>lFmRS'PeG"fu3-LfEdgiXh:<QXd<K\G]\uU>'`j4:]Yp+\;duZRLq$bu.F7(N;ae/7u=_kUBc-lclH2a$*=nIY`mj_V'1,VDS482o1GEpUY,$Vd8Q\6X+d]o=&7;2nB%bcKoG'/0],G>TnqQ/MYTq-6,k*%0<d5-r6M*/4J]Z\e`<0.ceZ8@&h<SQ-8;*=Qlq"D#5qY'bTFqu^"XZr+4ZoW)%\Z?ZCfOj0PXu2c]:uh-50%k/)-bjM-^_4pC.G3I%M-+[BMpn^f-BJ*)`65".mJBVd[aoabUIVW_a&7[n7k?-V%'*,T(q.MAQq:iaTd&!r4M1K.M0JFL[nR95+ut`X*t\Gu,0tr#S*Shec+P7*Ihij^0Cin]INRflNV2[=4k;,adhte!qDItT]Nj,-'nn4p,%_HJ>M_oLEHu_oXOkb>DjqRtTDC#dH:EK>&c(FBGlKp2._In7rs:<oX0&AT5W8MJ<sNk7[?'EC/J9F/Y);jTN/3liDU3gZg]rtB[VbTi-3h]WSF&`WXIj%0i7m>iV:FmS?[PEJW0NKfHaPa(bH?le%m"/NVf*i@?S3kld]c/0`0?B'P92XU60,nbc,[)1DSU6MJ)9]OF/<JdM*YY=Yd*BH<SBel02rpj!d?]kUq.FfQ-un[2`>lFmRS)&doe'Kc+'g=L0_Nu\Z9gBWk^&)!5S;/^FK9azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!%O6kl1XGWNJV~>endstream
+endobj
+% 'FormXob.d3453dce4c67b5d5e94571d961e0e5c6': class PDFImageXObject 
+88 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceGray
+ /Decode [ 0
+ 1 ]
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 320
+ /Length 13204
+ /Subtype /Image
+ /Type /XObject
+ /Width 740 >>
+stream
+Gb"/l$!^D1gAdd],TmX`_6EAF&MYCp>S+g_[9BYR`#TR-'K(b?>YrqMEFDj(?q#$#<)DjXBsj573jlEF3juH(S[M_VJ*jmsVbC_ads#Cbr6N&"+j4H/"ImL(rHq;[=e>4imOuVEH[e$U+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>.ECAO\ef!ZbC"%MMGmE>fCoc!],7usLW:a?kaGpeYR/sppj3pf:dr1e.54PB@gE^qb:/Y;]U5hY*8>+OLS`2^p6tZ_jNfHn"W,_N^:ug+-C7K\pe@9XO)J:,t2/XG-`n:S`NEZXdEV=r[j446GS:)O0\93<?B-.C:DB5Cif`sj'>8YJ?@E]4!JBE>!C0`C+R(RhCc5<DJmHH<LbAWpn%FKEm9_E^o>Df$)T+*Mg6PLH:;Q7O2?Ilba4%;G/YL[KQUj'K*12VA1j)M)YWQmtC$W>bfh/8uS&r9:rdaaX=q(8)%>4>H+7(:["O/JTuNQ7te[$9>#@_0*rIQDb182)%1F`RoBD5(BV7hohs:6RC&QGHr\\b'tXs3!FsC\WeUU%.,ns7Z3apP/A*<&(6>?[`G[D$7=V^&Xbm+`>.n;XWoI>9lcs??UCXg1=mF#j8q>8IAdPrMBP#doX9ndCA``U2a<_ppp%c"XE/^+EA$#nS'(0?(3+Qj+S$Vn>$O+l&WYDOK'QE=8m6uWulp5Uu:MG+_$jVGdIH;S*'Dbru?PJ;,s91Qq/0P:5Jgsgo5Zd,^2gr'"Na1CM3S&MqRCsq?[1KanlCf5*8`]!(u8frq.bgp>Bm2GRs,b;u/k"5>Mf]e8ZUt2"`5U]NlU-8ANC&;BGTnl8%6Ws,EZl)TC8lgpfQeK`/t2c-J1r)o`*npAcR3C'(UI"O1?2::`g\nI0:RnGVUJB?h*K(]>$\q;6Uhl%@R^h94k!k+2A</CaX5qi.e/Ii*?Wno"8AO<i6K\[tMji2rk@9]'4M8NG9bGbG&fK,=48:`BA366RM@^%:@!+74.<#emnFH@k.[n,@Bg[S9ZCnN)*hiLa$o9qT1ercmc?PGh)Gj,G2\B2QgTTXk<AI.:A+Q'rd>p,Cf3VlkZ1?[T<j*dmeJA"2UGF@,'_;d/j.3@t0g%96ldYWo%#LO&J"H$92Zm[mF*rd+EHq6rTGU>Cu"j)4nRoW+nR]5qm!=+4=o7+@Hgq"K!IX-PSjo_$D3r(f7)_hu4BrAUJ@!T3itX*;HohlkXD^AQo[QuhoGJcD93*`N&cpJ^81+7K3ll@\i)qU'YLECAiF^Nf'J0K%M%g\4cbF6W5aI`fDaj4&:RU%(VJ?\cJ)qL9N`MJ8'J5:UT)f]!kMG,W%$]4p-mL\<saSc%%8aX9Y:0%p-P0*C4',VZ+VpV.""DfFX>_Oq@7nUFP<"B$.&jNo_5pQ"X%(R@'2IM1.2C>1#A*,jP@Gi?*,BecF`ndj"">,-)_[hU@,cl1dJp=[uGg#^]t&*gaI-GQ@Km2t]fDNZp`U(\^h+'\<]0>aou8-2MFWOcNPfghX#IKQV)U&R),K;6"F<tL?A^@2#kdc#--(>GfPgH14)r-07;+r[(3p"q[b^0]M-q+7aYBBmPF)^+*(im]%Qg5s^F\oFXKli>$`KoqPQ0>QVE\UWa(g)o&pWNM$QUI=-L>q]n17L"ce3dg<,Vn"$Ms*(mFhj^@6EKf.<=oIE5,5QE.)Ga*):Et7NPMRRaWuu%"rA"?Bp@pX#:Hh:CnYr[os*cT3.>[l=WiROe]c,hP9a5G_NAm#59&iNW9$FudpIP-iQ/Y`@cn3A='Ae,Lci3!)IRuj?S,SaucI4hK2#^G+Ni)($s4c^:U@Ar=Hl2cXD>WWT7,pK2*ObSps+,c"]I"2\:hh6T`tdp/SDMrF'dknF\S85fB#b"AI<9M)\FPfrf:64-2W*[p'h%((r1ifF:M`.j4^-bV<V@=+XmZ-TcrWWqEjF3jj5Kdr")a?Lr.i_qY1qa9VLBIJDomC\k3S@gVNBp7fB"V.SsRU=5:,LLJPVR%-GSj?HG-eKB`+Flph:m^0V;_8`R!^^48*pM2GT$g^Z35L`c'/pM>?^,pR\9T.?-Q`aa=%2*;]Bj7^nQdKoMkjhhRWghS1:[ni7>B+8u#59-W5nJ!kEN;154L-6HX?[n$)F&</1]P%Ts>>7,$`XaJ=RX8<uoA_`#m\ouR0Da%KsUQ=;s]/<'?p+ChS6HOdl>g`?1embk3qhKp,nG#!\r:$7Ak!Ri%..U0NVQW1R"a;c@N?akod0\'F#aJ@Q$#_]h(u6Th[8+>sEE.G[o*/XBpM\-.4h1NPA,%,bai^,e>l*Il#]C^Si;SKt-"$Ra/,?:O]_pV609S^m2[[U_]`57gKEpsnR6fQL5AgVSfC)McA_u`1iLp$KWR%"X:]LB_0_l[F<sY(0_/2V?UJLQRYAa0)e-HA!hS0jl%CYf%q_brP7L\6hSm&gNaE_6_kWrQ;ChI:U.t:g!fB0biBTNeG\<\S%Q>;7T)2IVn\nonM]&HbOObDfbR7F$NXtZj60]mtoJChip#O:+;EOUqM6!YKBP$>%YNOK70S:)Nm#@njJ`n:S`NEZXdEV=r[j446GS:)O0\0^+#e/B9<[9E5BYT^RU2Occ>B7!jJaW65bO[-&#cJ$Y8+Z_De)_Clg2.jDW4O-,%cK!IVC7K\pe@9XO)J:,t2/XG-`n:S`NE[B]qlCZN]XR;MYs\,l$iJ!)+i:%M/,dO(n_+h"T^b2=p7O5pk[RH-'o><_@;(Ag22]U*YAILX:6<uRcST^;EB^?)`_%I(j`&<bE](+M`?quTVI)U?1esYkb4`^6\)#]H@o(/5lm&Ce(6+5n(<Ks._1h%CIV@(,=S`7KAMQtul&eJ!E6dg?90FZZ3*=T)Qk^X/Q4:/462I:G#+#T^eEVhJq?9:I0ictc%/TAe-luX:$ELP;aU&JXX1t@Ba\ZV*#gmm[\s322QrY+k!mQ'Z$%gV0k:"_,jMnUFNh%#%g8ukDVb`Q3M6\rTEj@I''-.[8HDX$"`[C,Vr;CAN*i&9KM*/>?-Y7qM^^Lb8^-f/e"Wj.W#!lMnhSJqcmc5@$b\iN@KSobPbO^J)JtbsN]dLFY?h)u=OL78.GXmTd`UX,::8LK<I\!c+%c+bJG%gU.Blp'9Fb;S?j*<B?flu`i52r)"C["tt),EEH\2Lgi:Un;BE86n3c"%B3XYOW=";PNm7,ni^UjcK+&Jc?MC816=H^DXIh7>M*P7ofh.\)2[m_\"TlA2gLERuG`@t*K'pX5`hS!nf8]XGp:0ca4kja)@b[gic#H`9HA!^=sXm1HO=K.5l`OEb><SP<9M[mG&eL'O!VK_Y\@ZkDZai/BJ]/&jT@lr8j1j&<+H#'3T0-I,.2k8^BW4598Q02ZE_QYK!@g=`<!nqh;lrC3G:*qa99[LIZ%dhY8NK&^@)6"l6"%tZ9N*944j+.^F=lQ$2ria+Ojpo=C]9tPONis!8<_X/6^^(VNL2Dm*bIB`a2)$!lRBko[G\`5GQT2_3a`L_5AVFn6[@QQ$:21Ck+-MnL&:>?l_\jJok8nBrlC4lE\.b/U&a-YS5QT/pjkd=$p1SnM<e@R7/RfBuLeWc;pY^/-+GfB.sK4[8q6[W+7;Fo(u,aD="4C5$neBfT@W]_>GJi?C.Teu1Z"lLTW?"kr8Xi>3R94?CmYg#SrkICGrVVShbn^Xm@b<'LoM-h?>S.L-JAntSMS&`K0((C>tGX1Cacf;0<4d8UpNeQ>P.SGEZaR=HPo=YBMY=M$SReg'&eoL5KKg;hA-K\(Xi[VF&3M(lPiLV2cAdnQo3].YII%8i&4NShN$L.hA#Gk\qYI>`f5pm)q&;;G6L;"i_SBsbQq-$r5:WiTndbHqi82"]gL-"8q?3Ef)555AH5q%^GRfdVSaHDnE98E^k9.TSr?(NS4m;XW6QANVf(,&m'g9"!dVbU4@dJ-=9[X.A]c?)H0'ae$k;Oth`6Ul+;3`)N;5d/3sF)rZ6@+<=Rc;C?-^N710]4D\dAu7l@&e]qcR,'FKKe/+V!2`-5VA/!pCah?f>9@OFn[f)]R06(&Frn]!Id.&(j5Y/lpBJYAfmYBNZN@)2nG\/ZLdK#1Ad/9cd[$SinkAn4nRR=tb&,Bqh'Nld$',Ll.csM])2-H5'_6D`/P9\83t`r6TpRB1-klb,Cit?J\/*)DA*DJiNRK7I3feY@8XS/0NX.E]]0?5\hX8ZVKDtQ6PSE7<qH(-PC?@F!I2lr%mfB[(KGq<0:ugmETuJYjo[`;YhV'"TcK"6niB1uuTZ5Xi6B,1SW,_N^:ug+-C7K\pe@;=uFC6RUf!q4#.Oo9#:EDS#;3)^!$Wd<,BghiQe^e0uenV:`@QWC=->tJIIHB[\E0I[-J578J_<*nf`p&KNCa^O5K7=gHTsrUAOB7\-0bbRPCGU.c2U?E9(KUdL)GHGiFh"@g9>.P[3)J:U__@.WX/<A[X^)dV[<=Eg8U40INjaJS>>&1-rUijo8QmdPi:dTD[Jp1&PfBJ5..^3LpQR1+VJIJ#o[[1`Y;!$\9Y@dlqrrJ'ciAol(TuNP[j+s`\"uJAib&r8LSTM'a='r*BT3O(BmS',#b9).$ismmhc"gP5o-P,<?)FPHaDH&YCI3SD_:?&j6@&]N8@a\qPn2F:"&`6Y#U"%rhe0@K@'3L<EW?RK@iQ'g<hm+CTWCY`u#/C]sZVo'WU]ShHfp)E:lo'o^#ZCoVLrf=c!L%"lA?I4L"(VFTei:fl,+>C@BnUhF)M6[/[.pR`FaP9"=<jr_`*);`gHmUUQPPj35+r5:!#5f"U!,hh8&\Gj*.8"]W"M(g&Du)IGI--0*SGZTFt&o[[1J6.L,eV8h@qn7eKcD@[>1g4MG;(S*0DkhZcdTZhmRAHA#DMcS7EYN$Um>=+o?-30PNQeTA'Xi@?<rkDO63ajIPcA'GF9+.!ATNu=hH#"kpX1emAX7<Ncb:e1kK&Dgk+Bjc^;)[K\(.1DY1lgErCV]\8OYV[!K9<W$`ae]MRX)Psr)67]3,s8)ds%Lc`$+Em9+YT_dc$Ad8WCa?;Z\%=C[[A.0oO1>0l>(F:`1b4C)kNQq?1mu8LABC^md*k0H^+9D&W[t/T#pd2rRX^S?f*i8CMa>9&p?gVHT^645%l0+I/6U$["c#Fu569>,rf7Thm_;()qO7T@ku&Ufia+PCEm^?o's&kB(1t."I,MI:0n2.#;%C)rXD[CYS$YguhOQ)okCb!I?=mS.*,i-'Mam9E=YAPd[aDIr0n]>FV<_8-\2"e+nS5]X8[DX.BWa3oLu1Z#9aN(QOuX57#ZH7%p9^[ib#FY)9`f2A/>pm8H8?Y)bYEFF+qNTXP]?O..6(#K/e;C>:j8NO'.K)Rh!=>H8!TCO6mXO0]@Mo=/pn)J:,t2/XG-`n:S`NEZXdEV=r[j-GE?URH<DfD!_)E*<[U^+Q!ph3sZr2@SGG><5-FmPV+CU\BB1k"%)\>"q4nDlq"pgTJ#omFlIIedC/KeOmlRNb<''S"?^.7Aj^cT9>6'WH$E*,o#mK:[ZiTi2q,R/ZaQ\Q%t]@$]%-'q[OVC*W9Gn1jS#LbhlnI8*d:R/ZR0T[s$tlA&FsfDf+7:k4dFn@;/U9m?fpY!#NSNANGf0^rY=cSc$9KKpnMaCaeq+K#/tD`d%s`Va/h=rV^/0l+/>5I/Z5FRBL6#c:->mo[^m)Vs2Z6gdsoo;ouZ0$K!0,_!memk5g<RK5LPqib1JXZphA[Ds^sLqsoblCYPpJ^UMd<0,/];l%m.%f8CM=FW/$,iR1Pq-GAVjlK',c#&aP^mqNe6j.k&\:p7H4f.t0&hI`VaG1c)0\dt^0^MD."-?!bNeM>2VK-NS)D2:N>"p=4JgD'hgoQX9nI*(]>\H[&\)Q,0eXa+\8"2*>"Df(uOk4dI+/e&RZbGHLN3#Q1/VUP=bTS"/p\+gs9=9hS9U,+<+ksoH8IAKQt9.&)uJ0LAVS5H1^aTdtMA[Q>j)b+`tP_ZG9J6M>Z7%m`s!D^2UPEdi(EJW:fCkt@sXi>(5C2;\[Z[D2ONd,?oX>Rc%2J*'P7'c'5GkVTZ@W,GO[oO)IkL5@@ZDE$ASLKPR('T(6V)06jG)s#,1_,jBS]Z+9itL-ZLjaa<?\Mu!K=BFDJ*8CXiCDpM95:1thtj&<:VuC.I6F3*9mo?n%D?HMT8M3(93YA"o@C'J[Q(;ihV,DRc0qbLeAkh[`:l7aEp<,(YKI>b.+W)p)'IL?3rNR<L.%C;_K#)CMG_Y2?D2o]P.aC?R52uIbZ$b.?E9AR:>7n.)j4b$f"/%j62p`fT!,cm6d<LA$ff>6LG>8"D5L4^etqttr_LpeCFP0VX57%&(>HR4[[gUnHY[s]l-6@U_Fu>\O(TM11MgN<2EL0+D%4-ANjO?2JCk)nNEZXdEV=r[j-BgoC\9r2D%?a3EV=s&*k)VUj6QlA`iT?m3;Yt>EU*T^c9;eSgu@6!(^_.o[I%9%&#/u(rX9RG/qVq`o[\2Br&TR!#&inY@g<>X[Z/bnp%B9,l-V3!/TIus]s[(+m0X/W2DqZ/eoG-V^qps1)bO3$ij)3)K(ntU*eJ6aQJGJbA3a+!kaFks+ka?%C;uJ\dB`[I0Y;;)flBK!/UD3E5d)D-D/*>=Xc4J;[eD689n)g"e,mq;?8$X$*u'.VMp-lM'p+Xu?c+nlPUfCf#GlhA,gH_AAJ*Dkf'GY?/UD3E5ka0lO6*7XVVYM>=u,8ZPc>lM.s31T(jlYJP3<>Is1Mng,cAX4+BR-qnO!O].WJqJ(:,<DhHKR&Fob\/OD?JG`=1VWMFB7d6_ke-]dQN:l[ObX2t>QA,-mlD$/sKj<,4AjbW8h%I,%K+(n4'Oo3BbSlp,J@H>C-GE&'d(PIEGnOX!DT("&,3^=jM/aj^$t#lso[*;coW)<qq;E`]fPc.!%s&d[AKS%ho?c4H<_kcI9lXnc\uqRDdd6R\q)\<:YDcs)F[a3>.O"(E>X2/XG-`n:S`NE[%ZXjmNe[64qga4U^7H/(GGNO'.K)Rg2Qj6QlA`iT?m3;Yt>ED&YE@f"R19\rr-diYWeO[rZV0b<KM7;m#ZOF4-AqLbXRhV*kC-'9FLlWWM!C89Lo-YN_2>Dq@l/g*0o\;e"t[l4"0H.Z35FD1B1i8T0IY4kmM!Sb&._Lf\J5spEJ;Y-N58VR&R-V<s]U:7Q=39:m>0GL"&CLQ\tC[;\_+[sZ7o0TIV3O#klhn9%ZS=7B\PbFLAlqlkY5!,lT2X%83Df(h#ial;*lE(6J.M\2fB>T2!oFEC1^TUOH:7;\4M8iVf<2oei.h6[=`lrti>4gBh$1Ij*f,-WSVVYL[37"_Uq]BcQ8V)0YL\q.a7lllnl8)!/EnoF0;c84i4X+^;m>nNW`jH>'CXHA@"['-?R4aAaH>Dp2D]6fOn^Bil5dY4MA8mqu:bZI%1jI5*kY92$f.Ii_h))3[P!j4?H>Cc$a01Qm.X@^L';7^1/RBMX5Bm]pI3@%LFatBC*sa`A8YEOn&+nHH0Q8(G*sh%LlMrff4qMJa3^A\2%tkk1%T)3P"/3^d%Uh#F63_?[P6DaF_RP-B'bSZ*>[cs#jV[)QSa^5EYt<f:`_#HCk"6jh+MLB7h&dCg=E(mo>H9O`F$"BV'/`NeFJ+<'(XCs@D4hskEX`tb)u!;B=.f@T4l1Pm!aBRp5k[pi3(Y].i]8cJBKYCVqK_3q,=ir"V4+]^b8G3nGDir=`=tGqA7]!n3[26e(_)t3hHKJKG"t?\j:A]:eGM.jZ#4bD#M*q%+F6h,Y;F;IF'qH#5gi=X"hDe"8[@s=6<I9@@@X-*0<sQgr+dX3:`<\Y%hM^-h'%bJPF4Ht]n]bNk4dH8R">jZ$]fM3@o$as7k`@II)1KP>MB.%4bp4\;M4-R=<FWeJFt/a<"b0jne1)\:<@u?A@mf+G]].h=a4_mLBS-AEKZd(`*!D,O%fg%)BY8l1``U7EV1ZD7Z]n,Em@2HCO'-O2/[k]D2Tk<)BHO**IBi"8mqHNVSru#g'49aM4/+*l6V]F659i6LR4'U3qrAKW[V7C`VYniFL,l53"'YA9""65d0=SI-iAePE@6"[A.[!uc?cu+G$!BjL^rKe33Wr@12G\ChV&`Dn6+N>(K1MYHTKr?rQhq6+)fiA<hjY@D1G!UT<sYO$;bf#9?L"bHNq?H'iQ.[]5o$+iN76c8oGYtaXO4B9:WS@n.-ju&<2Hl:TB)c6^GC??:#pa:p6BXE%/#]=l\Z=f!^rtQ`Zk&o_$.'4!N[C5n'Ruqpm+3A?\^WW!r/t\\`?r1Vhp'5ft)/.K*Y+Vo)3$fAd1_+;o(Z**IT'l0S(7dX$`tc_"Z%#grF/c,mXaZm^K>-XYn!drOHY+BcZo_<i:^Xj.Uh#noDN&Ri\"YE,Hfp;qE(qQX:b[g$U&]H*Vn:ugmETuJYjo[`;YhV'"TcK"6niB1uuTZ5Xi6B,1SW,_N^:ug+-C7K\pe@:2u3FU[r6`AJj>2Zqg^/GZ0r8[;B!!:;T.d0KfkcL[JikDfO$!"%@#r+#Dn#`.'GfRC`l9CQ78&(s&H`=.K]LUfGY&;plk^[(HUR+ZI[l+QeXmHH*<uD@uHYY:^RsnF#6$t;1<h0_\WmPKBH0)ke81E=3rgCoUj1_<?E1IBs$[3*\9]\C>BKhAX=5%DHkcMgPCV*!g6A@i#hV']f*pKlUpmm9LZ"h_<r9#mTcX"g\:Yl+78sWiV-BEV0c;ctjq8)JMGK\q:?*1#\hHJ^D[S'l5B..<ZXTagCe=4KiV.K2A)OHQd@nuHb1k(#"_IUM'Pm,[S+EADpbXbNC4[o"oikDg+@DIdpV<kn'8RB:eC,E)Zam<$5d!g9Zk7)Dj-`@@e&t'gNh,Yr*%h=;^&=`NFa8IjL.5QV5>26Tq.msRtQ*U/8NnTlS(LVh+]G(^,f5S$sn=l^C_+sD*PI]rDA`11&1)[lUeVH2(=3Q;G)34-QTeMSE`NIAg]sY@gXkBu7lf732I52h8IOnR\XaqBLDo\ate2[=jW,YH3]sW0Z\$h'Co/QV430.8KW,_N^:ug+-C7K\pe@9XO)J:,t2/[Cn0GU&4>AN;ZQ.gC.7J,0*\$cYM?J8>uE/WB8hV.US].tO*f;d1npS6p:G*>=4/UD3E5edpk&nG0^G&QaujGc"oT#tmn7)e[sWb_PQfBeKMNSF($UqOI<]d2!0Mr*0jE4UU7UL1?SCStE;#=(/.mRaCQ=5)I"bDP4"L!O&E0C`h-G=;)SU:7Q=N8+R?%,2Gah-3Mf\^uYW*D7P92/=$Ko/j]_[>S5oI]AEB*5/cDX^t-r<T)OqdpfY1CSuH:4q4DWGiqGo;^4p2IGqYSFe<@4M\7Mo1Oe^;M;DG.eol`ZCDf;URGV5<89n_BB@qoLN<f^`MXc]\D"CWSgMo3k/8d+2o[]bGf)/Y<ol9WT5+.F,5F/A?ej,4a\)YpJC7K\pe@6fUhHE(h>MI'2H(9:*SB%`6e2[=jW,_,'29nAsC>:j8NO'.K)Rh[C?*5Lm(N;4W6A#_\K;ICeP"@Qr`f9OG:7K@09BXH5\N=J"Df%SDkcM64ChrW_(lDNS0$[TF"7Z+]Y'KhgTmD?o<G^p84Hlr(!7?&,iSpUNl-UaPea?^PfS74HHh%cV=`/)MY)PHT[;FNi\(6.u[M76:VStTU:Y9%Mqpe#0(X!tYRRe=s<'u;hQ\?+f,k1+qBA?F.?ldWpLrP>WJC@Y_mO44S;[iq5RfK>qgG!kfkma?LY;Xn?\\,=ef:ob*Jf%>Gr@W`16DnhT,LU(Nh"fu1EgTS#\H+se-bmmcnGQ+%dM&>.['09K)S\S0?FQmI"-4LCdL1W`q&$Inp"%P0pF)+@B\[F\g9teE>AHfhh-&cT>,p,_8G0gu2eKj\b(^O'5m'C+*;Kg&;k*S`h^>Amo4$W_Z_;J.O3!ge_TRZd4B$/MXmnc*MJi(<[P=tp[]Na*eliW:JI,s+MKSO#GfQOE!)dOaFNlrIG1b6pm,^iqgEq>>BtQ?ki@h=#)kul[Q%e\NJuTF^pA9T,"bh$EZkC87VVYL<erP"DO=!um^9MEJDf+7:kcM68"KPIgIWIQ0]8)?@YG_krB\)2]9>elG2@;FM1WJ&VoS'M\X?Q&r%dLW_fCFCO'CtKIp3l(X!q]M30<c;+[<!&i?aACCe$Up.\$hi2o[[2.G^Z*1+M9mU*MCF*#==DS#H2Y9JPbBm"F=kV5]:KM"6X[tJT)[>%T)3P"/3`:"4T=-5cA\g!&`%c&8L"[TWP*22faj6hRlE1(jg&Q25-HDVL<7E]Z#'*QaB*V)VoMs;m0C`ju'3K<c^dNKmN5'S(+1AeoIuVqZt")6s5seZ&uN(n>*X@Y8dX_Xm*!rh#kR/[<=Eg8U414c5953*`KJkd!iRhUNk^gfi+g)BZQ_#g:[?A"!Fa'D[:WfO;lfG\(7:P#FI@`N#Y5ThV,hK1+fnYCLK]K/4_0co<Z6I@.RRCcH5P0SLH>^>>(Ff\_"6+LrT$qaKt?d(OX.]LXsnb<lTd\&L\!%DI[!km>)d%g5QNIi:'SWNMEu6U**Vg#_j"I3s-CHCM2bYNmRCKL+/ghmo_#Q\&36In69k`1N#p2VT?,_/ZnQ2G@tXE&<6F6WFcjCSQuRKT*Ue1DZjgIdGk\Dc/2qbZa[A*;Y4i*kog.PEA*ep*5/`q"Z`9WA"hImrFk8o--M]dRXtad>FSro;Fr*n*#@&?H/Mu+2uDse'H-YIV1m!/d&t/AlgYqRgFAITEX!_s;m2%tU\DYYXZst0hV)7'ES!L&@+KD'bs^UUXgKFkDoumkNlG-=Q5Y$aA%^AEfCRR>TCra2&$]45f"nN='lQ8BN>q=j$Nk=im)"/2kI#/_65'Df?P+&KkTc:=/M2c+Ac>,4DVd7%<M@ZSbiu7c^/sG!A^T1P4AH(81=8(-CFtB:Ku+S#o)sfE7c)j32^e+e]X?\4AuY1iS9UD0S;Cb+RLO,G&Vb^L+[_rb%*G"$Wbk*[*k!s_#l'Ul%$d&i`_pB3'oFDq?9:L.`gko>\I-;8i6<+bKs9)6''!0felk6X^-4a?^l-UrRL)DqpT8<"IhfU[NjO?2JCk)nNEZXdEV=r[j-BgoC\9r2D%?a3EV=s&*k)VUj6QlA`iT?m3;Yt>EU*T^c9;eSgu>Qc4m8Tg\BqbJ[t&2M=un<&MjH>!ZU:k1[$<mh8u5:m*B>mWLN\c.;bH(F[Q5M8K7=gH[BFTBeliQj[l18[25=WO`pXY5QC7Gm,.lC6@(L8n:sB7+dJ6QiViW;`rA+HkfW")pRT<:OgAIDNcWOFn%$IcoB2YoB2R4PG+'W]/S^p:^A,,)i3ni+DH>>*iHJO2pH@KRQjDGfu[urg]]fH/qGA_R=k8[\%7!>W]bJn)M>1sr#q)]!BIO9[eaP_KI6tq'WXp7s!NpB,`ED:Kn:$W2HUc%iGrqW#l[_ATi.f@nKp(>=dg=7L/UUSgKBNsM@2d@9dE"J>T.^nonnkZh*;G$j9H87R-l=FJ2D_8*]M=VF9)P;>pXrblHVU(^8Jod&,--%=Dqo@@O2H9"9Y8>*<X[b1?_Bm4[W%!_P]9`p^2kQFXC\ZRgdPuPg/W-toIP^3GeG/>Z<@j9]T"n"7]c\bVha$3kqps16Ip73g=>+M19&iL")sZfd5sQ%N@dI:0PT8:J&soZDD)<X<A-c#7fNJhkdN=.6a),^W#G4W7@S#^G`mJ"+8Pn8I>M78?_c"1UMX\45jkrC"77H,<-lk<d/S00Q,.lCjARi#a/RS4CN"[Jm\P2bFNn-2>?%n_5gW.5"2lJAVdDr()4oAi3)p2C>0D(-MR*VQA:a07S0\$eq&+gch%V!(kd\/9ah'J&U\(6_8]X=mL7AaLm:?0H,D<g)g/B_%uGa/Db1FI5m)sn<lX]@(oPC766'FG#+G=8+,%FOsd5j4gKil/gV<(q_D"6eccR[9oM\hcA*mcuV1+YkFU(C1h;S"MtOdJ2YEZ[9Tr3UpA&1G5\eK\F2DK&0[ha7T5<,5sMlUD^^.Nn;=r&)ICt*sa`A*MCF*#==DS''QIJ"22**%%PAk#JtcA3^A\2%tkk1%T)3P"/3`:"4T=-5cA[\K<h+1G/[Z9DTd`K(5Ts6>i6IUk2T>mmBt]]0md[V9tdt2qt->%C[(7*>:b)9T,MB]mG('oEt"!"]X>=VV@71IfD9-3s7l"TY;mO6<$)9hY(#':lf@01IHS!7FY\5Xl/OPkef*o(C[A0_WZg2RSiAV:cs-BHU"TJ=Fi-O/^InFL\a+G2h5HLR`o9FKR$S+X'Sj\Shc#4^.aI$bhT-1q!jdcVKt/]Db+X0T1k$p5B`,F#A0BULV@"co^CHH/2Rd,gero&Kp==!Ql"0M<P01Zpp>tM?ICc(/Snd=/dV8W3"m8>i/qH0WU9`^0>b8G.Q4?cpjjm=NTT.-L3,("dQ-o`ZYs*k_KJh+>:`:EP/^O)L_C>$3*UZT#)0&:/Bt)sND@4YTXX2#!jK6u"e'$gSV(+,#]SbS"V[McX:YBA[W71OD+gt2a!3`A$3O%`6XAN&!WhE$Fe57.1;smj]COG8<=Ii:PfDaY!/>4ogUrpiN\.f]Pm@T_4m;#L3>gU8.^U(H[UUQOM/n8h%G+W)1D_7qNbNGHaDs^I,jfKQp9#L_I;SBIF=UFr@`p(/A]*J!h@8dsZjA'L'33(S'P&c9OUpjU^pKYe_U@-UBoB3XoQUB&Vi;u0$lPt$I>j9!QUU^ht\!B316Z6hb5.qB]>!(E^JZrnBi[j`Q5#kG9g,OdqO^Y6'[hdsCJX`lTN8'edT&@%n<UV=B9Er!%+]7Q[76k[h,RT-iqbXEKh=$UT7,nr60NJ[4b6,iK3I9p%Thm"cs2q=plTS#!>5G`;]sTHhoJ1Z,,mm(q`YOKhg8?%*50c>'?6?Wd:ugmETuO2:e2[=jW,YJ)F`4B+KrpcL4&AUd^J.`6iafMu3NXM<3YJCag(ZurLZls4D(ql9'd*d6+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)Jfk>N+:*QA#_F0)K(NIM5IrWD9E~>endstream
+endobj
+% 'Page12': class PDFPage 
+89 0 obj
+% Page dictionary
+<< /Contents 199 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.c1173058a218add04d37c463733ca4f7 85 0 R
+ /FormXob.dfd144e04de16addab454cf4c066a8ee 87 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER70': class LinkAnnotation 
+90 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 458.9729
+ 674.0236
+ 0 ]
+ /Rect [ 83.14291
+ 631.7343
+ 88.70291
+ 643.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER71': class LinkAnnotation 
+91 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 45 0 R
+ /XYZ
+ 458.9729
+ 524.0236
+ 0 ]
+ /Rect [ 94.26291
+ 631.7343
+ 99.82291
+ 643.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER72': class LinkAnnotation 
+92 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 45 0 R
+ /XYZ
+ 227.2129
+ 428.0236
+ 0 ]
+ /Rect [ 105.3829
+ 631.7343
+ 110.9429
+ 643.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER73': class LinkAnnotation 
+93 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 294.4729
+ 449.0236
+ 0 ]
+ /Rect [ 116.5029
+ 631.7343
+ 122.0629
+ 643.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER74': class LinkAnnotation 
+94 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 193.8529
+ 683.0236
+ 0 ]
+ /Rect [ 127.6229
+ 631.7343
+ 133.1829
+ 643.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER75': class LinkAnnotation 
+95 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 83 0 R
+ /XYZ
+ 215.5329
+ 594.0236
+ 0 ]
+ /Rect [ 138.7429
+ 631.7343
+ 144.3029
+ 643.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER76': class LinkAnnotation 
+96 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 239.9829
+ 536.0236
+ 0 ]
+ /Rect [ 83.14291
+ 580.7343
+ 88.70291
+ 592.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER77': class LinkAnnotation 
+97 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 371.0236
+ 0 ]
+ /Rect [ 94.26291
+ 580.7343
+ 99.82291
+ 592.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER78': class LinkAnnotation 
+98 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 382.2729
+ 245.0236
+ 0 ]
+ /Rect [ 105.3829
+ 580.7343
+ 110.9429
+ 592.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER79': class PDFDictionary 
+99 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 173.7323
+ 541.7343
+ 519.9923
+ 553.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER80': class LinkAnnotation 
+100 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 281.6329
+ 203.0236
+ 0 ]
+ /Rect [ 68.69291
+ 529.7343
+ 79.81291
+ 541.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER81': class LinkAnnotation 
+101 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 128.2629
+ 737.0236
+ 0 ]
+ /Rect [ 68.69291
+ 478.7343
+ 79.81291
+ 490.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER82': class LinkAnnotation 
+102 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 256.1029
+ 116.0236
+ 0 ]
+ /Rect [ 68.69291
+ 466.7343
+ 79.81291
+ 478.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER83': class LinkAnnotation 
+103 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 103.2629
+ 635.0236
+ 0 ]
+ /Rect [ 68.69291
+ 454.7343
+ 79.81291
+ 466.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER84': class PDFDictionary 
+104 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.johntaylorgatto.com/chapters/7c.htm) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 454.7343
+ 364.3723
+ 466.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER85': class LinkAnnotation 
+105 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 323.5929
+ 302.0236
+ 0 ]
+ /Rect [ 68.69291
+ 442.7343
+ 79.81291
+ 454.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER86': class LinkAnnotation 
+106 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 116.0529
+ 290.0236
+ 0 ]
+ /Rect [ 68.69291
+ 430.7343
+ 79.81291
+ 442.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER87': class LinkAnnotation 
+107 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 222.7429
+ 584.0236
+ 0 ]
+ /Rect [ 68.69291
+ 418.7343
+ 79.81291
+ 430.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER88': class PDFDictionary 
+108 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.educause.edu/node/267647) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 338.2523
+ 376.7343
+ 511.6923
+ 388.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER89': class LinkAnnotation 
+109 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 107.1529
+ 482.0236
+ 0 ]
+ /Rect [ 68.69291
+ 364.7343
+ 79.81291
+ 376.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER90': class LinkAnnotation 
+110 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 133.2729
+ 338.0236
+ 0 ]
+ /Rect [ 68.69291
+ 352.7343
+ 79.81291
+ 364.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER91': class LinkAnnotation 
+111 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 117.1729
+ 212.0236
+ 0 ]
+ /Rect [ 68.69291
+ 340.7343
+ 79.81291
+ 352.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER92': class LinkAnnotation 
+112 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 60 0 R
+ /XYZ
+ 261.3329
+ 182.0236
+ 0 ]
+ /Rect [ 68.69291
+ 328.7343
+ 79.81291
+ 340.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER93': class LinkAnnotation 
+113 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 629.0236
+ 0 ]
+ /Rect [ 68.69291
+ 316.7343
+ 79.81291
+ 328.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER94': class LinkAnnotation 
+114 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 136.0429
+ 575.0236
+ 0 ]
+ /Rect [ 68.69291
+ 304.7343
+ 79.81291
+ 316.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER95': class LinkAnnotation 
+115 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 120.5129
+ 491.0236
+ 0 ]
+ /Rect [ 68.69291
+ 292.7343
+ 79.81291
+ 304.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER96': class LinkAnnotation 
+116 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 510.0829
+ 461.0236
+ 0 ]
+ /Rect [ 68.69291
+ 280.7343
+ 79.81291
+ 292.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER97': class LinkAnnotation 
+117 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 374.4929
+ 260.0236
+ 0 ]
+ /Rect [ 68.69291
+ 268.7343
+ 79.81291
+ 280.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER98': class LinkAnnotation 
+118 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 464.5729
+ 137.0236
+ 0 ]
+ /Rect [ 68.69291
+ 256.7343
+ 79.81291
+ 268.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER99': class LinkAnnotation 
+119 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 494.5829
+ 743.0236
+ 0 ]
+ /Rect [ 68.69291
+ 244.7343
+ 79.81291
+ 256.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER100': class LinkAnnotation 
+120 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 343.3629
+ 548.0236
+ 0 ]
+ /Rect [ 68.69291
+ 232.7343
+ 79.81291
+ 244.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER101': class LinkAnnotation 
+121 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 311.1229
+ 470.0236
+ 0 ]
+ /Rect [ 68.69291
+ 220.7343
+ 79.81291
+ 232.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER102': class LinkAnnotation 
+122 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 502.8429
+ 317.0236
+ 0 ]
+ /Rect [ 68.69291
+ 208.7343
+ 79.81291
+ 220.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER103': class PDFDictionary 
+123 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ocw.mit.edu/about/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 173.7323
+ 193.7343
+ 282.6823
+ 205.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER104': class LinkAnnotation 
+124 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 259.4229
+ 299.0236
+ 0 ]
+ /Rect [ 68.69291
+ 181.7343
+ 79.81291
+ 193.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER105': class PDFDictionary 
+125 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.coursera.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 173.7323
+ 166.7343
+ 282.1023
+ 178.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER106': class LinkAnnotation 
+126 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 80 0 R
+ /XYZ
+ 311.6829
+ 299.0236
+ 0 ]
+ /Rect [ 68.69291
+ 154.7343
+ 79.81291
+ 166.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER107': class PDFDictionary 
+127 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.edx.org/about) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 173.7323
+ 139.7343
+ 289.3423
+ 151.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER108': class LinkAnnotation 
+128 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 83 0 R
+ /XYZ
+ 258.3129
+ 540.0236
+ 0 ]
+ /Rect [ 68.69291
+ 127.7343
+ 79.81291
+ 139.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER109': class LinkAnnotation 
+129 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 52 0 R
+ /XYZ
+ 335.0429
+ 575.0236
+ 0 ]
+ /Rect [ 68.69291
+ 115.7343
+ 79.81291
+ 127.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER110': class PDFDictionary 
+130 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://openbadges.org/en-US/about.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 173.7323
+ 100.7343
+ 351.6123
+ 112.7343 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page13': class PDFPage 
+131 0 obj
+% Page dictionary
+<< /Annots [ 90 0 R
+ 91 0 R
+ 92 0 R
+ 93 0 R
+ 94 0 R
+ 95 0 R
+ 96 0 R
+ 97 0 R
+ 98 0 R
+ 99 0 R
+ 100 0 R
+ 101 0 R
+ 102 0 R
+ 103 0 R
+ 104 0 R
+ 105 0 R
+ 106 0 R
+ 107 0 R
+ 108 0 R
+ 109 0 R
+ 110 0 R
+ 111 0 R
+ 112 0 R
+ 113 0 R
+ 114 0 R
+ 115 0 R
+ 116 0 R
+ 117 0 R
+ 118 0 R
+ 119 0 R
+ 120 0 R
+ 121 0 R
+ 122 0 R
+ 123 0 R
+ 124 0 R
+ 125 0 R
+ 126 0 R
+ 127 0 R
+ 128 0 R
+ 129 0 R
+ 130 0 R ]
+ /Contents 200 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 187 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R132': class PDFCatalog 
+132 0 obj
+% Document Root
+<< /Outlines 134 0 R
+ /PageLabels 201 0 R
+ /PageMode /UseNone
+ /Pages 187 0 R
+ /Type /Catalog >>
+endobj
+% 'R133': class PDFInfo 
+133 0 obj
+<< /Author ()
+ /CreationDate (D:20121007234854+06'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R134': class PDFOutlines 
+134 0 obj
+<< /Count 66
+ /First 135 0 R
+ /Last 186 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+135 0 obj
+<< /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 136 0 R
+ /Parent 134 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000P\000R\000O\000P\000O\000S\000A\000L) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+136 0 obj
+<< /Count 5
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /First 137 0 R
+ /Last 141 0 R
+ /Next 142 0 R
+ /Parent 134 0 R
+ /Prev 135 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000A\000p\000p\000r\000o\000a\000c\000h) >>
+endobj
+% 'Outline.53.0': class OutlineEntryObject 
+137 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /Next 138 0 R
+ /Parent 136 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000p\000r\000o\000b\000l\000e\000m\000 \000s\000t\000a\000t\000e\000m\000e\000n\000t) >>
+endobj
+% 'Outline.53.1': class OutlineEntryObject 
+138 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 426.0236
+ 0 ]
+ /Next 139 0 R
+ /Parent 136 0 R
+ /Prev 137 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000s\000c\000o\000p\000e\000 \000o\000f\000 \000w\000o\000r\000k) >>
+endobj
+% 'Outline.53.2': class OutlineEntryObject 
+139 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 244.0236
+ 0 ]
+ /Next 140 0 R
+ /Parent 136 0 R
+ /Prev 138 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000i\000d\000e\000n\000t\000i\000f\000i\000c\000a\000t\000i\000o\000n\000 \000o\000f\000 \000t\000h\000e\000 \000a\000u\000d\000i\000e\000n\000c\000e) >>
+endobj
+% 'Outline.53.3': class OutlineEntryObject 
+140 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 148.0236
+ 0 ]
+ /Next 141 0 R
+ /Parent 136 0 R
+ /Prev 139 0 R
+ /Title (\376\377\0002\000.\0004\000\240\000\240\000\240\000q\000u\000a\000l\000i\000f\000i\000c\000a\000t\000i\000o\000n\000s) >>
+endobj
+% 'Outline.53.4': class OutlineEntryObject 
+141 0 obj
+<< /Dest [ 42 0 R
+ /XYZ
+ 62.69291
+ 413.0236
+ 0 ]
+ /Parent 136 0 R
+ /Prev 140 0 R
+ /Title (\376\377\0002\000.\0005\000\240\000\240\000\240\000w\000o\000r\000k\000 \000p\000l\000a\000n) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+142 0 obj
+<< /Count 41
+ /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /First 143 0 R
+ /Last 183 0 R
+ /Next 184 0 R
+ /Parent 134 0 R
+ /Prev 136 0 R
+ /Title (\376\377\0003\000\240\000\240\000\240\000D\000e\000t\000a\000i\000l\000e\000d\000 \000R\000e\000p\000o\000r\000t\000 \000O\000u\000t\000l\000i\000n\000e) >>
+endobj
+% 'Outline.54.0': class OutlineEntryObject 
+143 0 obj
+<< /Count 4
+ /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 720.0236
+ 0 ]
+ /First 144 0 R
+ /Last 147 0 R
+ /Next 148 0 R
+ /Parent 142 0 R
+ /Title (\376\377\0003\000.\0001\000\240\000\240\000\240\000I\000n\000t\000r\000o\000d\000u\000c\000t\000i\000o\000n) >>
+endobj
+% 'Outline.55.0': class OutlineEntryObject 
+144 0 obj
+<< /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 624.0236
+ 0 ]
+ /Next 145 0 R
+ /Parent 143 0 R
+ /Title (\376\377\0003\000.\0001\000.\0001\000\240\000\240\000\240\000A\000q\000u\000a\000r\000i\000u\000m\000s\000 \000a\000n\000d\000 \000C\000a\000v\000e\000 \000D\000i\000v\000i\000n\000g) >>
+endobj
+% 'Outline.55.1': class OutlineEntryObject 
+145 0 obj
+<< /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 567.0236
+ 0 ]
+ /Next 146 0 R
+ /Parent 143 0 R
+ /Prev 144 0 R
+ /Title (\376\377\0003\000.\0001\000.\0002\000\240\000\240\000\240\000U\000n\000d\000e\000r\000g\000r\000a\000d\000u\000a\000t\000e\000 \000S\000T\000E\000M\000 \000G\000r\000a\000d\000u\000a\000t\000e\000s) >>
+endobj
+% 'Outline.55.2': class OutlineEntryObject 
+146 0 obj
+<< /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 233.8236
+ 0 ]
+ /Next 147 0 R
+ /Parent 143 0 R
+ /Prev 145 0 R
+ /Title (\376\377\0003\000.\0001\000.\0003\000\240\000\240\000\240\000G\000o\000a\000l\000s) >>
+endobj
+% 'Outline.55.3': class OutlineEntryObject 
+147 0 obj
+<< /Dest [ 45 0 R
+ /XYZ
+ 62.69291
+ 152.8236
+ 0 ]
+ /Parent 143 0 R
+ /Prev 146 0 R
+ /Title (\376\377\0003\000.\0001\000.\0004\000\240\000\240\000\240\000H\000i\000s\000t\000o\000r\000y) >>
+endobj
+% 'Outline.54.1': class OutlineEntryObject 
+148 0 obj
+<< /Count 15
+ /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 471.0236
+ 0 ]
+ /First 149 0 R
+ /Last 157 0 R
+ /Next 164 0 R
+ /Parent 142 0 R
+ /Prev 143 0 R
+ /Title (\376\377\0003\000.\0002\000\240\000\240\000\240\000C\000h\000a\000l\000l\000e\000n\000g\000e\000s) >>
+endobj
+% 'Outline.56.0': class OutlineEntryObject 
+149 0 obj
+<< /Count 2
+ /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 375.0236
+ 0 ]
+ /First 150 0 R
+ /Last 151 0 R
+ /Next 152 0 R
+ /Parent 148 0 R
+ /Title (\376\377\0003\000.\0002\000.\0001\000\240\000\240\000\240\000R\000e\000s\000o\000u\000r\000c\000e\000 \000C\000o\000n\000s\000t\000r\000a\000i\000n\000t\000s) >>
+endobj
+% 'Outline.57.0': class OutlineEntryObject 
+150 0 obj
+<< /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 318.0236
+ 0 ]
+ /Next 151 0 R
+ /Parent 149 0 R
+ /Title (\376\377\0003\000.\0002\000.\0001\000.\0001\000\240\000\240\000\240\000T\000e\000a\000c\000h\000e\000r\000 \000S\000a\000l\000a\000r\000i\000e\000s) >>
+endobj
+% 'Outline.57.1': class OutlineEntryObject 
+151 0 obj
+<< /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 264.0236
+ 0 ]
+ /Parent 149 0 R
+ /Prev 150 0 R
+ /Title (\376\377\0003\000.\0002\000.\0001\000.\0002\000\240\000\240\000\240\000L\000e\000a\000r\000n\000i\000n\000g\000 \000M\000a\000t\000e\000r\000i\000a\000l\000s) >>
+endobj
+% 'Outline.56.1': class OutlineEntryObject 
+152 0 obj
+<< /Count 1
+ /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 174.0236
+ 0 ]
+ /First 153 0 R
+ /Last 153 0 R
+ /Next 154 0 R
+ /Parent 148 0 R
+ /Prev 149 0 R
+ /Title (\376\377\0003\000.\0002\000.\0002\000\240\000\240\000\240\000E\000m\000p\000l\000o\000y\000e\000r\000 \000A\000c\000c\000e\000p\000t\000a\000n\000c\000e) >>
+endobj
+% 'Outline.58.0': class OutlineEntryObject 
+153 0 obj
+<< /Dest [ 52 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Parent 152 0 R
+ /Title (\376\377\0003\000.\0002\000.\0002\000.\0001\000\240\000\240\000\240\000V\000e\000r\000i\000f\000i\000c\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.56.2': class OutlineEntryObject 
+154 0 obj
+<< /Count 2
+ /Dest [ 52 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /First 155 0 R
+ /Last 156 0 R
+ /Next 157 0 R
+ /Parent 148 0 R
+ /Prev 152 0 R
+ /Title (\376\377\0003\000.\0002\000.\0003\000\240\000\240\000\240\000I\000n\000c\000e\000n\000t\000i\000v\000i\000z\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.59.0': class OutlineEntryObject 
+155 0 obj
+<< /Dest [ 52 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Next 156 0 R
+ /Parent 154 0 R
+ /Title (\376\377\0003\000.\0002\000.\0003\000.\0001\000\240\000\240\000\240\000H\000u\000m\000a\000n\000 \000M\000o\000t\000i\000v\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.59.1': class OutlineEntryObject 
+156 0 obj
+<< /Dest [ 52 0 R
+ /XYZ
+ 62.69291
+ 180.0236
+ 0 ]
+ /Parent 154 0 R
+ /Prev 155 0 R
+ /Title (\376\377\0003\000.\0002\000.\0003\000.\0002\000\240\000\240\000\240\000W\000h\000y\000?) >>
+endobj
+% 'Outline.56.3': class OutlineEntryObject 
+157 0 obj
+<< /Count 6
+ /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 627.0236
+ 0 ]
+ /First 158 0 R
+ /Last 163 0 R
+ /Parent 148 0 R
+ /Prev 154 0 R
+ /Title (\376\377\0003\000.\0002\000.\0004\000\240\000\240\000\240\000L\000e\000a\000r\000n\000i\000n\000g\000 \000A\000s\000s\000e\000s\000s\000m\000e\000n\000t\000s) >>
+endobj
+% 'Outline.60.0': class OutlineEntryObject 
+158 0 obj
+<< /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 540.0236
+ 0 ]
+ /Next 159 0 R
+ /Parent 157 0 R
+ /Title (\376\377\0003\000.\0002\000.\0004\000.\0001\000\240\000\240\000\240\000S\000e\000l\000f\000 \000E\000v\000a\000l\000u\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.60.1': class OutlineEntryObject 
+159 0 obj
+<< /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Next 160 0 R
+ /Parent 157 0 R
+ /Prev 158 0 R
+ /Title (\376\377\0003\000.\0002\000.\0004\000.\0002\000\240\000\240\000\240\000I\000n\000s\000t\000r\000u\000c\000t\000o\000r\000 \000E\000v\000a\000l\000u\000a\000t\000i\000o\000n\000s) >>
+endobj
+% 'Outline.60.2': class OutlineEntryObject 
+160 0 obj
+<< /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 252.0236
+ 0 ]
+ /Next 161 0 R
+ /Parent 157 0 R
+ /Prev 159 0 R
+ /Title (\376\377\0003\000.\0002\000.\0004\000.\0003\000\240\000\240\000\240\000S\000t\000a\000n\000d\000a\000r\000d\000-\000N\000o\000r\000m\000a\000l\000 \000T\000e\000s\000t\000i\000n\000g) >>
+endobj
+% 'Outline.60.3': class OutlineEntryObject 
+161 0 obj
+<< /Dest [ 60 0 R
+ /XYZ
+ 62.69291
+ 156.0236
+ 0 ]
+ /Next 162 0 R
+ /Parent 157 0 R
+ /Prev 160 0 R
+ /Title (\376\377\0003\000.\0002\000.\0004\000.\0004\000\240\000\240\000\240\000V\000o\000t\000i\000n\000g\000 \000C\000h\000o\000i\000c\000e\000 \000T\000h\000e\000o\000r\000y) >>
+endobj
+% 'Outline.60.4': class OutlineEntryObject 
+162 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 657.0236
+ 0 ]
+ /Next 163 0 R
+ /Parent 157 0 R
+ /Prev 161 0 R
+ /Title (\376\377\0003\000.\0002\000.\0004\000.\0005\000\240\000\240\000\240\000E\000s\000s\000a\000y\000 \000Q\000u\000a\000l\000i\000f\000i\000c\000a\000t\000i\000o\000n\000 \000&\000 \000Q\000u\000a\000n\000t\000i\000f\000i\000c\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.60.5': class OutlineEntryObject 
+163 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 549.0236
+ 0 ]
+ /Parent 157 0 R
+ /Prev 162 0 R
+ /Title (\376\377\0003\000.\0002\000.\0004\000.\0006\000\240\000\240\000\240\000A\000p\000p\000l\000i\000e\000d\000 \000S\000T\000E\000M\000:\000 \000C\000o\000m\000p\000u\000t\000e\000r\000 \000S\000c\000i\000e\000n\000c\000e\000 \000/\000 \000E\000n\000g\000i\000n\000e\000e\000r\000i\000n\000g) >>
+endobj
+% 'Outline.54.2': class OutlineEntryObject 
+164 0 obj
+<< /Count 5
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /First 165 0 R
+ /Last 166 0 R
+ /Next 170 0 R
+ /Parent 142 0 R
+ /Prev 148 0 R
+ /Title (\376\377\0003\000.\0003\000\240\000\240\000\240\000O\000p\000p\000o\000r\000t\000u\000n\000i\000t\000i\000e\000s) >>
+endobj
+% 'Outline.61.0': class OutlineEntryObject 
+165 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 321.0236
+ 0 ]
+ /Next 166 0 R
+ /Parent 164 0 R
+ /Title (\376\377\0003\000.\0003\000.\0001\000\240\000\240\000\240\000D\000i\000r\000e\000c\000t\000 \000R\000e\000t\000u\000r\000n\000s) >>
+endobj
+% 'Outline.61.1': class OutlineEntryObject 
+166 0 obj
+<< /Count 3
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /First 167 0 R
+ /Last 169 0 R
+ /Parent 164 0 R
+ /Prev 165 0 R
+ /Title (\376\377\0003\000.\0003\000.\0002\000\240\000\240\000\240\000I\000n\000d\000i\000r\000e\000c\000t\000 \000R\000e\000t\000u\000r\000n\000s\000 \000/\000 \000"\000E\000x\000t\000e\000r\000n\000a\000l\000i\000t\000i\000e\000s\000") >>
+endobj
+% 'Outline.62.0': class OutlineEntryObject 
+167 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 177.0236
+ 0 ]
+ /Next 168 0 R
+ /Parent 166 0 R
+ /Title (\376\377\0003\000.\0003\000.\0002\000.\0001\000\240\000\240\000\240\000N\000e\000t\000w\000o\000r\000k\000 \000E\000f\000f\000e\000c\000t\000s) >>
+endobj
+% 'Outline.62.1': class OutlineEntryObject 
+168 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 111.0236
+ 0 ]
+ /Next 169 0 R
+ /Parent 166 0 R
+ /Prev 167 0 R
+ /Title (\376\377\0003\000.\0003\000.\0002\000.\0002\000\240\000\240\000\240\000G\000o\000o\000d\000w\000i\000l\000l) >>
+endobj
+% 'Outline.62.2': class OutlineEntryObject 
+169 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Parent 166 0 R
+ /Prev 168 0 R
+ /Title (\376\377\0003\000.\0003\000.\0002\000.\0003\000\240\000\240\000\240\000K\000n\000o\000w\000l\000e\000d\000g\000e\000 \000E\000c\000o\000n\000o\000m\000y) >>
+endobj
+% 'Outline.54.3': class OutlineEntryObject 
+170 0 obj
+<< /Count 12
+ /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 663.0236
+ 0 ]
+ /First 171 0 R
+ /Last 180 0 R
+ /Next 183 0 R
+ /Parent 142 0 R
+ /Prev 164 0 R
+ /Title (\376\377\0003\000.\0004\000\240\000\240\000\240\000S\000t\000r\000a\000t\000e\000g\000i\000e\000s) >>
+endobj
+% 'Outline.63.0': class OutlineEntryObject 
+171 0 obj
+<< /Count 4
+ /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 633.0236
+ 0 ]
+ /First 172 0 R
+ /Last 175 0 R
+ /Next 176 0 R
+ /Parent 170 0 R
+ /Title (\376\377\0003\000.\0004\000.\0001\000\240\000\240\000\240\000C\000h\000a\000n\000n\000e\000l\000s) >>
+endobj
+% 'Outline.64.0': class OutlineEntryObject 
+172 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 606.0236
+ 0 ]
+ /Next 173 0 R
+ /Parent 171 0 R
+ /Title (\376\377\0003\000.\0004\000.\0001\000.\0001\000\240\000\240\000\240\000S\000t\000a\000t\000i\000c\000 \000D\000o\000c\000u\000m\000e\000n\000t\000s) >>
+endobj
+% 'Outline.64.1': class OutlineEntryObject 
+173 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 564.0236
+ 0 ]
+ /Next 174 0 R
+ /Parent 171 0 R
+ /Prev 172 0 R
+ /Title (\376\377\0003\000.\0004\000.\0001\000.\0002\000\240\000\240\000\240\000V\000i\000d\000e\000o) >>
+endobj
+% 'Outline.64.2': class OutlineEntryObject 
+174 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 510.0236
+ 0 ]
+ /Next 175 0 R
+ /Parent 171 0 R
+ /Prev 173 0 R
+ /Title (\376\377\0003\000.\0004\000.\0001\000.\0003\000\240\000\240\000\240\000Q\000&\000A\000 \000:\000 \000Q\000u\000e\000s\000t\000i\000o\000n\000 \000a\000n\000d\000 \000A\000n\000s\000w\000e\000r\000 \000F\000o\000r\000u\000m\000s) >>
+endobj
+% 'Outline.64.3': class OutlineEntryObject 
+175 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 444.0236
+ 0 ]
+ /Parent 171 0 R
+ /Prev 174 0 R
+ /Title (\376\377\0003\000.\0004\000.\0001\000.\0004\000\240\000\240\000\240\000C\000h\000a\000t\000 \000:\000 \000R\000e\000a\000l\000t\000i\000m\000e\000 \000W\000e\000b\000 \000C\000h\000a\000t) >>
+endobj
+% 'Outline.63.1': class OutlineEntryObject 
+176 0 obj
+<< /Count 3
+ /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /First 177 0 R
+ /Last 179 0 R
+ /Next 180 0 R
+ /Parent 170 0 R
+ /Prev 171 0 R
+ /Title (\376\377\0003\000.\0004\000.\0002\000\240\000\240\000\240\000I\000m\000p\000l\000e\000m\000e\000n\000t\000a\000t\000i\000o\000n\000s) >>
+endobj
+% 'Outline.65.0': class OutlineEntryObject 
+177 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Next 178 0 R
+ /Parent 176 0 R
+ /Title (\376\377\0003\000.\0004\000.\0002\000.\0001\000\240\000\240\000\240\000O\000p\000e\000n\000C\000o\000u\000r\000s\000e\000w\000a\000r\000e\000,\000 \000C\000o\000u\000r\000s\000e\000r\000a\000,\000 \000E\000d\000X) >>
+endobj
+% 'Outline.65.1': class OutlineEntryObject 
+178 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 261.0236
+ 0 ]
+ /Next 179 0 R
+ /Parent 176 0 R
+ /Prev 177 0 R
+ /Title (\376\377\0003\000.\0004\000.\0002\000.\0002\000\240\000\240\000\240\000U\000n\000i\000v\000e\000r\000s\000i\000t\000y\000 \000O\000n\000l\000i\000n\000e\000 \000O\000f\000f\000e\000r\000i\000n\000g\000s) >>
+endobj
+% 'Outline.65.2': class OutlineEntryObject 
+179 0 obj
+<< /Dest [ 80 0 R
+ /XYZ
+ 62.69291
+ 219.0236
+ 0 ]
+ /Parent 176 0 R
+ /Prev 178 0 R
+ /Title (\376\377\0003\000.\0004\000.\0002\000.\0003\000\240\000\240\000\240\000C\000o\000m\000p\000a\000r\000i\000s\000o\000n\000 \000S\000c\000h\000e\000m\000e\000 \000f\000o\000r\000 \000C\000o\000l\000l\000a\000b\000o\000r\000a\000t\000i\000v\000e\000 \000T\000e\000c\000h\000n\000o\000l\000o\000g\000y) >>
+endobj
+% 'Outline.63.2': class OutlineEntryObject 
+180 0 obj
+<< /Count 2
+ /Dest [ 83 0 R
+ /XYZ
+ 62.69291
+ 613.0236
+ 0 ]
+ /First 181 0 R
+ /Last 182 0 R
+ /Parent 170 0 R
+ /Prev 176 0 R
+ /Title (\376\377\0003\000.\0004\000.\0003\000\240\000\240\000\240\000L\000a\000b\000 \000E\000x\000e\000r\000c\000i\000s\000e\000s) >>
+endobj
+% 'Outline.66.0': class OutlineEntryObject 
+181 0 obj
+<< /Dest [ 83 0 R
+ /XYZ
+ 62.69291
+ 568.0236
+ 0 ]
+ /Next 182 0 R
+ /Parent 180 0 R
+ /Title (\376\377\0003\000.\0004\000.\0003\000.\0001\000\240\000\240\000\240\000C\000o\000d\000e\000C\000a\000d\000e\000m\000y) >>
+endobj
+% 'Outline.66.1': class OutlineEntryObject 
+182 0 obj
+<< /Dest [ 83 0 R
+ /XYZ
+ 62.69291
+ 514.0236
+ 0 ]
+ /Parent 180 0 R
+ /Prev 181 0 R
+ /Title (\376\377\0003\000.\0004\000.\0003\000.\0002\000\240\000\240\000\240\000M\000a\000t\000h\000-\000b\000a\000s\000e\000d\000 \000w\000e\000b\000 \000g\000a\000m\000e\000 \000d\000e\000s\000i\000g\000n) >>
+endobj
+% 'Outline.54.4': class OutlineEntryObject 
+183 0 obj
+<< /Dest [ 83 0 R
+ /XYZ
+ 62.69291
+ 448.0236
+ 0 ]
+ /Parent 142 0 R
+ /Prev 170 0 R
+ /Title (\376\377\0003\000.\0005\000\240\000\240\000\240\000C\000o\000n\000c\000l\000u\000s\000i\000o\000n) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+184 0 obj
+<< /Dest [ 84 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 185 0 R
+ /Parent 134 0 R
+ /Prev 142 0 R
+ /Title (\376\377\0004\000\240\000\240\000\240\000B\000u\000d\000g\000e\000t\000/\000c\000o\000s\000t\000s) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+185 0 obj
+<< /Dest [ 89 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 186 0 R
+ /Parent 134 0 R
+ /Prev 184 0 R
+ /Title (\376\377\0005\000\240\000\240\000\240\000T\000i\000m\000e\000 \000l\000i\000n\000e) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+186 0 obj
+<< /Dest [ 131 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Parent 134 0 R
+ /Prev 185 0 R
+ /Title (\376\377\0006\000\240\000\240\000\240\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s) >>
+endobj
+% 'R187': class PDFPages 
+187 0 obj
+% page tree
+<< /Count 13
+ /Kids [ 36 0 R
+ 39 0 R
+ 42 0 R
+ 45 0 R
+ 50 0 R
+ 52 0 R
+ 60 0 R
+ 68 0 R
+ 80 0 R
+ 83 0 R
+ 84 0 R
+ 89 0 R
+ 131 0 R ]
+ /Type /Pages >>
+endobj
+% 'R188': class PDFStream 
+188 0 obj
+% page stream
+<< /Length 6281 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   PROPOSAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.0236 cm
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (September 30, 2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 692.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 57.48937 0 Td (To:) Tj T* -57.48937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sheri Hronek, ENGL3980 Students) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 44.70937 0 Td (From:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wes Turner) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 33.58937 0 Td (Subject:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Assignment 3: Report Outline) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 632.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Please accept this proposal which presents the Approach, Detailed Report Outline, Budget/Costs, Time) Tj T* (line, and References List for the proposed report on self-directed learning with online resources.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 307.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 273 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   PROPOSAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 273 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 255 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 255 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 237 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   problem statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 237 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   scope of work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   identification of the audience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.4   qualifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.5   work plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (3   Detailed Report Outline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3.1   Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3.2   Challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3.3   Opportunities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3.4   Strategies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3.5   Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (4   Budget/costs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (5   Time line) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (6   References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (13) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 307.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 1/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R189': class PDFStream 
+189 0 obj
+% page stream
+<< /Length 6647 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   problem statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (According to the Fact Sheet accompanying the President's Council of Advisors on Science and) Tj T* (Technology \(PCAST\) February 2012 report entitled ) Tj /F3 10 Tf (Engage to Excel: Producing One Million Additional) Tj T* (College Graduates With Degrees in Science, Technology, Engineering, and Mathematics) Tj /F1 10 Tf ( ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (29) Tj /F1 10 Tf 0 0 0 rg 0 Ts (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 465.8898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL ("Fewer than 40 percent of students who enter college intending to major in a STEM field complete) Tj T* (college with a STEM degree today.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The American economy needs more candidates with knowledge of Science, Technology, Engineering,) Tj T* (and Mathematics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (If "fewer than 40% of students who enter college intending to major in a STEM field complete college with) Tj T* (a STEM degree", there seems to be an indication of a motivation or incentivization challenge: if demand is) Tj T* (greater than supply, what about the producers or the environment is preventing equilibrium?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (More concisely, how can students learn that self-directed learning with online resources will improve their) Tj T* (quality of life?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (This report will discuss challenges, opportunities, and strategies for encouraging self-directed learning) Tj T* (with online resources.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Through this analysis of challenges, opportunities, and strategies, the report will address how students) Tj T* (can learn using empirically validated teaching practices from discovery-based online resources in order to) Tj T* (transform themselves into forward-thinking, mathematically capable stakeholders in the community.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   scope of work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (The scope of this project includes primary and secondary research activities, a report budget and time) Tj T* (line, a written report, and a subsequent presentation. I will be fleshing out the detailed report outline with) Tj T* (supporting research and citations in order to address the challenges, opportunities, and strategies for) Tj T* (self-directed online learning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The report assumes that producing more STEM field candidates is an absolute good.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The report does not intend to solve for:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mental health screening) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Daycare) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Enforced socialization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 256.0236 cm
+Q
+q
+1 0 0 1 62.69291 226.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   identification of the audience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 160.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (The audience is a lay audience. The audience will have some prior knowledge of computer and web skills,) Tj T* (as well as some experience with traditional education. The audience may be curious about online learning) Tj T* (but working with an organization that is slowly adapting to an online environment. If the report is) Tj T* (successful, the audience will be left with an interest in pursuing self-directed learning with online) Tj T* (resources. The audience will also include a professor teaching technical writing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 130.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.4   qualifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I am not a doctor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I am not a lawyer.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 88.86614 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 2/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R190': class PDFStream 
+190 0 obj
+% page stream
+<< /Length 7110 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I am not a trained educator.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I do have experience with training peer groups.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have worked in web design and web development for over 10 years.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have experience as a student in compulsory and undergraduate education.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have been treated like a widget on an assembly line) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have been treated against an inconsistent criteria rubric) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (I have suffered through wasteful required courses that I feel have conditioned me to accept process) Tj T* (waste that someone should be working to eliminate) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have learned that learning to satisfy another's path can be unfulfilling) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have learned that everyone needs to eat, drink, and sleep) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have taken more than 5 courses for credit online) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 451.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 95 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 95 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (With online resources, on my own, I have learned to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 89 cm
+Q
+q
+1 0 0 1 23 89 cm
+Q
+q
+1 0 0 1 23 77 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create websites with HTML, CSS, and Javascript) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 71 cm
+Q
+q
+1 0 0 1 23 59 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write code in various programming languages) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 53 cm
+Q
+q
+1 0 0 1 23 41 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Edit video) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 35 cm
+Q
+q
+1 0 0 1 23 23 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Interpret stories and metaphorical language) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 17 cm
+Q
+q
+1 0 0 1 23 5 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pass math class) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 445.0236 cm
+Q
+q
+1 0 0 1 62.69291 433.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I am familiar with the PCAST Engage to Excel report regarding undergraduate STEM education) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 425.0236 cm
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.5   work plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (I will stick to the research schedule and research budget included in the assignment 02 memo, as well as) Tj T* (the report ) Tj 0 0 .501961 rg (Time line ) Tj 0 0 0 rg (and report ) Tj 0 0 .501961 rg (Budget/costs ) Tj 0 0 0 rg (included in this proposal in order to deliver the report drafts,) Tj T* (final report, and final presentation, for free.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 3/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R191': class PDFStream 
+191 0 obj
+% page stream
+<< /Length 5405 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (3   Detailed Report Outline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (3.1   Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 682.0236 cm
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 26 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 465.8898 28 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("I have never let my schooling interfere with my education.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 398.2198 0 Td (Mark Twain) Tj T* -398.2198 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.1.1   Aquariums and Cave Diving) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If self-directed learning with online resources is like cave diving, traditional classroom-based schooling is) Tj T* (like an underwater aquarium tunnel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.1.2   Undergraduate STEM Graduates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (According to the Fact Sheet accompanying the President's Council of Advisors on Science and) Tj T* (Technology \(PCAST\) February 2012 report entitled ) Tj /F3 10 Tf (Engage to Excel: Producing One Million Additional) Tj T* (College Graduates With Degrees in Science, Technology, Engineering, and Mathematics) Tj /F1 10 Tf ( ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (29) Tj /F1 10 Tf 0 0 0 rg 0 Ts (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 494.0236 cm
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+.941176 .941176 .941176 rg
+n -8 -8 465.8898 40 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL ("Fewer than 40 percent of students who enter college intending to major in a STEM field complete) Tj T* (college with a STEM degree today.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (More than 60% of students who walk into the traditional classroom-based aquarium school tunnel turn) Tj T* (around and walk out. As an aquarium, this is a problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (The PCAST Engage to Excel Report ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (29 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (identifies five overarching recommendations that it believes can) Tj T* (achieve the goal of producing one million additional college graduates with Degrees in Science,) Tj T* (Technology, Engineering, and Mathematics:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.1 8.1 cm
+q
+.941176 .941176 .941176 rg
+n 4 -8 457.6898 136 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 12 110 Tm /F1 10 Tf 12 TL (\(1\) catalyze widespread adoption of empirically validated teaching practices;) Tj T* (\(2\) advocate and provide support for replacing standard laboratory courses) Tj T* (      with discovery-based research courses;) Tj T* (\(3\) launch a national experiment in postsecondary mathematics education) Tj T* (      to address the mathematics-preparation gap;) Tj T* (\(4\) encourage partnerships among stakeholders to diversify pathways to) Tj T* (      STEM careers; and) Tj T* (\(5\) create a Presidential Council on STEM Education with leadership from the) Tj T* (      academic and business communities to provide strategic leadership for) Tj T* (      transformative and sustainable change in STEM undergraduate education.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 218.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.1.3   Goals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 164.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (This report will discuss challenges, opportunities, and strategies for encouraging self-directed learning) Tj T* (with online resources and along the way will address how students can \(1\) learn using empirically) Tj T* (validated teaching practices from \(2\) discovery-based online resources in order to \(3\) transform) Tj T* (themselves into forward-thinking, mathematically capable \(4\) stakeholders in their community.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.1.4   History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 119.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How did we get here?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 89.82362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (In the 6th century BC -- around 2600 years ago -- the Greek philosophers to whom the western world) Tj T* (owes much debt did not attend compulsory education. Abundant resource availability allowed the Greeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 4/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R192': class PDFStream 
+192 0 obj
+% page stream
+<< /Length 5944 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (to pursue courses of study and learning through various "schools" of tutorship. At the time, there were not) Tj T* (quite so many students to teach. In the Peripatetic school, students would walk alongside lecturers like) Tj T* (Aristotle and learn through verbal instruction. Scribes would enscribe knowledge and wisdom into) Tj T* (future-proof stone tablets that persist and survive to this day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Through the Middle Ages, master craftsmen would provide food and shelter to apprentices, or proteges,) Tj T* (who learned skilled trades and arts. Philosophy and science - in the form of alchemy - persisted through) Tj T* (the calligraphy of monastic sects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (Then, in the 19th century CE -- around 200 years ago -- compulsory education developed in response to) Tj T* (newfound abilities to communicate knowledge and differences of opinion through manually leaded printing) Tj T* (presses. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (34) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (The 20th century saw the widespread adoption of advances like telephones, radios, televisions, and the) Tj T* (internet; allowing social sciences to shape education systems towards mass production modes of) Tj T* (standardized education. An individual with an undergraduate or post-graduate degree was all but assured) Tj T* (a good job.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Now, in the 21st century CE, knowledge creation and assimilation are accelerating through widespread) Tj T* (adoption of online web media technologies like HTML, digital audio, digital video, and YouTube. Public) Tj T* (libraries are being supplanted by online reference collections and online expert communities. Educators) Tj T* (are continuing to develop and adopt new technologies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Today, an undergraduate degree is a minimum requirement for, but not a guarantee of a good job. A) Tj T* (STEM degree is nearly a guarantee of a good job.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (3.2   Challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (As indicated by the PCAST Engage to Excel Report ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (29) Tj /F1 10 Tf 0 0 0 rg 0 Ts (, the demand for knowledgeable STEM field) Tj T* (careers is greater than the supply.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Too many people are entering the STEM underwater aquarium tunnel, turning around, and walking out.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There exist primary infrastructure systems that no-one will know how to maintain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.2.1   Resource Constraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (This planet suffers from many top-down resource constraints. More locally, teachers' salaries are low and) Tj T* (the costs of learning materials are high.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.1.1   Teacher Salaries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (In America today, teachers' salaries are very insubstantial. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (35 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (Teaching assistants' salaries are even less) Tj T* (substantial. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (36) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.1.2   Learning Materials) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learning materials cost time to research, write, and evaluate; and money to bind and distribute.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Because marginal cost of distribution through an online network is zero, anyone with a computer and) Tj T* (internet connection can publish.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This presents a challenge for students and educators seeking to learn "true" knowledge and wisdom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.2.2   Employer Acceptance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Entrepreneurs have been learning and applying self-motivatedly since the beginning of time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Employer requirements are driving the growth in the degree and certification granting institution markets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Employers are looking for qualified candidates with the capability and motivation to acquire and apply new) Tj T* (skill sets to compete in a knowledge-driven economy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 5/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R193': class PDFStream 
+193 0 obj
+% page stream
+<< /Length 5848 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (While many employers are already leveraging internal online training efforts, self-directed online learning) Tj T* (presents a number of challenges for employees and employers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.2.1   Verification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How can a hiring manager be sure that they're getting what they intend to pay for?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (To an employer, a degree indicates that a candidate has the background knowledge and ability to do the) Tj T* (job.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Online degrees and online certifications do not yet hold the status of university degrees.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (This may be because online courses suffer from the same types of verification problems presented by) Tj T* (online polls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Technical industries are working to solve the verification challenge by requiring in-person proctored) Tj T* (certification exams.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Online learning markets are developing standardized badges ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (56 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (and completion verification letters as) Tj T* (corollaries to certificates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.2.3   Incentivization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (From an unofficial interview with a group of Fortune 100 executives, one response to online learning was) Tj T* ("We hire people for advanced degrees. Why would someone learn online if they aren't going to receive a) Tj T* (degree or credit hours for their efforts?") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (From an unofficial interview with a hiring manager at a Fortune 100 technology company, one response to) Tj T* (online learning was "Where can I find people who are demonstrating their desire to continue to stay up to) Tj T* (date within their current or future fields of expertise?") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Both views reflect incentivization challenges for students and employers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.3.1   Human Motivation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("How do we force people to learn?" may be asking the wrong question.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A different question might be: "How do people learn that learning will improve their lives?") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (People want to help themselves and others for various reasons.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Pioneers in positive psychology, such as Abraham Maslow, indicate that people strive to achieve basic) Tj T* (needs like food, water, and shelter as well as group needs like belongingness and esteem, and eventually) Tj T* (pursue self-actualization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Both primitive and social survival needs are conditioned and reinforced by positive and negative) Tj T* (experiences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Primitive needs are conditioned and reinforced with a "carrot and stick" approach: do this and be gratified) Tj T* (with these rewards: shelter, food, water, healthcare.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Social needs like belongingness and esteem are reinforced by peer and authority acceptance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (And then there is what some people refer to as a "higher" need for self-actualization: to achieve mastery) Tj T* (for oneself as part of the whole.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.3.2   Why?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (For teachers and STEM professionals who have spent years learning and pursuing advanced education) Tj T* (degrees in order to do what they want to do, "Why would I want to learn Science, Technology,) Tj T* (Engineering, or Math" may seem like a non-question.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (But for a student, the grading structure may be perceived as arbitrary in relation to their values: "what) Tj T* (does an A in math class have to do with my ability to get the latest game, shirt, or peer acceptance?.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 6/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R194': class PDFStream 
+194 0 obj
+% page stream
+<< /Length 5874 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("We must get good grades in order to get good jobs in order to live comfortable lives.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (Freakonomics ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (32 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (addresses one scenario in which students are rewarded for good grades with money.) Tj T* (The authors' findings are inconclusive; they seem to ask an implicit question: "by adding a component of) Tj T* (instant gratification -- money -- how do students learn about long-term gratification?".) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Different types of people enjoy different things, but you would be hard-pressed to find a teacher who) Tj T* (would respond with anything less than satisfaction when a student says "I like learning.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (From the beginning, self-directed learning requires a lifetime learner to develop a positive) Tj T* (reward-response cycle for themself.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.2.4   Learning Assessments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (Key Performance Indicators, or KPIs, are metrics by which the success of an operation can be measured.) Tj T* (Usually, KPIs are quantitative, empirical numbers on a scale with a low end and a high end. Usually, KPIs) Tj T* (are scaled to a bell or similar curve. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (37) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PCAST Recommendation #1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.4.1   Self Evaluation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Self evaluation is a primary avenue through which self-directed learners learn to motivate and evaluate) Tj T* (themselves and their level of mastery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Learning journals in a TIL -- or "Today I Learned" -- format can be valuable tools for developing a map of) Tj T* (progress. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (39) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Without a guide, a guru, a sensei, or a peer group to support these evaluations, narcissism may) Tj T* (negatively reflect in the student's work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Nobody cave dives alone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.4.2   Instructor Evaluations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Instructor Evaluation -- or "grading" -- is the traditional method for evaluating student progress. Instructor) Tj T* (Evaluations can create a dependent relationship that may or may not be productive in helping) Tj T* (self-motivated individuals to develop skills and strategies for building knowledge.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (With personal instructor evaluations, the student learns to depend on another person as an indicator of) Tj T* (their self worth. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Some students embrace this positive/negative relationship, while others sadly reject it -- and school --) Tj T* (altogether.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (This is challenge in that the dependent relationship that does not deliver acceptance may negatively) Tj T* (condition the student to dislike learning, reading, and particular subject areas -- like STEM -- in general.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.4.3   Standard-Normal Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (While educational institutions and employers have been fond of traditional Standard-Normal aptitude tests) Tj T* (like the ACT and SAT, their applicability and correlation to skills-acquisition measures have been) Tj T* (questioned. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (41) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (As an internalized metaphor, "leave no-one behind" may indicate a different intention than "everyone) Tj T* (going forward". How do you handle outliers? ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (42) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 144.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.4.4   Voting Choice Theory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (Voting Choice Theory is the foundation of a democratic system of government. Voting Choice Theory) Tj T* (indicates that a "swarm" of self-directed individuals drawing from a diverse base of knowledge, skills, and) Tj T* (wisdom is greater than the sum of its parts. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (33) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 7/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R195': class PDFStream 
+195 0 obj
+% page stream
+<< /Length 5779 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (While Peer and Community Evaluations may require extra effort, a sustained connection with a peer) Tj T* (group is a good thing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Community review processes in place at quality journals can be viewed through the lens of voting choice) Tj T* (theory. ibid. ~50% of medical journal articles are unreproducible ... standardized terminology for) Tj T* (experimental controls ... RDF provenance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (PCAST Recommendation #4 ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (29) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.4.5   Essay Qualification & Quantification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F1 10 Tf 0 0 0 rg (Flesh-Kincaid readability is one of a number of metrics for measuring prose reports for syllabic complexity.) Tj T* /F1 8 Tf 0 0 .501961 rg 5 Ts (43 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (Flesh-Kincaid readability thresholds are in place for some government agencies and financial contracts.) Tj T* (While automated metrics for essay evaluation may correlate to syllabic complexity, many automated) Tj T* (language metrics fall far short of measuring actual compositional acuity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (At web-scale, essay quantification through automated metrics are not sufficient for producing capable) Tj T* (communicators. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (44) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.2.4.6   Applied STEM: Computer Science / Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Computer Science and Engineering are fields where STEM knowledge and theory are constantly applied.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (Efforts at automated design review in the computer science and engineering fields include Test Driven) Tj T* (Development, Automated Model Verification, and quantitative metrics like cycles required and) Tj T* (input/output. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Software development concepts like user time and system time can be used to evaluate design) Tj T* (complexity. Design complexity measures the amount of resources required to achieve specifications. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (46) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (The concept of 'elegance' in design and engineering refers to the concision with which a design) Tj T* (accomplishes design goals. Like essay evaluation, elegance is very much a subjective measure of) Tj T* (mastery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (3.3   Opportunities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Self Directed Learning with Online Resources creates value by helping individuals to develop themselves) Tj T* (into self-motivated components of a greater system. Like any business undertaking, this value can and) Tj T* (should be measured in terms of both direct and indirect returns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.3.1   Direct Returns) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The agility afforded by developing an interest in and capability for learning online creates direct returns for) Tj T* (learners in the form of knowledge and skills acquisition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (An individual or an employee with the desire to learn and better themselves is an employee that would be) Tj T* (hired at many institutions looking for created, motivated professionals. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (47) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.3.2   Indirect Returns / "Externalities") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The Indirect Returns of producing Self-Directed Learners may be considered "externalities" because of) Tj T* (the difficulties inherent in a monetary valuation of a knowledge network.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.3.2.1   Network Effects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (Metcalf's law is a law from the telecommunications industry that says that the value of a) Tj T* (telecommunications network is proportional to the square of the number connected users; which is to say) Tj T* (that the network effects of investing in graphs of knowledge and expertise are exponential. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (48) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.02362 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.3.2.2   Goodwill) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 8/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R196': class PDFStream 
+196 0 obj
+% page stream
+<< /Length 6446 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (The goodwill created in the market by altruistic participants is difficult to quantify. Anecdotally, I am forever) Tj T* (indebted to the professors and institutions that have offered their knowledge and wisdom for free. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (49) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.3.2.3   Knowledge Economy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (More self-directed learners learning more on their own leads to more talent creating more more creative) Tj T* (applications of technology and ever more value-creating efficient, sustainable business plans.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (3.4   Strategies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.4.1   Channels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.1.1   Static Documents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Static documents are traditional textual products like Books and Readings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.1.2   Video) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Online video is a very engaging market for knowledge delivery. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (50 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (Most online course offerings include) Tj T* (video lectures as a primary component. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.1.3   Q) Tj (&) Tj (A : Question and Answer Forums) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (Question and answer forums in the style of ) Tj 0 0 .501961 rg (http://StackExchange.com ) Tj 0 0 0 rg (allow class sizes to reach web) Tj T* (scale with hundreds or thousands of people in a course. This is a new take on the Socractic method of) Tj T* (dialectical reasoning. Experts are ranked by the swarm. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (51) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.1.4   Chat : Realtime Web Chat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Realtime web chat allows users in the same time frame to interact one- to-one or one-to-many in a peer) Tj T* (based fashion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.4.2   Implementations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 8 Tf 0 0 .501961 rg 5 Ts (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.2.1   OpenCourseware, Coursera, EdX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (While people had been sharing information online for many years, OpenCourseware - largely supported) Tj T* (by MIT - is a leading example of sharing curriculum and instruction materials in a structured format. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (52) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Free online learning providers like Coursera ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (53 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (and EdX ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (54 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (offer instructional materials, course-based) Tj T* (learning communities, and online learning assessments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.2.2   University Online Offerings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Most colleges and universities are offering at least a few online classes. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 207.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.2.3   Comparison Scheme for Collaborative Technology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Groupware: Design, Implementation, and Use) Tj /F1 10 Tf ( ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (31 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (by Briggs, et.al, presented in the month of September) Tj T* (of the year 2008 in Omaha, NE, presents a scheme for comparing collaboration technology solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+Q
+q
+1 0 0 1 62.69291 97.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 59 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 59 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Core Functionality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 53 cm
+Q
+q
+1 0 0 1 23 53 cm
+Q
+q
+1 0 0 1 23 41 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Jointly Authored Pages) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 35 cm
+Q
+q
+1 0 0 1 23 23 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Stream) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 17 cm
+Q
+q
+1 0 0 1 23 5 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Information Access) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 91.02362 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 218.1499 0 Td (Page 9/13) Tj T* -218.1499 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R197': class PDFStream 
+197 0 obj
+% page stream
+<< /Length 4362 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Access Controls) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Content) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Actions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Synchronicity) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifiability) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Relationships) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Persistence) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 625.0236 cm
+Q
+q
+1 0 0 1 62.69291 598.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (3.4.3   Lab Exercises) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 580.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (PCAST Recommendations #2, #3 ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (29) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 556.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.3.1   CodeCademy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 526.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (As a model for online lab-based larning, CodeCademy offers lab-style learning tracks focusing on various) Tj T* (programming skills with automated grading. ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (55) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 502.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3.4.3.2   Math-based web game design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (It is possible to teach multiple competencies through project-based learning. For example, students could) Tj T* (create a client-side web-based game in HTML5 and Javascript where points are scored by completing the) Tj T* (square of a triangle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 430.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (3.5   Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 388.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Question for instructor: If this is not a position paper, what should the conclusion of the analysis look like?) Tj T* ("So that's that"? .. this is not a position paper .. this is not a research paper .. this is an analysis of) Tj T* (Self-Directed Learning with Online Resources .. what is an analysis without a conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 388.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 215.3699 0 Td (Page 10/13) Tj T* -215.3699 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R198': class PDFStream 
+198 0 obj
+% page stream
+<< /Length 3234 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (4   Budget/costs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.0236 cm
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+1 1 1 rg
+n 0 144 469.8898 -18 re f*
+.87451 .87451 .87451 rg
+n 0 126 469.8898 -18 re f*
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.87451 .87451 .87451 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.87451 .87451 .87451 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.87451 .87451 .87451 rg
+n 0 18 469.8898 -18 re f*
+.815686 .815686 .815686 rg
+n 0 144 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+.815686 .815686 .815686 rg
+n 0 0 312.4477 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 146.4988 0 Td (Item) Tj T* -146.4988 0 Td ET
+Q
+Q
+q
+1 0 0 1 330.4477 129 cm
+q
+.815686 .815686 .815686 rg
+n 0 0 133.4421 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 56.44103 0 Td (Cost) Tj T* -56.44103 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paper) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4477 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($10.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ink Cartridges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4477 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($30.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Index Cards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4477 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($5.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mileage \(50 mi @ $0.555/mi\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4477 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($27.75) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parking \(UNO Library\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4477 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($5.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Time \(70 hrs @ $35/hr\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4477 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($2,450) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Total) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4477 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL ($2,527.75) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .815686 .815686 RG
+.25 w
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 324.4477 0 m 324.4477 144 l S
+n 0 144 m 469.8898 144 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 144 l S
+n 469.8898 0 m 469.8898 144 l S
+Q
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 215.3699 0 Td (Page 11/13) Tj T* -215.3699 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R199': class PDFStream 
+199 0 obj
+% page stream
+<< /Length 755 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (5   Time line) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 575.6269 cm
+q
+469.8898 0 0 152.3967 0 0 cm
+/FormXob.c1173058a218add04d37c463733ca4f7 Do
+Q
+Q
+q
+1 0 0 1 62.69291 372.4314 cm
+q
+469.8898 0 0 203.1956 0 0 cm
+/FormXob.dfd144e04de16addab454cf4c066a8ee Do
+Q
+Q
+q
+1 0 0 1 62.69291 372.4314 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 215.3699 0 Td (Page 12/13) Tj T* -215.3699 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R200': class PDFStream 
+200 0 obj
+% page stream
+<< /Length 11850 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (6   References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.3307 cm
+Q
+q
+1 0 0 1 62.69291 642.9843 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 591.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (29\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (2) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (3) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (4) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (5) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (6) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (President\222s Council of Advisors on Science and Technology.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Engage to Excel: Producing One Million Additional College Graduates With) Tj T* (Degrees in Science, Technology, Engineering, And Mathematics, February) Tj T* (2012.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 540.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (30\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (2) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (3) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Means, B., Yukie Toyama, B. A., Murphy, Robert, Bakia, M., & Jones, K.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (\(2010\). Evaluation of Evidence-based Practices in Online Learning. Evaluation.) Tj T* (Retrieved from) Tj T* 0 0 .501961 rg (http://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (31) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Briggs, Robert O., Pedro Antunes, Gert-Jan de Vreede, and Aaron S. Read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Groupware: Design, Implementation, and Use: 14th International Workshop,) Tj T* (CRIWG 2008, Omaha, NE, USA, Sept. 14-18, 2008, Revised Selected Papers.) Tj T* (Springer, 2009. [p.308]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (32) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Freakonomics: TODO) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 465.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (33) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Trust the swarm") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 453.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (34) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.johntaylorgatto.com/chapters/7c.htm) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 441.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (35) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DOL: Teachers' salaries) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (36) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Un\(der\)paid GTA) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 402.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (37) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Shum, S. B., & Ferguson, R. \(2012\). Social Learning Analytics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Journal of Educational Technology & Society, 15\(3\), 3\22626.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 375.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (38) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Stein, Z. \(2012, August 13\). Learning Analytics and the Learning Sciences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Retrieved September 16, 2012, from ) Tj 0 0 .501961 rg (http://www.educause.edu/node/267647) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 363.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (39) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Education Journaling) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 351.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Instructor Dependence) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 339.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (41) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Predictive Value of Standard-Normal Testing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 327.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (42) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Organizational controls) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 315.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (43) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fleisch-Kincaid) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 303.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (44) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Standard Error of automated essay metrics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 291.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Next-gen development practices TDD) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 279.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (46) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(cross-applicability of\) Software Development metrics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 267.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (47) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (interview) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 255.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (48) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Metcalf's law) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 243.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (49) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (interview) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 231.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (online video market growth) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 219.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (51) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Q) Tj (&) Tj (A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (52) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (About OCW. \(n.d.\).MIT OpenCourseWare. Retrieved September 16, 2012, from) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://ocw.mit.edu/about/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 165.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (53) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Pedagogy. \(n.d.\).Coursera. Retrieved September 16, 2012, from) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.coursera.org/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 138.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (54) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (About edX. \(n.d.\). Retrieved September 16, 2012, from) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.edx.org/about) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 126.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (55) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CodeCademy) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 99.98425 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (56) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (About OpenBadges. \(n.d.\).Open Badges. Retrieved September 16, 2012, from) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://openbadges.org/en-US/about.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 99.98425 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 105.6149 0 Td (ENGL 3980: Technical Writing: Assignment 3: Report Outline) Tj T* -105.6149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 215.3699 0 Td (Page 13/13) Tj T* -215.3699 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R201': class PDFPageLabels 
+201 0 obj
+% Document Root
+<< /Nums [ 0
+ 202 0 R
+ 1
+ 203 0 R
+ 2
+ 204 0 R
+ 3
+ 205 0 R
+ 4
+ 206 0 R
+ 5
+ 207 0 R
+ 6
+ 208 0 R
+ 7
+ 209 0 R
+ 8
+ 210 0 R
+ 9
+ 211 0 R
+ 10
+ 212 0 R
+ 11
+ 213 0 R
+ 12
+ 214 0 R ] >>
+endobj
+% 'R202': class PDFPageLabel 
+202 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R203': class PDFPageLabel 
+203 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R204': class PDFPageLabel 
+204 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R205': class PDFPageLabel 
+205 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R206': class PDFPageLabel 
+206 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R207': class PDFPageLabel 
+207 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R208': class PDFPageLabel 
+208 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R209': class PDFPageLabel 
+209 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R210': class PDFPageLabel 
+210 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R211': class PDFPageLabel 
+211 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R212': class PDFPageLabel 
+212 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+% 'R213': class PDFPageLabel 
+213 0 obj
+% None
+<< /S /D
+ /St 12 >>
+endobj
+% 'R214': class PDFPageLabel 
+214 0 obj
+% None
+<< /S /D
+ /St 13 >>
+endobj
+xref
+0 215
+0000000000 65535 f
+0000000113 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000587 00000 n
+0000000828 00000 n
+0000001069 00000 n
+0000001310 00000 n
+0000001551 00000 n
+0000001792 00000 n
+0000002033 00000 n
+0000002275 00000 n
+0000002517 00000 n
+0000002760 00000 n
+0000003003 00000 n
+0000003246 00000 n
+0000003489 00000 n
+0000003732 00000 n
+0000003975 00000 n
+0000004218 00000 n
+0000004461 00000 n
+0000004704 00000 n
+0000004947 00000 n
+0000005190 00000 n
+0000005433 00000 n
+0000005676 00000 n
+0000005919 00000 n
+0000006162 00000 n
+0000006405 00000 n
+0000006648 00000 n
+0000006891 00000 n
+0000007134 00000 n
+0000007377 00000 n
+0000007620 00000 n
+0000007863 00000 n
+0000008107 00000 n
+0000008335 00000 n
+0000008913 00000 n
+0000009109 00000 n
+0000009337 00000 n
+0000009656 00000 n
+0000009899 00000 n
+0000010126 00000 n
+0000010454 00000 n
+0000010698 00000 n
+0000010926 00000 n
+0000011254 00000 n
+0000011498 00000 n
+0000011742 00000 n
+0000011986 00000 n
+0000012214 00000 n
+0000012560 00000 n
+0000012788 00000 n
+0000013107 00000 n
+0000013351 00000 n
+0000013595 00000 n
+0000013839 00000 n
+0000014083 00000 n
+0000014327 00000 n
+0000014571 00000 n
+0000014799 00000 n
+0000015172 00000 n
+0000015416 00000 n
+0000015660 00000 n
+0000015904 00000 n
+0000016148 00000 n
+0000016392 00000 n
+0000016636 00000 n
+0000016864 00000 n
+0000017237 00000 n
+0000017481 00000 n
+0000017725 00000 n
+0000017968 00000 n
+0000018213 00000 n
+0000018457 00000 n
+0000018701 00000 n
+0000018945 00000 n
+0000019189 00000 n
+0000019433 00000 n
+0000019677 00000 n
+0000019905 00000 n
+0000020314 00000 n
+0000020558 00000 n
+0000020787 00000 n
+0000021100 00000 n
+0000021425 00000 n
+0000028734 00000 n
+0000038629 00000 n
+0000050319 00000 n
+0000063783 00000 n
+0000064198 00000 n
+0000064441 00000 n
+0000064684 00000 n
+0000064927 00000 n
+0000065170 00000 n
+0000065413 00000 n
+0000065656 00000 n
+0000065899 00000 n
+0000066142 00000 n
+0000066384 00000 n
+0000066683 00000 n
+0000066927 00000 n
+0000067171 00000 n
+0000067415 00000 n
+0000067658 00000 n
+0000067926 00000 n
+0000068170 00000 n
+0000068414 00000 n
+0000068657 00000 n
+0000068914 00000 n
+0000069158 00000 n
+0000069402 00000 n
+0000069646 00000 n
+0000069890 00000 n
+0000070134 00000 n
+0000070378 00000 n
+0000070622 00000 n
+0000070866 00000 n
+0000071110 00000 n
+0000071354 00000 n
+0000071599 00000 n
+0000071844 00000 n
+0000072089 00000 n
+0000072333 00000 n
+0000072581 00000 n
+0000072825 00000 n
+0000073072 00000 n
+0000073316 00000 n
+0000073564 00000 n
+0000073809 00000 n
+0000074053 00000 n
+0000074298 00000 n
+0000074995 00000 n
+0000075159 00000 n
+0000075409 00000 n
+0000075538 00000 n
+0000075779 00000 n
+0000076083 00000 n
+0000076382 00000 n
+0000076677 00000 n
+0000077057 00000 n
+0000077357 00000 n
+0000077613 00000 n
+0000077993 00000 n
+0000078311 00000 n
+0000078660 00000 n
+0000079040 00000 n
+0000079305 00000 n
+0000079564 00000 n
+0000079889 00000 n
+0000080257 00000 n
+0000080571 00000 n
+0000080895 00000 n
+0000081274 00000 n
+0000081552 00000 n
+0000081911 00000 n
+0000082225 00000 n
+0000082479 00000 n
+0000082847 00000 n
+0000083156 00000 n
+0000083516 00000 n
+0000083881 00000 n
+0000084231 00000 n
+0000084661 00000 n
+0000085115 00000 n
+0000085454 00000 n
+0000085748 00000 n
+0000086186 00000 n
+0000086495 00000 n
+0000086785 00000 n
+0000087104 00000 n
+0000087429 00000 n
+0000087737 00000 n
+0000088051 00000 n
+0000088326 00000 n
+0000088736 00000 n
+0000089090 00000 n
+0000089449 00000 n
+0000089828 00000 n
+0000090213 00000 n
+0000090677 00000 n
+0000091010 00000 n
+0000091294 00000 n
+0000091658 00000 n
+0000091919 00000 n
+0000092196 00000 n
+0000092458 00000 n
+0000092695 00000 n
+0000092915 00000 n
+0000099297 00000 n
+0000106045 00000 n
+0000113256 00000 n
+0000118762 00000 n
+0000124807 00000 n
+0000130756 00000 n
+0000136731 00000 n
+0000142611 00000 n
+0000149158 00000 n
+0000153621 00000 n
+0000156956 00000 n
+0000157811 00000 n
+0000169767 00000 n
+0000170034 00000 n
+0000170113 00000 n
+0000170192 00000 n
+0000170271 00000 n
+0000170350 00000 n
+0000170429 00000 n
+0000170508 00000 n
+0000170587 00000 n
+0000170666 00000 n
+0000170745 00000 n
+0000170825 00000 n
+0000170905 00000 n
+0000170985 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\220\233\274\336\227\220\332\274s\264{&Nz\270\001) (\220\233\274\336\227\220\332\274s\264{&Nz\270\001)] 
+
+ /Info 133 0 R
+ /Root 132 0 R
+ /Size 215 >>
+startxref
+171034
+%%EOF
