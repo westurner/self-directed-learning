@@ -1,133 +1,23 @@
-.. header:: ENGL 3980: Technical Writing: Assignment 3: Report Outline
+.. header:: ENGL 3980: Technical Writing: Assignment 4: Report Draft
 .. footer:: Page ###Page###/###Total###
 
+=============================================
+Self Directed Learning with Online Resources
+=============================================
+:Date: October 14, 2012
 
-PROPOSAL
-===========
-:Date: September 30, 2012
-:To: Sheri Hronek, ENGL3980 Students
-:From: Wes Turner
-:Subject: Assignment 3: Report Outline
-
-Please accept this proposal which presents the
-Approach, Detailed Report Outline,
-Budget/Costs, Time line, and References List for the proposed report on 
-self-directed learning with online resources.
+.. sectnum::
 
 .. contents::
    :depth: 2
-
-Approach
-==========
-problem statement
-------------------
-According to the Fact Sheet accompanying the President's Council of
-Advisors on Science and Technology (PCAST) February 2012 report entitled
-*Engage to Excel: Producing One Million Additional College Graduates With
-Degrees in Science, Technology, Engineering, and Mathematics* [#1]_:
-
-    "Fewer than 40 percent of students who enter college intending to major
-    in a STEM field complete college with a STEM degree today."
-
-The American economy needs more candidates with knowledge of
-Science, Technology, Engineering, and Mathematics.
-
-If "fewer than 40% of students who enter college intending to major in a
-STEM field complete college with a STEM degree", there seems to be an
-indication of a motivation or incentivization challenge:
-if demand is greater than supply, what about the producers or the
-environment is preventing equilibrium?
-
-More concisely, how can students learn that self-directed learning with
-online resources will improve their quality of life?
-
-This report will discuss challenges, opportunities, and strategies
-for encouraging self-directed learning with online resources.
-
-Through this analysis of challenges, opportunities, and strategies, the
-report will address how students can learn using empirically
-validated teaching practices from discovery-based online resources
-in order to transform themselves into forward-thinking,
-mathematically capable stakeholders in the community.
-
-scope of work
---------------
-The scope of this project includes primary and secondary research
-activities, a report budget and time line, a written report, and a
-subsequent presentation. I will be fleshing out the detailed report
-outline with supporting research and citations in order to address the
-challenges, opportunities, and strategies for self-directed online
-learning.
-
-The report assumes that producing more STEM field candidates is an
-absolute good.
-
-The report does not intend to solve for:
-
-* Mental health screening
-* Daycare
-* Enforced socialization
-
-identification of the audience
---------------------------------
-The audience is a lay audience. The audience will have some prior
-knowledge of computer and web skills, as well as some experience with
-traditional education. The audience may be curious about online learning
-but working with an organization that is slowly adapting to an online
-environment. If the report is successful, the audience will be left with
-an interest in pursuing self-directed learning with online resources.
-The audience will also include a professor teaching technical writing.
-
-qualifications
----------------
-* I am not a doctor.
-* I am not a lawyer.
-* I am not a trained educator.
-* I do have experience with training peer groups.
-* I have worked in web design and web development for over 10 years.
-
-* I have experience as a student in compulsory and undergraduate education.
-* I have been treated like a widget on an assembly line
-* I have been treated against an inconsistent criteria rubric
-* I have suffered through wasteful required courses that I feel have
-  conditioned me to accept process waste that someone should be working
-  to eliminate
-* I have learned that learning to satisfy another's path can be unfulfilling
-* I have learned that everyone needs to eat, drink, and sleep
-* I have taken more than 5 courses for credit online
-* With online resources, on my own, I have learned to:
-
-  * Create websites with HTML, CSS, and Javascript
-  * Write code in various programming languages
-  * Edit video
-  * Interpret stories and metaphorical language
-  * Pass math class
-
-* I am familiar with the PCAST Engage to Excel report
-  regarding undergraduate STEM education
-
-work plan
-----------
-I will stick to the research schedule and research budget included in
-the assignment 02 memo, as well as the report `Time line`_ and report
-`Budget/costs`_  included in this proposal
-in order to deliver the
-report drafts,
-final report, and
-final presentation, for free.
 
 .. raw:: pdf
 
     PageBreak
 
 
-Detailed Report Outline
-=========================
-
-.. sectnum::
-
 Introduction
-----------------
+=============
 .. pull-quote::
 
     "I have never let my schooling interfere with my education."
@@ -136,14 +26,14 @@ Introduction
 
 
 Aquariums and Cave Diving
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 If self-directed learning with online resources is like cave diving,
 traditional classroom-based schooling is like an underwater aquarium
 tunnel.
 
 
 Undergraduate STEM Graduates
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 According to the Fact Sheet accompanying the President's Council of
 Advisors on Science and Technology (PCAST) February 2012 report entitled
 *Engage to Excel: Producing One Million Additional College Graduates With
@@ -172,8 +62,9 @@ Science, Technology, Engineering, and Mathematics::
           academic and business communities to provide strategic leadership for
           transformative and sustainable change in STEM undergraduate education.
 
+
 Goals
-~~~~~~~
+------
 This report will discuss challenges, opportunities, and strategies
 for encouraging self-directed learning with online resources and along the way
 will address how students can (1) learn using empirically
@@ -183,7 +74,7 @@ mathematically capable (4) stakeholders in their community.
 
 
 History
-~~~~~~~~~~~~
+--------
 How did we get here?
 
 In the 6th century BC -- around 2600 years ago -- the Greek philosophers
@@ -221,19 +112,22 @@ Today, an undergraduate degree is a minimum requirement for, but not a
 guarantee of a good job. A STEM degree is nearly a guarantee of a good
 job.
 
+
+
 Challenges
---------------
-As indicated by the PCAST Engage to Excel Report [#1]_, 
+===========
+As indicated by the PCAST Engage to Excel Report [#1]_,
 the demand for knowledgeable STEM field careers is greater than the supply.
 
 Too many people are entering the STEM underwater aquarium tunnel,
-turning around, and walking out. 
+turning around, and walking out.
 
 There exist primary infrastructure systems that no-one will
 know how to maintain.
 
+
 Resource Constraints
-~~~~~~~~~~~~~~~~~~~~~~
+---------------------
 This planet suffers from many top-down resource constraints.
 More locally, teachers' salaries are low and the costs of learning
 materials are high.
@@ -254,8 +148,9 @@ anyone with a computer and internet connection can publish.
 This presents a challenge for students and educators seeking to learn
 "true" knowledge and wisdom.
 
+
 Employer Acceptance
-~~~~~~~~~~~~~~~~~~~~~~
+--------------------
 Entrepreneurs have been learning and applying self-motivatedly since the
 beginning of time.
 
@@ -269,7 +164,6 @@ knowledge-driven economy.
 While many employers are already leveraging internal online training efforts,
 self-directed online learning presents a number of challenges for
 employees and employers.
-
 
 Verification
 +++++++++++++
@@ -291,8 +185,9 @@ by requiring in-person proctored certification exams.
 Online learning markets are developing standardized badges [#28]_ and
 completion verification letters as corollaries to certificates.
 
+
 Incentivization
-~~~~~~~~~~~~~~~~~~
+-----------------
 From an unofficial interview with a group of Fortune 100 executives,
 one response to online learning was "We hire people for advanced
 degrees. Why would someone learn online if they aren't going to receive a
@@ -317,7 +212,7 @@ People want to help themselves and others for various reasons.
 Pioneers in positive psychology, such as Abraham Maslow,
 indicate that people strive to achieve basic needs like food, water,
 and shelter as well as group needs like belongingness and esteem,
-and eventually pursue self-actualization. 
+and eventually pursue self-actualization.
 
 Both primitive and social survival needs are conditioned and reinforced
 by positive and negative experiences.
@@ -333,10 +228,9 @@ And then there is what some people refer to as a "higher" need for
 self-actualization: to achieve mastery for oneself as part of the whole.
 
 
-
 Why?
 ++++
-For teachers and STEM professionals who have spent years learning and 
+For teachers and STEM professionals who have spent years learning and
 pursuing advanced education degrees in order to
 do what they want to do, "Why would I want to learn Science, Technology,
 Engineering, or Math" may seem like a non-question.
@@ -363,16 +257,14 @@ From the beginning, self-directed learning requires a lifetime learner
 to develop a positive reward-response cycle for themself.
 
 
-
 Learning Assessments
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------
 Key Performance Indicators, or KPIs, are metrics by which the success of
 an operation can be measured. Usually, KPIs are quantitative, empirical
 numbers on a scale with a low end and a high end. Usually, KPIs are
 scaled to a bell or similar curve. [#9]_
 
 PCAST Recommendation #1.
-
 
 Self Evaluation
 ++++++++++++++++
@@ -462,15 +354,18 @@ The concept of 'elegance' in design and engineering refers to the
 concision with which a design accomplishes design goals. Like essay
 evaluation, elegance is very much a subjective measure of mastery.
 
+
+
 Opportunities
------------------
+=================
 Self Directed Learning with Online Resources creates value by helping
 individuals to develop themselves into self-motivated components of a
 greater system. Like any business undertaking, this value can and should
 be measured in terms of both direct and indirect returns.
 
+
 Direct Returns
-~~~~~~~~~~~~~~~
+---------------
 The agility afforded by developing an interest in and capability for learning
 online creates direct returns for learners in the form of knowledge and skills
 acquisition.
@@ -481,11 +376,10 @@ looking for created, motivated professionals. [#18]_
 
 
 Indirect Returns / "Externalities"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------
 The Indirect Returns of producing Self-Directed Learners may be considered
 "externalities" because of the difficulties inherent in a monetary
 valuation of a knowledge network.
-
 
 Network Effects
 ++++++++++++++++
@@ -503,16 +397,17 @@ professors and institutions that have offered their knowledge and wisdom
 for free. [#20]_
 
 Knowledge Economy
-+++++++++++++++++++++++++++++++++++
+++++++++++++++++++
 More self-directed learners learning more on their own leads to more
 talent creating more more creative applications of technology and ever more
 value-creating efficient, sustainable business plans.
 
 
+
 Strategies
------------
+===========
 Channels
-~~~~~~~~~
+---------
 Static Documents
 +++++++++++++++++
 Static documents are traditional textual products like Books and Readings.
@@ -537,7 +432,7 @@ to-one or one-to-many in a peer based fashion.
 
 
 Implementations
-~~~~~~~~~~~~~~~~~~
+------------------
 [#2]_
 
 OpenCourseware, Coursera, EdX
@@ -556,7 +451,7 @@ Most colleges and universities are offering at least a few online
 classes. [#2]_
 
 Comparison Scheme for Collaborative Technology
-++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++
 **Groupware: Design, Implementation, and Use** [#3]_ by Briggs, et.al,
 presented in the month of September of the year 2008 in Omaha, NE,
 presents a scheme for comparing collaboration technology solutions.
@@ -575,8 +470,9 @@ presents a scheme for comparing collaboration technology solutions.
 - Relationships
 - Persistence
 
+
 Lab Exercises
-~~~~~~~~~~~~~~~~~~
+--------------
 PCAST Recommendations #2, #3 [#1]_
 
 CodeCademy
@@ -592,8 +488,9 @@ in HTML5 and Javascript where points are scored by completing the square
 of a triangle.
 
 
+
 Conclusion
---------------
+==============
 Question for instructor: If this is not a position paper, what should
 the conclusion of the analysis look like? "So that's that"?
 .. this is not a position paper
@@ -601,37 +498,6 @@ the conclusion of the analysis look like? "So that's that"?
 .. this is an analysis of Self-Directed Learning with Online Resources
 .. what is an analysis without a conclusion
 
-.. raw:: pdf:
-
-    PageBreak
-
-Budget/costs
-=============
-=============================   =============
-   Item                             Cost
-=============================   =============
-Paper                           $10.00
-Ink Cartridges                  $30.00
-Index Cards                     $5.00
-Mileage (50 mi @ $0.555/mi)     $27.75
-Parking (UNO Library)           $5.00
-Time (70 hrs @ $35/hr)          $2,450
-**Total**                       **$2,527.75**
-=============================   =============
-
-
-.. raw:: pdf
-
-    PageBreak
-
-Time line
-==========
-
-.. image:: plan/plan_cropped.png
-   :align: center
-
-.. image:: plan/tasks_cropped.png
-   :align: center
 
 .. raw:: pdf:
 
@@ -639,7 +505,7 @@ Time line
 
 References
 ============
-.. [#1] 
+.. [#1]
 
     President’s Council of Advisors on Science and Technology.
         Engage to Excel: Producing One Million Additional College Graduates With
@@ -672,7 +538,7 @@ References
 
 .. [#6]
 
-   http://www.johntaylorgatto.com/chapters/7c.htm 
+   http://www.johntaylorgatto.com/chapters/7c.htm
 
 .. [#7]
 
@@ -714,11 +580,11 @@ References
 
 .. [#15]
 
-   Standard Error of automated essay metrics 
+   Standard Error of automated essay metrics
 
 .. [#16]
 
-    Next-gen development practices TDD 
+    Next-gen development practices TDD
 
 .. [#17]
 
@@ -771,3 +637,4 @@ References
 .. raw:: pdf:
 
     PageBreak
+
