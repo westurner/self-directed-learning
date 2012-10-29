@@ -5,6 +5,39 @@ Strategy
 I would perform research utilizing both secondary and primary research
 resources in order to deliver the report on time and on budget.
 
+Six Patterns of Collaboration
+------------------------------
+Generate
+ * Research
+ * Outline
+ * Slides
+
+Reduce
+ * Research
+ * Content Headings
+ * Labeling Slides with Headings
+ * Normative Language
+
+Clarify
+ * Research
+ * Scope
+ * Focus
+ * Glossary
+
+Organize
+ * Focus
+ * Metadata
+ * Sequence Slides
+
+Evaluate
+ * Identify Values
+ * Organizational Value
+ * Interview
+
+Build Consensus
+ * Optimize Value Criteria
+ * Win/Win
+
 Secondary Research
 ~~~~~~~~~~~~~~~~~~~
 I would utilize internet search engines, academic journals, and 
@@ -61,6 +94,8 @@ Schedule
    * - Primary: Interview: STEM Student
      - 1 week
 
+.. _report_schedule:
+
 .. list-table:: Report Schedule
    :header-rows: 1
 
@@ -100,3 +135,19 @@ Books        50.00
 Articles     45.00
 **Total**    **105.00**
 ===========  ==========
+
+Tasks
+-------
+Goals: Report on Self Directed Learning with Online Resources
+Products: See `report_schedule`_
+Activities:
+Patterns of Collaboration:
+Techniques:
+Tools:
+Scripts:
+
+Generate: Brainstorm: 8.5x11: Slides, Notes, Concepts
+Generate: Type 8.5x11 Sheets
+Reduce: Identify topics, buckets
+Organize: Refactor outline
+Evaluate: Revise
