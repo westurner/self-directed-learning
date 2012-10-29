@@ -37,6 +37,19 @@ help:
 	@echo "  changes    to make an overview of all changed/added/deprecated items"
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
+	@echo ""
+	@echo "  latex_build_deps_ubuntu	to install LaTeX build dependencies"
+	@echo "  rst2pdf_build_deps_ubuntu	to install rst2pdf build dependencies"
+	@echo "  auto_setup			to install pyinotify and autocompile.py"
+	@echo ""
+	@echo "  rst2pdf			to make a PDF with rst2pdf"
+	@echo "  rst2pdf_open		to open rst2pdf PDF"
+	@echo "  rst2pdf_preview	to make a PDF with rdt2pdf and open it"
+	@echo "  html_preview		to make HTML files and browse to index.html"
+	@echo "  latexpdf_preview	to make a PDF with pdflatex and open it"
+	@echo ""
+	@echo "  auto_html			to rebuild HTML when files change"
+	@echo " 					NOTE: remember to refresh the browser"
 
 clean:
 	-rm -rf $(BUILDDIR)/*
@@ -162,12 +175,27 @@ rst2pdf_build_deps_ubuntu:
 	sudo apt-get install -y rst2pdf
 
 rst2pdf:
+	mkdir pdfrst
 	rst2pdf --break-level=1 \
 			--stylesheets=_static/pdf.styles \
 			--repeat-table-rows \
-			index.rst -o _build/index.pdf
+			report.rst -o _build/pdfrst/report.pdf
 
 rst2pdf_open:
-	evince _build/index.pdf
+	evince _build/pdf-rst/report.pdf
 
 rst2pdf_preview: rst2pdf rst2pdf_open
+
+html_preview: html
+	sensible-browser ./_build/html/index.html
+
+latexpdf_preview: latexpdf
+	evince _build/latex/index.pdf
+
+auto_setup:
+	pip install pyinotify
+	wget https://raw.github.com/seb-m/pyinotify/master/python2/examples/autocompile.py
+
+auto_html: html_preview
+	python ./autocompile.py . '.rst,.bib' "make html"
+
