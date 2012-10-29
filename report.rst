@@ -16,18 +16,7 @@
     PageBreak
 
 
-
-.. note::
-
-    This document was prepared in ReStructuredText, a plain-text markup
-    syntax, and transformed to PDF through **rst2pdf**.
-
-.. raw:: pdf
-
-    PageBreak
-
-
-Introduction
+    Introduction
 =============
 .. epigraph::
 
