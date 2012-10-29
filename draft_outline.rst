@@ -1,5 +1,6 @@
-Tech Writing Outline
-++++++++++++++++++++++
+========================
+0: Tech Writing Outline
+========================
 (Bob's Creative Process)
 
 Problem Identification
