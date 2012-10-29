@@ -1,141 +1,155 @@
-Intro
-    Autodidactism
-    DataTimeline
-    Knowledge Economy Roles: Producer/Consumer
-    [Streamgraph of yearly knowledge graph channels]
-    How many days in a year?
-    Bookmarks
-    Growth Metrics
-    Tools and Data
-    Pushing for Cooler Calculations
-    Aquariums & Cave Diving
-    Undergrad STEM
-    GOALS
-    HISTORY
+===============
+Slides Outline
+===============
 
-Challenges
-    One Million More STEM Trained
-    Simplest Approach to Augmenting Learning
-    Sharing Data Resources
-    Device Diversity
-    Standards Implementation
-    Interface Complexity: Scrolling through pages
-    Search & Peer Reviewed Learning
-    Indexing Things
-    Web Video
-    Privacy
-    Security
-    Versioning Things
-    Resource Constraints
-    Employer Acceptance
-    Verification
-    Incentivization
-    Learning Assessments
+::
 
-Opportunities
-    Learning STEM Theory, Process, and Knowledge
-    Through Applied Data Science
-    Linking Things Together
-    Maximizing Collaborative Value: Network Effects
-    Feedback & Collaboration
-    Six Patterns of Collaboration
-    Information Access Optimizations: TOC, Index, Search
-    Linked Data Workflows
-    Creative Process / Goal Attainment Paradigm / DMAIC
-    Healthy Online Communities: Python
-    Web Standards / Devices
-    Scheduling Learning Objects
-    Interface Flexibility Improvements / Standards
-    Augmenting Power of Search / Ctrl-F
-    Challenge: Indexing Things
-    Web Video on the Radio
-    Wikipedia Notability / Local Resources
-    Direct & Indirect Returns
+   Intro
+      Autodidactism
+      DataTimeline
+      Knowledge Economy Roles: Producer/Consumer
+      [Streamgraph of yearly knowledge graph channels]
+      How many days in a year?
+      Bookmarks
+      Growth Metrics
+      Tools and Data
+      Pushing for Cooler Calculations
+      Aquariums & Cave Diving
+      Undergrad STEM
+      GOALS
+      HISTORY
 
-Strategies
-    Linking Process Components and Resources of a Learning System w/ Feedback
-    And Learning Environments
-    "Two Hard Problems in Computer Science"
-    Bookmarks
-    Creating & Updating Resources
-    Labeling Things: Namespaces, URIs
-    Linking to Things with Metadata
-    Opportunity: Smart Tagging/Labels
-    Challenge: Where do I put my slides?
-    Email Attachments & Document Sharing
-    Document Capturing / Process Artifacts
-    Course Lifecycle
-    Feature Decision Consensus
-    Versioning Things / Project Resources
-    Generating Curricula Graphs and Traversal Sequences
-    Reqs: Degr, Career, Resource
-    Knowledge Graph
-    DFS Traversal
-    Describing Learning Momentum
-    Reviewing & Improving Curriculum Sequences
-    Optimization: ROC, Cost, Complexity Value
-    Optimization: Machine Learning
-    Optimization: Activity Metrics
-    Optimization: Max Flow
-    Channels
-        Docs, Sheets, Slides // Word, Excel, Powerpoint
-        Video
-        Q&A
-        Chat
+   Challenges
+      One Million More STEM Trained
+      Simplest Approach to Augmenting Learning
+      Collaboration: Resources: Sharing Data Resources
+      Usability: Collaboration: Device Diversity
+      Standards: Standards Implementation
+      Usability: Interface Complexity: Scrolling through pages
+      Collaboration: Search & Peer Reviewed Learning
+      Collaboration: Indexing Things
+      Linking: Web Video
+      Value: Privacy
+      Value: Security
+      Collaboration: Versioning Things
+      Resources: Resource Constraints
+      Value: Employer Acceptance
+      Value: Verification
+      Value: Incentivization
+      Linking: Learning Assessments
 
-Implementations
-    Learning Dashboard
-    Organizing 8.5x11
-    Standard: IEEE Learning Objects
-    Linking to Things with Metadata
-    Sequencing Objects in Practice
-    Usability/Managing Feedback
-    Sequencing: Mnemosyne
-    Sequencing: Grade Measuring Criteria
-    OCW, Coursera, EDX
-    Online University Courses
-    Comparison Scheme for Collaborative Technology
-    Killer Features
+   Opportunities
+      "where can I add value?"
+      Web Video on the Radio
+      Learning STEM Theory, Process, and Knowledge
+      Value: Direct & Indirect Returns
+      Tools: Through Applied Data Science
+      Resources: Linking Things Together
+      Collaboration: Maximizing Collaborative Value: Network Effects
+      Collaboration: Feedback & Collaboration
+      Collaboration: Six Patterns of Collaboration
+      Collbaoration: Information Access Optimizations: TOC, Index, Search
+      Collaboration: Creative Process / Goal Attainment Paradigm / DMAIC
+      Collaboration: Healthy Online Communities: Python
+      Collaboration: Web Standards / Devices
+      Linking: Linked Data Workflows
+      Linking: Scheduling Learning Objects
+      Linking: Interface Flexibility Improvements / Standards
+      Linking: Augmenting Power of Search / Ctrl-F
+      Collaboration: Indexing Things
+      Collaboration: Wikipedia Notability / Local Resources
 
-Authoring Tools
-    Standards: HTML, SCORM, REST, PRDF, SLIDES
-    The Simplicity of MOOCS
-    Q&A: Tutoring: You want to answer questions?
-    Q&A: Tutoring: But they are sharing the answers!
-    Build Servers as Course Automation
-    Usability: ZIP of MP4 and SRT files
-    Usability: iCal of Course Calendar
-    Gap/Opportunity: ReStructuredText metadata/microdata
-    Gap/Opportunity: S5 Slideshow Content / Timing Guidelines
-    Gap/Opportunity: JS Quiz Widget
+   Strategies
+      Linking Process Components and Resources of a Learning System w/ Feedback
+      And Learning Environments
+      "Two Hard Problems in Computer Science"
+      Collaboration: Where do I put my slides?
+      Collaboration: Feature Decision Consensus
+      Collaboration: Knowledge Graph
+      Collaboration: Channels
+         Docs, Sheets, Slides // Word, Excel, Powerpoint
+         Video
+         Q&A
+         Chat
+      Resources: Bookmarks
+      Resources: Creating & Updating Resources
+      Resources: Labeling Things: Namespaces, URIs
+      Resources: Linking to Things with Metadata
+      Resources: Smart Tagging/Labels
+      Resources: Email Attachments & Document Sharing
+      Resources: Document Capturing / Process Artifacts
+      Resources: Versioning Things
+      Resources: Course Lifecycle
+      Linking: Generating Curricula Graphs and Traversal Sequences
+      Linking: Degr, Career, Resource Requirements as Constraints
+      Linking: DFS Traversal
+      Linking: Describing Learning Momentum
+      Linking: Reviewing & Improving Curriculum Sequences
+      Optimization: ROC, Cost, Complexity Value
+      Optimization: Machine Learning
+      Optimization: Activity Metrics
+      Optimization: Max Flow
 
-Software R&D and Learning
-    Practices: README , TODO , Changelog .
-    Project Based Learning
-    Processes, Resources, and Learning
-    Documentation: Lightweight Markup Languages -> ReST
-    Documentation: Sphinx Documentation
-    Documentation: Bibtex
-    Documentation: Extending a Documentation Grammar Parser
-    To Compile a Course
-    Lean Production (*)
-    Testing: Continuous Regression Testing as Learning: Links, Constraints, and Metrics
-    Testing: Test Cases for Comprehension
-    Code Review Softwares
 
-STEM Laboratory Courses
-    Theory, Objectives, Questions, Process, Data, and Tools
-    Data Science Laboratory: Modeling Processes and Sequences
-    Python Tools for STEM: [Python(x,y) mindmap]
-    API: STEM Labs Processes
-    OpenStack
-    Q&A: Preprocessing out Question Answers
-    Standards: Web Hooks / Repository Events
-    Q&A: JS Q&A Widget
-    API: Request / Response :: Push / Pull
-    Portability/Packaging: Egg, Wheel, Python Guides
-    Project: Build a Bookstore API
-    Project: If a Student were an API
-    Project: CodeCademy
-    Project: HTML5 JS Math Game Design
+   Implementations
+      Learning Dashboard
+      Linking: Organizing 8.5x11
+      Standards: IEEE Learning Objects
+      Resources: Linking to Things with Metadata
+      Linking: Sequencing Objects in Practice
+      Collaboration: Managing Feedback
+      Linking: Mnemosyne
+      Linking: Grade Measuring Criteria
+      Linking: OCW, Coursera, EDX
+      Linking: Online University Courses
+      Collaboration: Comparison Scheme for Collaborative Technology
+      Collaboration: Killer Features
+
+   Authoring Tools
+      Standards: HTML, SCORM, REST, PRDF, SLIDES
+      Linking: The Simplicity of MOOCS
+      Q&A: Tutoring: You want to answer questions?
+      Q&A: Tutoring: But they are sharing the answers!
+      ? Build Servers as Course Automation
+      Usability: ZIP of MP4 and SRT files
+      Usability: iCal of Course Calendar
+      Project: ReStructuredText metadata/microdata
+      Project: S5 Slideshow Content / Timing Guidelines
+      Project: JS Quiz Widget
+
+   Software R&D and Learning
+      Project Based Learning
+      To Compile a Course
+      Lean Production (*)
+      Processes, Resources, and Learning
+      Resources: README , TODO , Changelog .
+      Resources: Version Control
+      
+      Documentation: Lightweight Markup Languages -> ReST
+      Documentation: Sphinx Documentation
+      Documentation: Bibtex
+      Documentation: Extending a Documentation Grammar Parser
+      
+      Testing: Continuous Regression Testing as Learning
+      Testing: Links, Constraints, and Metrics
+      Testing: Test Cases for Comprehension
+      Testing: Code Review Software
+
+   STEM Laboratory Courses
+      Theory, Objectives, Questions, Process, Data, and Tools
+      Data Science Laboratory: Modeling Processes and Sequences
+      Tools: Python for STEM: [Python(x,y) mindmap]
+      Labs: STEM Labs Processes
+      Tools: OpenStack
+      Q&A: Preprocessing out Question Answers
+      Standards: Web Hooks / Repository Events
+      Q&A: JS Q&A Widget
+      Labs: Request / Response :: Push / Pull
+      Tools: Portability/Packaging: Egg, Wheel, Python Guides
+
+      Project: HTML5 JS Math Game Design
+      Project: If a Student were an API
+      Project: Build a Bookstore API
+      Project: CodeCademy
+      Project: Finding Tools Gaps
 
