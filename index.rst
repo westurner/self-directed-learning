@@ -7,6 +7,8 @@
 Self-Directed Learning with Online Resources
 =============================================
 
+.. contents::
+
 :doc:`Report </report>`
 ========================
 .. toctree::
