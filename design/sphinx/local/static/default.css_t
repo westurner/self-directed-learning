@@ -142,7 +142,8 @@ div.sphinxsidebar a {
 }
 
 div.sphinxsidebar input {
-    border: 1px solid {{ theme_sidebarlinkcolor }};
+    border: 2px solid {{ theme_sidebarinputbordercolor }};
+    padding: 4px;
     font-family: sans-serif;
     font-size: 1em;
 }
@@ -224,7 +225,7 @@ a.headerlink:hover {
 }
 
 div.body p, div.body dd, div.body li {
-    text-align: justify;
+    /* text-align: justify; */
     line-height: 130%;
 }
 
@@ -276,7 +277,7 @@ pre {
     background-color: {{ theme_codebgcolor }};
     color: {{ theme_codetextcolor }};
     line-height: 120%;
-    border: 1px solid #ac9;
+    border: 1px solid {{ theme_codebordercolor }};
     border-left: none;
     border-right: none;
 }
@@ -307,4 +308,33 @@ div.viewcode-block:target {
     background-color: #f4debf;
     border-top: 1px solid #ac9;
     border-bottom: 1px solid #ac9;
+    }
+
+
+dt:target, .highlighted {
+    background-color: {{ theme_highlightedbg }};
+    padding: 2px 4px;
+    }
+
+blockquote.epigraph {
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 40px;
+  -webkit-margin-end: 40px;
+  background-color: {{ theme_codebgcolor }};
+  margin: 0 0.5em -0.5em 0;
+  padding: 0.5em;
+  padding-left: 1em;
+  color: #424242;
+  border-left: 0.2em solid {{ theme_codebordercolor }};
+  }
+
+div.body h1, 
+div.body h2, 
+div.body h3, 
+div.body h4, 
+div.body h5, 
+div.body h6 {
+  border-bottom: 2px solid {{ theme_sidebarbgcolor }};
+
 }
