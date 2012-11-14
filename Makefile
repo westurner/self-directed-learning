@@ -38,18 +38,32 @@ help:
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 	@echo ""
-	@echo "  latex_build_deps_ubuntu	to install LaTeX build dependencies"
+	@echo "  setup_ubuntu					to setup ubuntu dependencies"
+	@echo "  sphinx_deps_ubuntu			to install sphinx build dependencies"
+	@echo "  latex_build_deps_ubuntu		to install LaTeX build dependencies"
 	@echo "  rst2pdf_build_deps_ubuntu	to install rst2pdf build dependencies"
-	@echo "  auto_setup			to install pyinotify and autocompile.py"
 	@echo ""
-	@echo "  rst2pdf			to make a PDF with rst2pdf"
+	@echo "  rst2pdf				to make a PDF with rst2pdf"
 	@echo "  rst2pdf_open		to open rst2pdf PDF"
 	@echo "  rst2pdf_preview	to make a PDF with rdt2pdf and open it"
+	@echo ""
+	@echo "  html_open			to browse to _build/html/index.html
 	@echo "  html_preview		to make HTML files and browse to index.html"
+
+	@echo "  latexpdf_open		to open _build/latex/
 	@echo "  latexpdf_preview	to make a PDF with pdflatex and open it"
 	@echo ""
-	@echo "  auto_html			to rebuild HTML when files change"
+	@echo ""
+	@echo "  s5				to make S5 slides with rst2s5.py
+	@echo "  s5_open		to browse to _build/slides/index.html
+	@echo "  s5_preview  to make S5 slides with rst2s5.py and open them"
+	@echo " "
+
+	@echo "  auto_setup	to install pyinotify and autocompile.py"
+	@echo "  auto_html	to rebuild HTML when files change"
 	@echo " 					NOTE: remember to refresh the browser"
+	@echo "  auto_s5     to build S5 slides when files change"
+
 
 clean:
 	-rm -rf $(BUILDDIR)/*
@@ -174,8 +188,19 @@ latex_build_deps_ubuntu:
 rst2pdf_build_deps_ubuntu:
 	sudo apt-get install -y rst2pdf
 
+sphinx_deps_ubuntu:
+	sudo apt-get install -y \
+								--install-suggests \
+								   python-sphinx \
+									python-sphinxcontrib.issuetracer \
+									python-sphinxcontrib.spelling
+								  #python3-sphinx
+
+setup_ubuntu: rst2pdf_build_deps_ubuntu latex_build_deps_ubuntu sphinx_deps_ubuntu auto_setup
+	
+
 rst2pdf:
-	mkdir pdfrst
+	mkdir -p pdfrst
 	rst2pdf --break-level=1 \
 			--stylesheets=_static/pdf.styles \
 			--repeat-table-rows \
@@ -186,16 +211,67 @@ rst2pdf_open:
 
 rst2pdf_preview: rst2pdf rst2pdf_open
 
-html_preview: html
+
+html_open:
 	sensible-browser ./_build/html/index.html
 
-latexpdf_preview: latexpdf
-	evince _build/latex/index.pdf
+html_preview: html html_open
+
+
+latex_debug:
+	cd _build/latex/
+	gvim -p _build/latex/*.tex \
+				_build/latex/*.aux \
+				_build/latex/*.toc \
+				_build/latex/*.out \
+				_build/latex/*.log \
+				_build/latex/*.idx
+
+latexpdf_open:
+	evince _build/latex/TechWPaper.pdf
+
+latexpdf_preview: latexpdf latexpdf_open
+
+
+s5: 
+	[ -d ./_build/slides ] && rm -rf _build/slides
+	mkdir -p ./_build/slides/
+	cp ./slides.rst ./__slides.rst
+	sed -i 's/:term:`\(.*\)`/**\1**/g' ./__slides.rst
+	sed -i 's/:ref:`\(.*\)`/**\1**/g' ./__slides.rst
+	# TODO
+	rst2s5.py \
+		--section-numbering \
+		--title='' \
+		--date \
+		--time \
+		--strip-elements-with-class notes \
+		--current-slide \
+		--compact-lists \
+		--embed-stylesheet \
+		--attribution=parentheses \
+		--table-style=borderless \
+		--cloak-email-addresses \
+		--view-mode=outline \
+		--theme=small-white \
+		 ./__slides.rst 	\
+		 ./_build/slides/index.html
+
+s5_open:
+	sensible-browser ./_build/slides/index.html
+
+s5_preview: s5 s5_open
+
+
 
 auto_setup:
 	pip install pyinotify
 	wget https://raw.github.com/seb-m/pyinotify/master/python2/examples/autocompile.py
 
 auto_html: html_preview
-	python ./autocompile.py . '.rst,.bib' "make html"
+	python ./autocompile.py . '.rst,.bib,Makefile' "make html"
+
+auto_s5: s5_preview
+	python ./autocompile.py . '.rst,.bib' "make s5"
+
 
