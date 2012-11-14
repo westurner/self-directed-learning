@@ -38,31 +38,30 @@ help:
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 	@echo ""
-	@echo "  setup_ubuntu					to setup ubuntu dependencies"
-	@echo "  sphinx_deps_ubuntu			to install sphinx build dependencies"
-	@echo "  latex_build_deps_ubuntu		to install LaTeX build dependencies"
-	@echo "  rst2pdf_build_deps_ubuntu	to install rst2pdf build dependencies"
+	@echo "  setup_ubuntu               to setup ubuntu dependencies"
+	@echo "  sphinx_deps_ubuntu         to install sphinx build dependencies"
+	@echo "  latex_build_deps_ubuntu    to install LaTeX build dependencies"
+	@echo "  rst2pdf_build_deps_ubuntu  to install rst2pdf build dependencies"
 	@echo ""
-	@echo "  rst2pdf				to make a PDF with rst2pdf"
-	@echo "  rst2pdf_open		to open rst2pdf PDF"
-	@echo "  rst2pdf_preview	to make a PDF with rdt2pdf and open it"
+	@echo "  rst2pdf           to make a PDF with rst2pdf"
+	@echo "  rst2pdf_open      to open rst2pdf PDF"
+	@echo "  rst2pdf_preview   to make a PDF with rdt2pdf and open it"
 	@echo ""
-	@echo "  html_open			to browse to _build/html/index.html
-	@echo "  html_preview		to make HTML files and browse to index.html"
-
-	@echo "  latexpdf_open		to open _build/latex/
-	@echo "  latexpdf_preview	to make a PDF with pdflatex and open it"
+	@echo "  html_open         to browse to _build/html/index.html"
+	@echo "  html_preview      to make HTML files and browse to index.html"
 	@echo ""
+	@echo "  latexpdf_open     to open _build/latex"
+	@echo "  latexpdf_preview  to make a PDF with pdflatex and open it"
 	@echo ""
-	@echo "  s5				to make S5 slides with rst2s5.py
-	@echo "  s5_open		to browse to _build/slides/index.html
-	@echo "  s5_preview  to make S5 slides with rst2s5.py and open them"
-	@echo " "
-
-	@echo "  auto_setup	to install pyinotify and autocompile.py"
-	@echo "  auto_html	to rebuild HTML when files change"
-	@echo " 					NOTE: remember to refresh the browser"
+	@echo "  s5                to make S5 slides with rst2s5.py"
+	@echo "  s5_open           to browse to _build/slides/index.html"
+	@echo "  s5_preview        to make S5 slides with rst2s5.py and open them"
+	@echo ""
+	@echo "  auto_setup  to install pyinotify and autocompile.py"
+	@echo "              NOTE: remember to refresh the browser"
+	@echo "  auto_html   to rebuild HTML when files change"
 	@echo "  auto_s5     to build S5 slides when files change"
+	@echo "  auto_shtml  to rebuild singlehtml when files change"
 
 
 clean:
@@ -273,5 +272,11 @@ auto_html: html_preview
 
 auto_s5: s5_preview
 	python ./autocompile.py . '.rst,.bib' "make s5"
+
+
+
+
+
+
 
 
