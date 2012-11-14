@@ -1,8 +1,8 @@
 ========================
 0: Tech Writing Outline
 ========================
-(Bob's Creative Process)
-
+Tech Writing Outline
+++++++++++++++++++++++
 Problem Identification
 =======================
 How best to implement and integrate online learning?
@@ -186,6 +186,15 @@ References
     CRIWG 2008, Omaha, NE, USA, Sept. 14-18, 2008, Revised Selected Papers.
     Springer, 2009.
     [p.308]
+
+.. [CreativeProcess]
+
+:: 
+
+  Mumford, Michael D., Samuel T. Hunter, and Katrina E. Bedell-Avers.
+    Multi-Level Issues in Creativity and Innovation.
+    Emerald Group Publishing, 2008.
+    [p.208]
 
 
 Good Ideas
