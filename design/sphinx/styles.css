@@ -1,0 +1,28 @@
+
+/* default.css */
+div.document, div.related {
+  background-color: #f0f0f0;
+}
+
+div.related, div.related a {
+ color:#919191;
+}
+
+div.sphinxsidebar a {
+  /* NOP: color: */
+  color:#355F7C; /* from a and a:visited */
+
+}
+
+div.sphinxsidebar h3, h4, h5 {
+  color: #202020;
+}
+
+div.sphinxsidebar h3 a {
+  color:#717171;
+}
+
+div.sphinxsidebar input {
+  border:#919191;
+  padding: 4px;
+}
