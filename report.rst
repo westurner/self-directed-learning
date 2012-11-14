@@ -8,23 +8,13 @@
 
 .. sectnum
 
-.. contents:: Self Directed Learning with Online Resources
-   :depth: 3
+.. contents: : Self Directed Learning with Online Resources
+..   :depth: 3
 
-.. raw:: pdf
+.. raw: pdf
+.. 
+..    PageBreak
 
-    PageBreak
-
-
-
-.. note::
-
-    This document was prepared in ReStructuredText, a plain-text markup
-    syntax, and transformed to PDF through **rst2pdf**.
-
-.. raw:: pdf
-
-    PageBreak
 
 
 Introduction
