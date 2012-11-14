@@ -4,8 +4,8 @@ Glossary
 .. note:: The terms listed in this :doc:`glossary`
    are listed in the :ref:`genindex`.
 
-.. contents::
-   :class: handout
+.. contents:
+..   :class: handout
 
 Sequence Development
 --------------------
@@ -650,6 +650,10 @@ Tools
       or server-side in an :term:`Web Application Server`
 
 
+Research Tools
+-----------------
+
+
 
 Authoring Tools
 -----------------
@@ -1020,4 +1024,8 @@ TODO:cite
 Index
 =======
 .. note:: These terms are listed in the :ref:`genindex`.
+
+
+
+
 
