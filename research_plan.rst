@@ -6,37 +6,43 @@ I would perform research utilizing both secondary and primary research
 resources in order to deliver the report on time and on budget.
 
 Six Patterns of Collaboration
-------------------------------
-Generate
- * Research
- * Outline
- * Slides
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:term:`Generate`
++++++++++++++++++++
+* Research
+* Outline
+* Slides
 
-Reduce
- * Research
- * Content Headings
- * Labeling Slides with Headings
- * Normative Language
+:term:`Reduce`
+++++++++++++++++
+* Research
+* Content Headings
+* Labeling Slides with Headings
+* Normative Language
 
-Clarify
- * Research
- * Scope
- * Focus
- * Glossary
+:term:`Clarify`
+++++++++++++++++
+* Research
+* Scope
+* Focus
+* Glossary
 
-Organize
- * Focus
- * Metadata
- * Sequence Slides
+:term:`Organize`
+++++++++++++++++++
+* Focus
+* Metadata
+* Sequence Slides
 
-Evaluate
- * Identify Values
- * Organizational Value
- * Interview
+:term:`Evaluate`
++++++++++++++++++
+* Identify Values
+* Organizational Value
+* Interview
 
-Build Consensus
- * Optimize Value Criteria
- * Win/Win
+:term:`Build Consensus`
++++++++++++++++++++++++++
+* Optimize Value Criteria
+* Win/Win
 
 Secondary Research
 ~~~~~~~~~~~~~~~~~~~
