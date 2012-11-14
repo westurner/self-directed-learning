@@ -36,11 +36,19 @@ Self-Directed Learning with Online Resources
 Indices and tables
 ==================
 
-.. toctree::
+Glossary
+----------
+.. toctree:: Glossary
 
    glossary
 
+
+Index
+------
 * :ref:`genindex`
+
+:ref:`Search`
+=============
 * :ref:`search`
 
 .. * :ref:`modindex`
