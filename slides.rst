@@ -2,8 +2,7 @@
 Presentation Slides
 ====================
 
-.. code-block::
-   :class: handout
+.. code-block:: restructuredtext
 
    Intro
       Autodidactism
@@ -154,8 +153,7 @@ Presentation Slides
       Project: CodeCademy
       Project: Finding Tools Gaps
 
-.. code-block::
-   :class: handout
+.. code-block:: restructuredtext
 
    Challenges
    Opportunities
@@ -391,8 +389,6 @@ Six Patterns of Collaboration
 Information Access Optimizations
 =================================
 .. epigraph:: Which page number is it on my device?
-
-`Device diversity`_
 
 * *Table of Contents*
 * *Index*: Terminological Lexicon
@@ -840,7 +836,8 @@ Linking Between Things with URLs and Metadata
   :term:`Repositories <Repository>`: Document Identifiers
 * Document Authoring: naming URLs
 * :term:`Bookmarks <Bookmark>`: Adding tags and attributes
-* :term:`Learning Objects <Learning Object>`: Utilizing `Web Standards`_
+* :term:`Learning Objects <Learning Object>`
+* Utilizing :term:`Web Standards`
 
 Publishing, Storage, and Presentation
 ======================================
@@ -983,8 +980,9 @@ Designing URIs for Resource Collections
 =========================================
 .. epigraph:: What page number was that? If this was a web page, I could
    just __________?
+
 * Which page is it on?
-* What is the :term:`URL`?
+* What is the :term:`URL` ?
 * Why doesn't this :term:`PDF`
   :term:`Bookmark`
   include the document title?
@@ -2067,7 +2065,7 @@ and :term:`optmization <optimizing>`
 .. note:: Audience testing
 
 Q&A: Stripping Answers from ReStructuredText Documents
-===================================================
+=======================================================
 .. epigraph:: "But they are sharing the answers!"
 
 Re-:term:`sequencable` tests for comprehension::
@@ -2314,3 +2312,5 @@ PDFs, why does it not link to the assignment in the gradebook?
 Managing and encouraging feedback at scale
 
 Designing flexibly linked data models to support cool :term:`UIs <UI>`.
+
+
