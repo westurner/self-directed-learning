@@ -1,3 +1,5 @@
 _build/
 notes/
 index.pdf
+syntax:glob
+*.egg-info
