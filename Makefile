@@ -7,6 +7,11 @@ SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = _build
 
+SLIDES_BUILDDIR = $(BUILDDIR)/slides
+SLIDES_FILE		 = slides.rst
+SLIDES_TMP		 = $(SLIDES_BUILDDIR)/$(SLIDES_FILE)_
+SLIDES_OUTP		 = $(SLIDES_BUILDDIR)/index.html
+
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
 PAPEROPT_letter = -D latex_paper_size=letter
@@ -233,11 +238,12 @@ latexpdf_preview: latexpdf latexpdf_open
 
 
 s5: 
-	[ -d ./_build/slides ] && rm -rf _build/slides
-	mkdir -p ./_build/slides/
-	cp ./slides.rst ./__slides.rst
-	sed -i 's/:term:`\(.*\)`/**\1**/g' ./__slides.rst
-	sed -i 's/:ref:`\(.*\)`/**\1**/g' ./__slides.rst
+	[ -d $(SLIDES_BUILDDIR) ] || rm -rf $(SLIDES_BUILDDIR)
+	mkdir -p $(SLIDES_BUILDDIR)
+	cp $(SLIDES_FILE) $(SLIDES_TMP)
+	sed -i 's/:term:`\(.*\)`/**\1**/g' $(SLIDES_TMP)
+	sed -i 's/:ref:`\(.*\)`/**\1**/g' $(SLIDES_TMP)
+	sed -i 's/:pypi:`\(.*\)/**\1**/g' $(SLIDES_TMP)
 	# TODO
 	rst2s5.py \
 		--section-numbering \
@@ -253,11 +259,11 @@ s5:
 		--cloak-email-addresses \
 		--view-mode=outline \
 		--theme=small-white \
-		 ./__slides.rst 	\
-		 ./_build/slides/index.html
+		 $(SLIDES_TMP) \
+		 $(SLIDES_OUTP)
 
 s5_open:
-	sensible-browser ./_build/slides/index.html
+	sensible-browser $(SLIDES_OUTP)
 
 s5_preview: s5 s5_open
 
@@ -268,15 +274,9 @@ auto_setup:
 	wget https://raw.github.com/seb-m/pyinotify/master/python2/examples/autocompile.py
 
 auto_html: html_preview
-	python ./autocompile.py . '.rst,.bib,Makefile' "make html"
+	python ./autocompile.py . '.rst,.bib,Makefile,conf.py,theme.conf' "make html"
 
 auto_s5: s5_preview
-	python ./autocompile.py . '.rst,.bib' "make s5"
-
-
-
-
-
-
+	python ./autocompile.py . '.rst,.bib,Makefile' "make s5"
 
 
