@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# encoding: utf-8
+from __future__ import print_function
+"""
+rst_slideoutline
+"""
 from collections import OrderedDict
 from itertools import count
 from pprint import pprint
@@ -37,7 +43,7 @@ def parse_slide_outline(filename):
             if l.startswith(indent):
                 if l[indentlen:indentlen+indentlen] != indent:
                     section = l.strip()
-                    print section
+                    print(section)
                     g.add_node(section, key=key, type='section')
                     #yield (filename, section, {'_type': 'hasSection'})
                     g.add_edge(filename, section, type='hasSection')
@@ -46,7 +52,7 @@ def parse_slide_outline(filename):
                 else:
                     terms = [t.strip() for t in l.split(':')]
                     kwset, heading = terms[:-1], terms[-1]
-                    print kwset, heading
+                    print( kwset, heading )
                     g.add_node(heading, key=key, type='heading')
                     sections[section].append( (key, kwset,heading) )
                     #yield (section, heading, {'_type': 'hasItem'})
@@ -66,10 +72,66 @@ def parse_slide_outline(filename):
     #pprint(dict(keywords))
     #pprint(dict(items))
 
-g = parse_slide_outline('./slides.rst')
-for e in g:
-    print e
+
+def rst_slideoutline(filename):
+    """
+    mainfunc
+    """
+    g = parse_slide_outline(filename)
+    for e in g:
+        print(e)
+
+
+
+
 
 #for edge in parse_slide_outline('./slides.rst'):
 #    print edge
+
+
+import unittest
+class Test_rst_slideoutline(unittest.TestCase):
+    def test_rst_slideoutline(self):
+        import StringIO
+        testfile = StringIO.StringIO()
+        rst_slideoutline(testfile)
+
+
+def main():
+    import optparse
+    import logging
+
+    prs = optparse.OptionParser(usage="./%prog : <filename>",
+            description="Build a networkx Graph from a Tagged Outline")
+
+    prs.add_option('-v', '--verbose',
+                    dest='verbose',
+                    action='store_true',)
+    prs.add_option('-q', '--quiet',
+                    dest='quiet',
+                    action='store_true',)
+    prs.add_option('-t', '--test',
+                    dest='run_tests',
+                    action='store_true',)
+
+    (opts, args) = prs.parse_args()
+
+    if not opts.quiet:
+        logging.basicConfig()
+
+        if opts.verbose:
+            logging.getLogger().setLevel(logging.DEBUG)
+
+    if opts.run_tests:
+        import sys
+        sys.argv = [sys.argv[0]] + args
+        import unittest
+        exit(unittest.main())
+
+    if args:
+        filename = args[0]
+        rst_slideoutline(filename)
+
+if __name__ == "__main__":
+    main()
 
