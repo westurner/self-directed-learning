@@ -3,3 +3,4 @@ notes/
 index.pdf
 syntax:glob
 *.egg-info
+*.pyc
