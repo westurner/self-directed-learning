@@ -1,6 +1,18 @@
-====================
-Presentation Slides
-====================
+.. ====================
+.. Presentation Slides
+.. ====================
+
+0 Outlines
+++++++++++
+
+1 H2
+--------
+
+2 H3
+=========
+
+4 H4
+~~~~~~
 
 .. code-block:: restructuredtext
 
@@ -205,466 +217,119 @@ Presentation Slides
    Vertex
 
 
+Six Patterns of Collaboration
++++++++++++++++++++++++++++++++
+::
+
+    Generate
+        Brainstorm
+        Outline
+        Research
+    Reduce
+        Add Concept Headers
+    Clarify
+        Scope
+        Interview
+        Research
+        Record
+    Organize
+        Outlines -> Plans
+        Add Metadata
+    Evaluate
+        Criteria -> Value
+        Organizational Value
+        Share
+        Review
+        Contribute
+    Build Consensus
+        Win/Win
+        Call to Action
+        URLs
+        Criteria
+        Min/Max
+        Fitness
+
+Work Process: Enumerating ideas and concepts with actionability states
+
+[TODO:cite]
+
+
+
+
 .. contents::
    :class: handout
 
+
+
+
+
 Intro
-=======
+++++++
 
 
-Challenges
-============
+
+Self-Directed Learning with Online Resources
+
+An independent study of
+challenges,
+opportunities
+and strategies
+for encouraging feedback
+between tools and resources
+in online learning systems
+
+
+::
+
+   aquariums and cave diving
+
+.. note:: might as well be a request for proposal
+
+
+Objectives
+------------
+
+Self Directed Learning
+========================
+:term:`Autodidactism`: Self-Directed Learning
+
+* Time
+* Skills
+* Discipline
+* Rhetoric
+* :term:`Resources <Resource>`
+
+And tools that :term:`augment` learning in application to:
+
+* Theory
+* Knowledge
+* Wisdom
+
+Aquariums and Cave Diving
+~~~~~~~~~~~~~~~~~~~~~~~~~
+::
+
+    Aquariums and Cave Diving
+
+
+* Jacques Cousteau
+* Edutainment/Infotainment
+* Documentary :: Reality
+* Information Chunking
+* Market Study Confidence
+* Attention Retention
+
+
+Undergradate STEM Graduates
+=============================
 "We need one million more :term:`STEM` trained:"
 
 * Qualified, Knowledgeable Consumers
 * Efficient, Sustainable, Creative Producers
 * Data Science Influencers
 
-Augmenting Learning
-=====================
-Simplest, least complex approach
-Accelerating and Augmenting Learning
-
-"Here's a library, knock yourself out"
-
-Reaching People with Busy Schedules
-=====================================
-* Data
-   
-  * Charts
-  * Analyses
-
-* Opportunities
-* URLS
-
-  * Bookmarkable
-  * Shareable
-  * Referenceable
-  * Archivable
-
-Edutainment/Infotainment
-===========================
-* Jacques Cousteau
-* Documentary :: Reality
-* Information Chunking
-* Market Study Confidence
-* Attention Retention
-
-Sharing Data Resources
-========================
-
-.. epigraph:: *Neat*, **Awesome** Study, but
-
-* How easily can our tools share data?
-* Where can I download the checksums?
-* How do I download it?
-* What do you want to do with it?
-* What concepts and keywords does it reference?
-* Which part of this should I translate?
-
-Device Diversity
-=================
-
-
-::
-
-   ________________________
-   |      ________________|
-   |     |   _____________|
-   |     |   |   _________|
-   |     |   |   |    ____|
-   |     |   |   |   |    |
-   |_____|___|___|___|____|
-
-Cascading Style Sheets
-
-* Text Reflow
-* Fluid Layouts
-
-Content Presentation Separation
-
-
-Privacy
-=========
-
-.. epigraph:: "How do we verify this curriculum vitae?"
-
-
-Status Quo
-
-* Limited Records
-* Access Logs
-* Retention Policies
-
-Standards
-
-* FOAF (Friend of a Friend)
-* OAUTH API Controls
-* OpenID
-
-.. note:: *Health Photo Journal* Balancing Act
-
-Security
-============
-Assurances Necessary for Measuring Learning
-
-* Confidentiality
-* Integrity
-* Availability 
-
-.. epigraph:: which email is this linked to?
-
-Versioning Things
-==================
-
-
-Project Management
-===================
-Managing a **Project**
-as a **Resource** with versioned links to **Resources**
-
-Comparing wikis and version control
-
-Wiki
-
-* Revision Trail: "History"
-* Talk Page: Commentary, Feedback
-
-Version Control
-
-* Revision Trail: "Commit Log"
-
-Challenges of Online Primary Education
-========================================
-* Personal student health information?
-* Privacy Controls and Logging for remotely hosted resources
-* Difficulties of data scrubbing
-* Incorporating healthy behaviors: No TV until/after.
-* Scaling Local Hosting Arrangements
-
-
-
-
-Opportunities
-===============
-Learning STEM *Theory*, *Process*, and *Knowledge* 
-through applied data science.
-
-* **Linking things together**
-* Feedback and Collaboration
-* Communication Channels
-* Q&A
-
-
-Goal: Maximize Collaborative Output
-====================================
-Criteria for evaluating collaborative learning products
-
-Network Effects n^2
-
-* Jointly Authored Pages
-* Information Access
-* Streaming
-
-[TODO:cite]
-
-Adopted Social Networking Technologies
-========================================
-* Whiteboarding
-* Games with friends
-* Video, Audio, Text Chat
-* Linked Personal Profiles
-
-Six Patterns of Collaboration
-=================================
-* :term:`Generate`: Fewer to more concepts
-* :term:`Reduce`: Many concepts -> focus
-* :term:`Clarify`: Less -> More Shared Understanding
-* :term:`Organize`:
-* :term:`Evaluate`: Less -> More Value Understanding
-* :term:`Build Consensus`: Less -> More Willingness to Commit
-
-[TODO:cite]
-
-Information Access Optimizations
-=================================
-.. epigraph:: Which page number is it on my device?
-
-* *Table of Contents*
-* *Index*: Terminological Lexicon
-* `Glossary`: Compendium of Definitions
-* *Search*
-
-  * Documents
-  * Notes
-  * Questions
-  * Answers
-  * Digital Media
-
-Linked Data Workflow
-=====================
-Work Process: Enumerating ideas and concepts with actionability states
-
-* :term:`Generate`: Brainstorm
-* :term:`Reduce`
-* :term:`Clarify`
-* :term:`Organize`
-* :term:`Evaluate`: Share, Review, Contribute 
-* :term:`Build Consensus`:Criteria, min/max, fitness
-
-
-
-
-
-
-Healthy Online Community
-=========================
-
-* Distributed Version Control
-* Documentation: Sphinx/ReStructuredText
-* Issue and resolution tracking
-* Proposal Review Workflow
-* Learning Community
-  
-  * Wikis, Blogs
-
-* Books: Paper, Digital, Web
-
-[TODO:cite]
-
-Interface for Online Learning
-================================
-.. epigraph:: "Really what I want is..."
-
-Interfaces for online learning
-
-* Focused learning activities
-* search
-* animated
-* four-dimensional
-* through my phone/tablet
-
-Web Standards
-===============
-Content addressing: URIs
-HTTP/HTML
-
-* Storage
-* Archival
-* Versioning
-
-Metadata: Searching & Indexing
-
-* RDFa
-* Microdata
-* GIFT
-
-Web Video
-
-TODO:cite
-
-Education Standards
-=====================
-USA ADL
-
-* :term:`SCORM`
-* :term:`Learning Objects <Learning Object>`
-* :term:`TinCan API <TinCan>`
-
-  * Verbs
-  * Activities
-  * Scores
-  * Times
-
-TODO:cite
-
-
-Curriculum Interfaces
-=======================
-.. epigraph:: would be great if I could schedule sliding windows of
-   content sequences with expected exercise durations.
-
-Curriculum Sequences
---------------------
-1. Read **A1 Reading**
-      Consume :term:`document` :term:`resource`
-2. Watch **A1 Video: Lecture 1**
-   Consume :term:`resource`
-3. Answer **A1 Quiz Questions**
-   Check for comprehension.
-4. Apply **A1 Project**
-      Apply and synthesize.
-
-*Comprehension testing*, *Peer-reviewed annotations*
-
-Interface Flexibility
-======================
-
-* Where is the table of contents?
-* Why do I have to press next and previous?
-* So I can just scroll through these?
-* Can I Ctrl-F to search?
-* Can I tab through these?
-
-* What can I link to?
-* When I open in a new tab, does it link to the specific content I am
-  trying to reference?
-
-
-
-
-
-Augmenting Power of Search vs Sequenced Peer-Weighted Learning
-=================================================================
-* Bibliographies
-* Collaborative Groups
-* Structured Metadata
-* Inline Media
-
-Search
-========
-Resources to
-
-* Page through
-* Scroll through
-* Ctrl-F Find
-* Index
-* Cluster
-* Archive
-* Share
-
-Indexing Things
-=================
-* Computed Attribute Indexing
-* Document Checksums
-* Normalizing
-* Eventual Consistency
-
-.. epigraph:: which part do I copy to the search service?
-
-.. epigraph:: which URL do I put?
-
-Web Video
-===========
-* Growth Metrics
-* Bandwidth minimzation
-* Broadband availability
-* Replicated hosting
-* Metadata API
-* Subtitles API
-* Referencability
-
-[TODO:cite]
-
-Web Video Courses
-===================
-* Hosting
-* Device/Browser Support: Mac, PC, Android, iOS
-* Linking with readings
-* Optional Books
-* Relevant papers
-
-Online Course Experience
-===========================
-.. epigraph:: I was listening to Andrew Ng's 2012 Machine Learning course
-   and glancing at the subtitles streaming over a
-   wireless laptop, and thoroughly appreciated the ability to rewind.
-
-[TODO:cite]
-
-Technical Wikipedia Writing
-============================
-If I write it for Wikipedia, in MediaWiki syntax,
-how can I:
-
-* format it as an essay?
-* generate a list of figures?
-* link to references and citations?
-
-Notability Requirements
-
-*  Does writing for a peer reviewed encyclopedia qualify as
-   technical writing?
-
-*  At what point is this good enough for Wikimedia merge
-   submission?
-
-Wikipedia Value
-=================
-Shared, Multi-Lingual Concept Identifiers
-
-*  Translate Terminological References
-*  http://en.wikipedia.org/wiki/Wikipedia
-*  http://jp.wikipedia.org/wiki/Wikipedia
-
-
-6 Layer Model for Collaboration
-=================================
-Generate
-   Outline
-   Research
-Reduce
-   Add Concept Headers
-Clarify
-   Scope
-   Interview
-   Research
-   Record
-Organize
-   Outlines -> Plans
-   Add Metadata
-Evaluate
-   Criteria -> Value
-   Organizational Value
-Build Consensus
-   Win/Win
-   Call to Action
-   URLs
-
-Gap: Per-Course Sidewiki
-==========================
-* Per-course sidewiki
-* with scholarly overlays
-* and an answers tab, for teachers
-
-Strategies
-============
-An independent study of
-Strategies for linking components & resources of a learning system
-with feedback and learning environments: Challenges, opportunities and
-strategies for implementation
-
-.. note:: might as well be a request for proposal
-
-Technical Writing
-====================
-What is the state of the art?
-
-Online autodidactism: self-directed learning with online resources
-
-Background, Challenges, Opportunities, and Strategies for Implementation
-
-Autodidactism
-==============
-Autodidactism
-   Self-directed learning
-
-Activities
------------
-
-* Time
-* Skills
-* Discipline
-* Rhetoric
-* Resources
-
-Charting Competencies
------------------------
-* Signing Authority
-* :term:`Activity Metrics <Activity Metric>`
-
-[TODO:cite]
-
+Background
+------------
 
 Learning Resource Timeline
 ============================
@@ -714,29 +379,194 @@ Yearly Knowledge/Data Graph
 
 [TODO:cite]
 
-Process: Citations
+
+
+
+
+
+
+
+
+Challenges
++++++++++++
+
+* Room to Grow
+* Resource Efficacy
+* Cost/Return Curve
+* Creativity & Process Control
+* Tool Frustration -> Resistance to Change
+* Taking a step back
+
+Reaching People with Busy Schedules
+
+* Data
+   
+  * Charts
+  * Analyses
+
+* Opportunities
+* URLS
+
+  * Bookmarkable
+  * Shareable
+  * Referenceable
+  * Archivable
+
+Resource Constraints
+----------------------
+
+Teacher Salaries
+==================
+
+Learning Materials
 ====================
-So, I have now prepared roughly 100 slides with pen and paper, ans now
-need to lookup which references I browsed, bookmarked, and slept on.
 
-What is the best way to do that with over 100 bookmarks tagged with
-metadata.
+Learning :term:`Resources`
 
-How best should I reference source materials?
 
-* DOI
-* ISBN
-* Zotero
-* URLs
+Course Artifacts and Components
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. epigraph:: "I want to download all of this as a zip file"
 
-Which textual citation serialization?
+* Syllabus
+* Lectures
+* Slides
+* Quizzes
+* Assignments / :term:`Activities <Activity>`
+* Expected Assignment Durations
 
-* Zotero Styles
+* Documents: :term:`PDF`, :term:`HTML`
+* Audio
+* Photo
+* Video
+* Books
+* Web Pages
+* Datasets
+* :term:`Linked Data`
+* Knowledge Triple Repositories
+* :term:`URLs <URL>`
+* Notes
+* Questions
+* Answers
 
-[TODO:cite]
+Resources: Course Lifecycle
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. epigraph:: "Why do we do it this way?"
+
+**Answer**
+
+| We used to ___________, but __________,
+| so we tried __________, but __________,
+| and now ______________________________,
+| so what we're looking to do is
+| ______________________________________
+| on the :term:`web`
+|
+| with :term:`revision controls <Version Control System>`
+
+
+::
+
+   Topics -> Requirements -> Research -> Expertise (Reivew) ->
+      Chunking Wisdom -> Formatting -> Publishing
+
+      Publishing:
+         PDF
+         Books
+         Slides
+         Tapes
+         CDs
+         WebPages
+         Knowledge Repositories
+         Databases
+
+
+
+
+Employer Acceptance
+---------------------
+
+Verification
+==============
+
+Incentivization
+-----------------
+Human Motivation
+=================
+
+Why?
+====
+
+Learning Assessments
+----------------------
+
+Self Evaluation
+=================
+
+Standard-Normal Testing
+=========================
+
+Voting Choice Theory
+======================
+
+Essay Qualification & Quantification
+======================================
+
+Sharing Resources
+-------------------
+
+
+
+Creating and Updating Resources
+================================
+What does it mean to produce a *hyperlinked* document?
+
+* Why HTTP?
+* Why HTML?
+* Why Javascript?
+
+
+Information Access Optimizations
+=================================
+* *Table of Contents*
+* *Index*: Terminological Lexicon
+* `Glossary`: Compendium of Definitions
+* *Search*
+
+
+
+Bibliographic Citations
+========================
+Maintaining structured links to reference and documentation sources
+
+* Document title
+* Page Number
+* #URL Fragment
+* Attachment Revisions
+
+
+
+Sharing Data Resources
+========================
+
+.. epigraph:: *Neat*, **Awesome** Study, but
+
+* What is this :term:`named <namespacing>`
+* How easily can our tools share data?
+* Where can I download the checksums?
+* How do I download it?
+* What do you want to do with it?
+* What concepts and keywords does it reference?
+* Which part of this should I translate?
+
+.. epigraph:: "One of them is 'Naming Things'"
+    -- TODO
+
 
 Resources: Bookmarks
 ======================
+* Bookmarks are great
+* Bookmarks are resources
 * I need to consolidate my bookmarks
 * I need to manage my bookmarks
 * I need a bookmark manager
@@ -748,31 +578,232 @@ Resources: Bookmarks
 
 .. epigraph:: Check this out.
 
-Challenges: Vocabulary
-========================
-* Room to Grow
-* Resource Efficacy
-* Cost/Return Curve
-* Creativity & Process Control
-* Tool Frustration -> Resistance to Change
-* Taking a step back
 
-Learning about Tools
+Document Capturing Process
+============================
+.. epigraph:: Wait? What? You want to scan this? Awesome.
+
+*Artifacts*
+
+* Why tag things?
+* Why name them?
+* Why label them?
+
+
+Workflow: Sharing Documents as Email Attachments
+==================================================
+I want to email a document that would be better if
+we were to revise collaboratively.
+
+Why would it be inefficient to email variously named and occasionally
+versioned versions of a document resource?
+
+When do we file this?
+
+
+Designing URIs for Resource Collections
+=========================================
+.. epigraph:: What page number was that? If this was a web page, I could
+   just __________?
+
+* Which page is it on?
+* What is the :term:`URL` ?
+* Why doesn't this :term:`PDF`
+  :term:`Bookmark`
+  include the document title?
+* This page does not include content mentioning these keywords.
+* Can I link to a document subsection with a :term:`URL Fragment`?
+* How should I organize course files for a zip archive?
+* How should I organize course files for packaging?
+* How do I watch/listen to course lectures on a phone, tablet, TV, mac, pc?
+* How can I adjust the font?
+* Where should the :term:`presentation`
+  mix with the :term:`Content`?
+* "Data not available"
+* How do I search based on :term:`metadata`?
+
+  * Can I facet the search query with certain criteria?
+
+* Can I share this link?
+
+
+
+Versioning Project Resources
+==============================
+Managing a **Project**
+as a :term:`Resource` with versioned links to
+additional :term:`Resources`
+
+Comparing wikis and version control
+
+Wiki
+
+* Revision Trail: "History"
+* Talk Page: Commentary, Feedback
+
+Version Control
+
+* Revision Trail: "Commit Log"
+
+
+Interface Usability and Accessibility
+---------------------------------------
+Interfaces for Online Learning
+================================
+.. epigraph:: "Really what I want is..."
+
+* Focused learning activities
+* search
+* animated
+* four-dimensional
+* through my phone/tablet
+
+Managing and encouraging feedback at scale
+
+Designing flexibly linked data models to support cool :term:`UIs <UI>`.
+
+Interface Criteria
+======================
+* Where is the table of contents?
+* What do ``Page Up`` and ``Page Down`` do?
+* What about ``Tab``?
+* Why do I have to **click** next and previous?
+* Can I ``Ctrl-F`` to search within the resource?
+* Can I tab through these?
+* What can I link to?
+* Can I link to a URL fragment in a new tab?
+* Can I scroll with the mouse wheel?
+
+
+Interface Questions
 =====================
-And/after/in application to:
+* Can I download a list of my assignment due dates?
 
-* Theory
-* Knowledge
-* Wisdom
+  * To my iCal
+  * As a list of tasks with duration
+  * As an RSS feed
 
-Resources: Better Calculators
-===============================
-.. epigraph:: "Where do I set my calculator?"
+* What does it mean that a course is worth N credit hours?
 
-Why is it that we would be interested in pushing for:
+  * How many hours a week is that?
 
-* Better Personal Calculators
-* Computers, Notebooks, and Tablets
+Separating Content and Presentation
+====================================
+.. epigraph:: Which page number is it on my device?
+
+::
+
+   ________________________
+   |      ________________|
+   |     |   _____________|
+   |     |   |   _________|
+   |     |   |   |    ____|
+   |     |   |   |   |    |
+   |_____|___|___|___|____|
+
+I want to review this course on my
+
+  * Laptop
+  * TV
+  * Tablet
+  * Phone
+
+* Screen Size
+* Bandwidth
+* External Media
+
+  * USB Drive
+  * SD Card
+  * MicroSD Card
+
+
+**Web Standards**
+
+Cascading Style Sheets
+
+* Text Reflow
+* Fluid Layouts
+
+
+
+Privacy and Security
+--------------------
+Privacy
+=========
+.. epigraph:: "How do we verify this curriculum vitae?"
+
+Status Quo
+
+* Limited Records
+* Access Logs
+* Retention Policies
+
+Standards
+
+* FOAF (Friend of a Friend)
+* OAUTH API Controls
+* OpenID
+
+.. note:: *Health Photo Journal* Balancing Act
+
+* Personal student health information?
+* Privacy Controls for remotely hosted resources
+* Difficulties of data scrubbing
+
+Security
+============
+.. epigraph:: Which email is this linked to?
+
+Assurances Necessary for Measuring Learning
+
+* Confidentiality
+* Integrity
+* Availability 
+
+
+
+
+Opportunities
++++++++++++++++
+
+Direct Returns
+----------------
+
+Indirect Returns / Externalities
+----------------------------------
+
+Network Effects
+================
+
+Goodwill
+=========
+
+Knowledge Economy
+===================
+
+STEM Theory, Process, and Knowledge
+====================================
+Learning STEM *Theory*, *Process*, and *Knowledge* 
+through applied data science.
+
+* **Linking things together**
+* Feedback and Collaboration
+* Communication Channels
+* Q&A
+
+
+Goal: Maximize Collaborative Output
+====================================
+Criteria for evaluating collaborative learning products
+
+Network Effects n^2
+
+* Jointly Authored Pages
+* Information Access
+* Streaming
+
+[TODO:cite]
+
 
 Generalizing Educational Momentum
 ===================================
@@ -784,6 +815,12 @@ Generalizing Educational Momentum
   * :term:`Proficiency`
 
 * Serial Order Effect
+
+
+
+
+
+
 
 Knowledge Graph
 ==================
@@ -816,17 +853,7 @@ Media
 * :term:`URL`
 * :term:`Datasets <dataset>`
 
-Open Platforms for Open Learning
-==================================
-Network Effects
 
-* :term:`OpenCourseWare`
-* :term:`Open Stack`
-* :term:`Open Source`
-* :term:`Open Access`
-* :term:`Open Data`
-* :term:`Linked Open Data`
-* Open Learning
 
 Linking Between Things with URLs and Metadata
 ===============================================
@@ -838,6 +865,20 @@ Linking Between Things with URLs and Metadata
 * :term:`Bookmarks <Bookmark>`: Adding tags and attributes
 * :term:`Learning Objects <Learning Object>`
 * Utilizing :term:`Web Standards`
+
+
+
+Tools: Pushing for Better Calculators
+======================================
+.. epigraph:: "Where do I set the calculator?"
+
+Why is it that we would be interested in pushing for:
+
+* Better Personal Calculators
+* Computers, Notebooks, and Tablets
+
+
+
 
 Publishing, Storage, and Presentation
 ======================================
@@ -852,62 +893,335 @@ Publishing, Storage, and Presentation
 
   * Commenting
 
-Workflow: Sharing Documents as Email Attachments
-==================================================
-I want to email a document that would be better if
-we were to revise collaboratively.
-
-Why would it be inefficient to email variously named and occasionally
-versioned versions of a document resource?
-
-When do we file this?
 
 
 Strategies
-============
-How do we make this better?
+++++++++++++
+.. epigraph:: "How do we make this better?"
 
-Resources
-===========
-Creating Resources and resource collections with prose and citations and
-figures.
+.. epigraph:: "There has to be a better way of doing this"
 
-Chunking for Presentation and Delivery
-========================================
-Point outlines which map into *slides*
-of a *document*
-in *serial order* containing
-*references* to sources of information
-regarding the *contextual subject* being discussed.
+Working with lots of things
+=============================
 
-Slides have a *next* and *previous* and can follow a *question* &
-*answer* format
+* I need to write this down
+* Can I just lay it all out?
+* Can we list it in a table?
+* Can I add columns?
+* Which columns can I add?
+* Which columns are already there?
+* Which columns should I add?
+* What did they call a ``Widget``?
 
-.. note:: presentation timing with sliding windows
+Channels
+---------
 
-Resources: Bookmarks 1
-=======================
-* Bookmarks are great
-* Bookmarks are resources
-* A bookmark resource instance points to a resource identifier (URL)
+Publishing Static Documents
+=============================
 
-BibTeX
+
+Video
 =======
-BibTeX is great.
+
+
+* Growth Metrics
+* Bandwidth minimzation
+* Broadband availability
+* Replicated hosting
+* Metadata API
+* Subtitles API
+* Referencability
 
 [TODO:cite]
 
-Creating and Updating Resources
-================================
-What does it mean to produce a *hyperlinked* document?
 
-* Why HTTP?
-* Why HTML?
-* Why Javascript?
 
-Authoring: Lightweight Markup Language
-========================================
-Simple Plaintext :term:`Markup Language` for generating Multiple Output Formats
+Q&A
+========
+
+.. epigraph:: "But they are sharing the answers!"
+
+Asking for answers.
+
+.. epigraph:: "You want to answer questions?"
+
+Q&A Web Sites
+~~~~~~~~~~~~~~~
+* http://stackoverflow.com
+* http://quora.com
+* :term:`askbot`
+
+Social Media
+=============
+* Whiteboarding
+* Games with friends
+* Video, Audio, Text Chat
+* Linked Personal Profiles
+
+Implementations
+-----------------
+
+OpenCourseWare
+===============
+
+MOOC: OpenCourseware, Coursera, EdX
+=====================================
+:term:`MOOCs <MOOC>`: Massive Open Online Course
+
+Foregoing the unused 80% of :term:`LMS`
+and :term:`LCMS` features
+for :term:`scalability`
+
+* http://opencourseware.mit.edu
+* http://coursera.edu
+* http://edx.edu
+* http://udacity TODO
+
+MOOC Online Course Features
+=============================
+* Web Hosting
+* Video Hosting
+* Linking with readings
+* Optional Books
+* Relevant papers
+* Device/Browser Support: Mac, PC, Android, iOS
+
+Online Course Experience
+===========================
+.. epigraph:: I was listening to Andrew Ng's 2012 Machine Learning course
+   and glancing at the subtitles streaming over a
+   wireless laptop, and thoroughly appreciated the ability to rewind.
+
+[TODO:cite]
+
+University Online Offerings
+============================
+# TODO -> LCMS
+
+Comparison Scheme for Collaborative Technology
+===============================================
+
+
+Learning Dashboard
+====================
+::
+
+   Annotated countour/heat maps
+   
+   * Activity/Objectives
+   * Student/Objectives
+
+Charting Competencies
+~~~~~~~~~~~~~~~~~~~~~~
+* Signing Authority
+* :term:`Activity Metrics <Activity Metric>`
+
+[TODO:cite]
+
+Lab Exercises
+--------------
+CodeCademy
+===========
+
+Math-based web game design
+===========================
+
+
+
+
+
+
+
+Authoring Tools
+----------------
+TODO
+
+Authoring Tool Features
+=========================
+Standard Output Formats
+
+  * :term:`HTML`
+
+    * :term:`linking`
+    * :term:`bookmarks <bookmark>`
+    * :term:`metadata`
+
+  * :term:`PDF`
+
+    * :term:`documents <document>`
+
+  * :term:`SCORM` :term:`XML`
+
+  * :term:`Zip`
+
+    * :term:`archive <archive>`
+
+* Mobile Support
+
+  * What is the page number on my device?
+  * How deep are these links?
+
+
+Format Support
+===============
+
+* :term:`Artifacts`
+* :term:`Document` :term:`Authoring Tools`
+* :term:`Web Standards <Web Standard>`
+* :term:`Browser` standards benchmarks
+* :term:`SCORM` Sequences -> 
+  :term:`TinCan`
+* :term:`TinCan API <TinCan>`
+* :term:`Activity Metrics <Activity Metric>`
+
+Standards: Web 
+===============
+.. epigraph:: What is the :term:`link <URL>`?
+
+Links, URLs, and URIs
+~~~~~~~~~~~~~~~~~~~~~~~~
+Describing :term:`resources <resource>`
+with :term:`URIs <URI>`
+
+::
+
+   http://  example  /pages/page  ?query  # contents
+   scheme   hostname path         query   fragment
+
+   http://example.com
+
+
+HTTP
+~~~~~
+:term:`HTTP`
+:term:`request <HTTP Request>`
+:term:`response <HTTP Response>`
+
+
+
+HTML
+~~~~~~
+:term:`HTML`
+* Storage
+* Archival
+* Versioning
+
+:term:`Metadata`: Searching & Indexing
+
+* RDFa
+* Microdata
+* GIFT
+
+Web Video
+
+
+TODO:cite
+
+
+Standards: Education
+=====================
+
+Means for :term:`linking` between
+:term:`learning objects <Learning Object>`
+
+:term:`SCORM`
+:term:`TinCan API`
+
+SCORM
+~~~~~~~
+:term:`SCORM`
+
+* Glossary Vocabulary Model
+
+TinCan API
+~~~~~~~~~~
+:term:`TinCan API <TinCan>`
+:term:`Activity Metrics`
+
+* Verbs
+* Scores
+* Times
+
+TODO:cite USA ADL
+
+
+Standards: Markup Languages
+============================
+:term:`Markup Languages`
+
+* :term:`SGML`
+* :term:`XML`
+* :term:`HTML`
+* :term:`HTML5`
+
+.. code::
+
+   Standards Graph
+
+   SGML -> HTML
+   SGML -> XML
+   SGML -> SCORM
+   XML  -> SCORM
+   HTML -> PDF
+   RST -> PDF
+   RST -> Latex
+   RST -> JSON
+
+TODO: dot rendering
+
+
+
+Standards: TinCan API
+======================
+Recording :term:`Activity Metrics <Activity Metric>` into a
+:term:`LRS`.
+
+Web :term:`API`
+
+* :term:`JSON`
+* :term:`XML`
+
+JSON
+::
+
+   {
+     TODO
+    }
+
+
+TODO:cite
+
+Signing Authority
+~~~~~~~~~~~~~~~~~~
+.. note:: The subjectivity of activity pings
+
+
+
+SCORM in HTML5: TinCan Activities
+===================================
+:term:`SCORM` containers
+
++ :term:`Web Hooks`
++ :term:`Activity Metrics`
++ :term:`TinCan API <TinCan>`
+
+:term:`TinCan API <TinCan>`::
+
+   SUBJECT_X   ACTION_VERB    RESOURCE       SCORE    DURATION
+
+
+
+
+
+
+
+Lightweight Markup Languages
+=========================================
+Simple Plaintext :term:`Markup Language` for generating Multiple Output Formats:
+
+* Books
+* Web Sites
+* Documentation Sets
 
 *Features*
 
@@ -922,275 +1236,59 @@ Simple Plaintext :term:`Markup Language` for generating Multiple Output Formats
   * Web Editor Support
   * Syntax Feedback Loop
 
-Two Hard Problems In Computer Science
-=======================================
-One of them is "Naming Things"
+Transformed between various :term:`Markup Languages <Markup Language>`
+at *build/compile* time:
 
-Labeling Things
-=================
-Namespace: 
-URL: 
-Query:
+* :term:`ReStructuredText`
+* :term:`HTML`
+* :term:`PDF`
+* :term:`EPUB`
+* :term:`TXT`
 
-::
+Stored in a changeset of a :term:`DVCS` repository.
 
-   SPARQL SELECT query
+Organizing a Sphinx Documentation Project
+==========================================
 
-Bibliographic Citations
-========================
-Maintaining structured links to reference and documentation sources
+Folder of files with:
 
-* Document title
-* Page Number
-* #URL Fragment
-* Attachment Revisions
+* an index manifest
+* intra-document links
+* citations
+* glossary terms
 
-Opportunity: Smart Tagging
+The root index.html is expected to branch (and link) into the
+:term:`document`
+:term:`graph`.
+
+To write a paper, which may later be a book:
+
+* :term:`HTML`
+* :term:`PDF`
+* :term:`EPUB`
+* :term:`JSON`
+
+Examples:
+
+* http://docs.python.org
+* http://hgbook TODO
+* http://python-guide.org
+* http://scipy-lectures.github.com
+* http://readthedocs.org
+
+
+
+Knowledge Resource Criteria
 ============================
-Collaboratively linked ontologies for augmenting sequence authors
 
-Document Capturing Process
-============================
-.. epigraph:: Wait? What? You want to scan this? Awesome.
-
-*Artifacts*
-
-* Why tag things?
-* Why name them?
-* Why label them?
+* Does it have :term:`permalinks <permalink>`?
+* Is it possible to reference :term:`media repository` and
+  external URL resources in an :term:`authored <authoring tools>`
+  :term:`SCORM` course?
+* What is the best way to represent a sequence of graph constraints as rules? (:term:`RIF`?)
+* Can I :term:`bookmark` this part?
 
 
-Finding and Disambiguating Concept & Entity Identifiers
-=========================================================
-Cognitive Ontological Knowledge Graph
-
-* Concept Trees
-* Concept Vines
-
-* Namespace Prefixes
-* Typed Links/Edges
-* :term:`RDF` /
-  :term:`OWL` /
-  :term:`SPARQL` /
-  :term:`JSON`
-
-.. epigraph:: How do our fields link together? What do they call a _____ ?
-
-Designing URIs for Resource Collections
-=========================================
-.. epigraph:: What page number was that? If this was a web page, I could
-   just __________?
-
-* Which page is it on?
-* What is the :term:`URL` ?
-* Why doesn't this :term:`PDF`
-  :term:`Bookmark`
-  include the document title?
-* This page does not include content mentioning these keywords.
-* Can I link to a document subsection with a :term:`URL Fragment`?
-* How should I organize course files for a zip archive?
-* How should I organize course files for packaging?
-* How do I watch/listen to course lectures on a phone, tablet, TV, mac, pc?
-* How can I adjust the font?
-* Where should the :term:`presentation`
-  mix with the :term:`Content`?
-* "Data not available"
-* How do I search based on :term:`metadata`?
-
-  * Faceting
-
-Distinction between Cognitive References
-=========================================
-* *Concept*: ``Bookmark``
-* *Instance*: ``bookmarks/{id}``::
-
-   { 'ID': ID,
-     'isA': Bookmark,
-     'url':URL,
-     'title': TITLE }
-
-* *User Instance*: ``bookmarks/{username}/{id}``
-
-.. note:: Nodes and edges with activities whereupon potentiation
-   potentiates with behaviors determined by namespaced attributes
-
-Bibliography List Metadata
-=============================
-.. epigraph:: Is this a permalink? Is there a shorturl?
-
-RDFa
-
-[TODO:cite]
-
-Unique Identifiers
--------------------
-* DOI, ISBN, URL
-
-* How should I link to a table?
-* Can we archive these links at compile time?
-* Would we draw the same conclusions?
-* Repeatability
-
-Bibliographies: Footnote Citation Management
-===============================================
-Footnote *naming* simplifies reference lookup.
-
-Manually maintaining serially ordered citation lists seems excessively
-tedious. Name them and assign numbers later?
-
-[TODO:cite]
-
-Resources: Course Lifecycle
-=============================
-
-::
-
-   Topics -> Requirements -> Research -> Expertise (Reivew) ->
-      Chunking Wisdom -> Formatting -> Publishing
-
-      Publishing:
-         PDF
-         Books
-         Slides
-         Tapes
-         CDs
-         WebPages
-         Knowledge Repositories
-         Databases
-
-
-Achieving Feature Decision Consensus
-======================================
-* Feature Value Elicitation
-* Solution Evaluation
-
-* How important is this feature to you? 1-10
-* How many _____ <noun> is this feature worth?
-* How many ______ <noun-plural> do we have?
-
-
-Feature Comparison Matrix
-===========================
-::
-
-   Feature        Choice-0 Choice-1 Choice-n
-   Category1.
-      .Feature A  
-   Interfaces
-      .HTTP
-      .HTML
-      .Javascript
-      .JSON
-      .XML
-      .CSV
-   Support
-      .Agreement
-      .Yearly
-      .Monthly
-
-::
-   
-   Feature:
-      Label
-      Description
-      Value
-
-   Choice:
-      Label
-      Description
-      {Version}
-   
-   Choice-Feature:
-      Feature
-      Choice
-      --
-      Score
-      Reason
-      Reference URIs
-      Cost
-      Cost URIs
-
-   Display Algorithm:
-      for f in sorted(features):
-         print(feature)
-         for c in sorted(choices):
-            print(choice_features((feature,choice)))
-
-LCMS Implementation Criteria
-=============================
-* Proprietary
-
-  * Local
-  * Hosted
-
-* Open Source
-
-  * Local
-  * Hosted
-  * Extensional Flexibility
-  * Examples
-
-    * Sakai
-    * Moodle
-
-* Features
-
-  * ... Flattened feature graph traversal
-
-LMS/LRS Feature Matrix
-=======================
-.. note:: Categorically enumerated heat map/contour plot
-   with combinatorially optimized feature islands
-
-.. note:: max-flow algorithms
-
-TinCan API Integration
-========================
-.. epigraph:: How are we recording activity data now?
-
-.. epigraph:: How can we implement TinCan API support into our LCMS?
-
-.. note:: SchoolTool, OLPC Sugar
-
-Communicating Feature Requests
-===============================
-Sample Templated Use Case::
-
-   As a _________ <user>,
-   when I ______________,
-   it ________________,
-   but it/I ________ <would/should/could>
-   _________________,
-   which would save __________ <amount of time>.
-
-.. note:: Eliciting Value Criteria Matrices
-   
-Resources: Opportunities: Resource Short URLs
-==============================================
-Convenient globally non-unique hashed identifiers.
-
-Maintaining Bibliographic citations with BibTeX
-
-Managing citations as structured data with a plain text lightweight
-markup format.
-
-.. note:: sphinxcontrib-bibtex + Zotero BibTeX export + naming
-   convention
-
-Authoring: Generating Curricula Activity Graphs
-=================================================
-As knowledge graph traversals that fit degree and resource constraints.
-
-Sequenced graph traversals with boundary-contextual transitions
-
-::
-
-   MindMap to Paper
-
-   If I am creating a linearly sequenced book, I am essentially creating a
-   depth first search/walk of an ordered graph of document sections with
-   hopefully compile-time checking for links and references
-   hyperlinked within and between documents with markup.
 
 Authoring: Sequencing Learning Objects
 ========================================
@@ -1210,6 +1308,117 @@ For & Against Task/Skill Dependency Models
 * Virtual Learning Environments
 * MOOCs
 
+Learning Sequences and Curricula
+---------------------------------
+
+Sequencing Exercise: Pen and Paper
+===================================
+
+1. Generate: Brainstorm 50-100 sheets of paper
+2. Reduce: 
+3. Clarify:
+4. Organize:
+5. Evaluate:
+6. Build Consensus
+
+.. topic: "How do we learn what faster?
+
+    * Efficiently, sustainably
+    * With less resources
+
+TODO:cite: Process: Six Patterns of Collaboration
+
+Curriculum Interfaces
+=======================
+.. epigraph:: would be great if I could schedule sliding windows of
+   content sequences with expected exercise durations.
+
+A Curriculum Sequence
+=====================
+1. Read **A1 Reading**
+      Consume :term:`document` :term:`resource`
+2. Watch **A1 Video: Lecture 1**
+   Consume :term:`resource`
+3. Answer **A1 Quiz Questions**
+   Check for comprehension.
+4. Apply **A1 Project**
+      Apply and synthesize.
+
+*Comprehension testing*, *Peer-reviewed annotations*
+
+Sequencing Tagged Resources
+============================
+.. epigraph:: "Twist until it feels correct."
+
+:term:`Learning Objects` and
+:term:`Learning Resources`
+into :term:`sequences <sequencing>`.
+
+Paths of :term:`Learning Objects <Learning Object>`
+
+Paths build upon themselves
+
+Encoding domain wisdom into :term:`sequences <sequencing>`
+
+
+
+
+
+Authoring: Generating Curricula Activity Graphs
+=================================================
+As knowledge graph traversals that fit degree and resource constraints.
+
+Sequenced graph traversals with boundary-contextual transitions
+
+
+Process Component Competency Graph
+
+
+Curriculum/Degree Sequence Requirements
+=========================================
+.. epigraph:: What is the path to the file?
+
+Describing learning areas
+
+* Goals
+* Modules
+* Assessments
+* Prerequisites as implied paths/sequences
+
+Describing **Learning Momentum** with 
+stratified **skills objectives**
+
+Measuring for :term:`Ability`,
+:term:`Proficiency`,
+and :term:`Aptitude`
+
+
+URI-linked resources and reasonable concepts in a 
+linked open data cloud.
+
+Modular interface specifications
+with prerequisite knowledge
+linked as part of a traversal
+through a greater knowledge graph.
+
+:term:`Graphs <graph>` and subgraphs of
+:term:`Learning Resources <Learning Resource>`
+with :term:`URIs <URI>` according to
+domain-relevant :term:`ontologies <ontology>`.
+
+Reviewing Curriculum Sequences
+===============================
+.. epigraph:: Is there a book?
+
+Sharing Revisions and Annotations
+
+* Revisions: Corrections, Extensions
+* Notes/Comments
+* Feature presence and fitness ratings
+* Comparing Citations
+
+.. note:: :term:`ReStructuredText` + :term:`GIFT` + :term:`OEMBED`
+
 Authoring: Curricula Management
 =================================
 So we have standardized curricula which can be delivered 
@@ -1225,228 +1434,11 @@ Distributed Revision Control
 * Local Forks, Branches
 * Pull Requests, Patches
 
-Linked Open Data Cloud
-========================
-URI-linked resources and reasonable concepts
-
-Modular interface specifications
-with prerequisite knowledge
-linked as port of a traversal
-through a greater knowledge graph.
-
-Tools: Managing Bibliographic Sources
-=======================================
-::
-
-   Artifacts -> Repository
-   Metadata -> Citation Knowledge Graph
-   Groups   -> Citation Knowledge Graph
-
-
-   Bookmarks
-      Bookmarklet
-      API
-
-   Storing Media
-      Logical Filesystem Naming
-      Interfaces: HTTP GET/PUT/POST, WebDAV, API, JSON, XML
-
-Tools: Managing Bibliographic Sources 2
-=========================================
-So I have reference resource citations with metadata stored across a
-number of places with diverse APIs:
-
-* Bookmarks (Per Browser)
-
-  * [sometimes with tags]
-
-* Zotero References
-
-  * Archived Resources
-
-* Mendeley References
-* Course Syllabi
-* Course Readings
-* Research Journal Databases
-* OpenCyc Concept Identifiers
-* Wiki Resource Identifiers
-* Video URLs
-* Media Repositories
-
-That I would like to reference, and draw from
-
-* As footnotes
-* As links in blogs & wikis
-* As project and career relevant knowledge
-* As stable, permalink URLs
-
-Resources: Course Lifecycle
-=============================
-**Question**:  "Why do we do it this way?"
-
-**Answer**
-
-| A. We used to _______, but _________,
-| so we tried __________, but __________,
-| and now _______,
-| so what we're looking to do is
-| ______________________________________
-| on the :term:`web`
-| with :term:`revision controls <Version Control System>`
-
-.. epigraph:: "Twist until it feels correct."
-
-Sequence Optimization
-=======================
-Comprehension :term:`Activity Metrics <Activity Metric>`
-
-* Variance
-* Confidence
-* A/B Split Testing
-* Rotation, Mutation, Mutability
-
-Optimization: Receiver Operating Characteristics
-==================================================
-* Learning Process Knowledge
-* Identifying Productive Personal Behaviors
-* Identifying Productive Organizational Behaviors
-
-.. note:: similar to optimizing for conversions
-
-::
-
-   ROC quadrants
-
-:: 
-   ROC Curve
-
-Optimization: Machine Learning for Sequence Optimization
-=========================================================
-* Logarithmic Logistic Crossover
-* Mutual Information Coefficient
-* Learning Perceptron Weights
-* Perceptron Graph Serialization
-* Vertex Messaging / Event Queues
-
-  * Scaling
-  * Async & Periodic Tasks
-
-* Transactions / CAP
-* It it were a decision tree, it would be decreasing within the possible
-  cloud of node linkages as depth increases, not accounting for loops
-* Node field projection
-* Edge weights
-* cost/flow algorithms
-
-Optimization: A/B Testing
-===========================
-* Content Branch Crossover
-
-.. epigraph:: This document modification yielded this increase/decrease.
-
-Optimization: Max Flow
-========================
-.. epigraph:: The river
-
-Max flow rating of a combinatorially limited subgraph path towards
-objectives.
-
-Curriculum/Degree Sequence Requirements
-
-* Goals
-* Modules
-* Assessments
-* Prerequisites as implied paths/sequences
-
-Optimization: Streamgraph Conversion Funnel
-============================================
-::
-
-               STEM Specialization
-
-   General Education    Undergrad   Grad  Doctorate
-
-   stacked/stream graph
-
-
-Testing for Comprehension
-===========================
-
-
-Implementations
-==================
-
-
-Learning Dashboard
-====================
-::
-
-   Annotated countour/heat maps
-   
-   * Activity/Objectives
-   * Student/Objectives
-
-Reviewing Curriculum Sequences
-===============================
-.. epigraph:: Is there a book?
-
-Sharing Revisions and Annotations
-
-* Revisions: Corrections, Extensions
-* Notes/Comments
-* Feature presence and fitness ratings
-* Comparing Citations
-
-.. note:: :term:`ReStructuredText` + :term:`GIFT` + :term:`OEMBED`
-
-
-Sequencing Exercise: 8.5x11 Sheets
-===================================
-An exercise in linking learning objects into sequences and process
-adaptation
-
-Process: Six Patterns of Collaboration
------------------------------------------
-1. Generate: Brainstorm 50-100 sheets of 8.5x11 Paper
-2. Reduce: 
-3. Clarify:
-4. Organize:
-5. Evaluate:
-6. Build Consensus
-
-Prompt: "How do we learn what faster?
---------------------------------------
-* More efficiently
-* More sustainably
-* With less resources
 
 
 
-Augmenting
------------
-:ref:`Englebart 1964`
 
-Linking: Spaced Repetitions
-============================
-:term:`Mnemosyne`
-
-::
-
-   spaced repetition chart
-
-Linking: Grade Measuring Interfaces
-====================================
-* :term:`Integration <integrating>`: 
-* Standard :term:`APIs <API>`
-* Preferred Tools
-* :term:`Optimization <optimizing>`: finding optima
-* Fidelity
-
-Learning Materials
-====================
-TODO
-
-Activity Metrics
+Learning Metrics
 =================
 .. epigraph:: "Is it the course or the student?"
 
@@ -1454,195 +1446,11 @@ Activity Metrics
 * :term:`Optmization <optimizing>`
 * Conceptual Routing Algorithms
 
-Collaboration: Knowledge Graph
-================================
-Describing **Learning Momentum** with 
-stratified **skills objectives**
 
-Measuring for :term:`Ability`,
-:term:`Proficiency`,
-and :term:`Aptitude`
 
-Describing learning areas
 
-.. epigraph:: What is the path to the file?
-
-:term:`Graphs <graph>` and subgraphs of
-:term:`Learning Resources <Learning Resource>`
-with :term:`URIs <URI>` according to
-domain-relevant :term:`ontologies <ontology>`.
-
-Authoring Tools
-================
-TODO
-
-Standards Development
-======================
-
-.. code::
-
-   Standards Graph
-
-   SGML -> HTML
-   SGML -> XML
-   SGML -> SCORM
-   XML  -> SCORM
-   HTML -> PDF
-   RST -> PDF
-   RST -> Latex
-   RST -> JSON
-
-TODO: dot rendering
-
-Format Support
-===============
-* :term:`SCORM` Sequences -> 
-  :term:`TinCan`
-* :term:`TinCan API <TinCan>`
-* :term:`Activity Metrics <Activity Metric>`
-* :term:`Authoring Tools`
-* :term:`Web Standards <Web Standard>`
-* :term:`Browser` standards benchmarks
-
-Gap: SCORM in HTML5
-====================
-:term:`SCORM` containers
-+ :term:`Web Hooks`
-+ :term:`Activity Metrics`
-+ :term:`TinCan API <TinCan>`
-
-:term:`TinCan API <TinCan>`::
-
-   SUBJECT_X   ACTION_VERB    RESOURCE       SCORE    DURATION
-
-Markup Languages
-==================
-
-* :term:`SGML`
-* :term:`XML`
-* :term:`HTML`
-* :term:`HTML5`
-
-:term:`Markup Languages`
-
-SCORM Questions
-=================
-* Does it have :term:`permalinks <permalink>`?
-* Is it possible to reference :term:`media repository` and
-  external URL resources in an :term:`authored <authoring tools>`
-  :term:`SCORM` course?
-* What is the best way to represent a sequence of graph constraints as
-  rules? (:term:`RIF`?)
-* Can I :term:`bookmark` this part?
-
-TinCan Activity JSON
-=====================
-::
-
-   {
-    TinCan JSON
-    }
-
-TODO:cite
-
-The simplicity of MOOCs
-=========================
-:term:`MOOCs <MOOC>`: Massive Open Online Course
-
-Foregoing the unused 80% of :term:`LMS`
-and :term:`LCMS` features
-for :term:`scalability`
-
-The subjectivity of activity pings
-====================================
-
-Sequencing Tagged Resources
-============================
-:term:`Learning Objects` and
-:term:`Learning Resources`
-into :term:`sequences <sequencing>`.
-
-Paths of :term:`Learning Objects <Learning Object>`
-
-Paths build upon themselves
-
-Encoding domain wisdom into :term:`sequences <sequencing>`
-
-IEEE Learning Objects
-======================
-:term:`IEEE Learning Objects <Learning Objects>`
-
-Tutoring
-=========
-.. epigraph:: "You want to answer questions?"
-.. epigraph:: "Do I have a ______ for you?"
-
-Answers API
-=============
-1. Create a POST :term:`HTTP Request`
-   to an :term:`API`.
-2. :term:`API` returns 
-   :term:`HTTP Response` with evaluation
-
-Learning Ensemble
-==================
-.. epigraph:: "Make yours like mine."
-
-::
-
-   Code Repository      Code Repository
-   Local Workspace      Activity Tests  
-   Books
-   Lectures
-   API     <--------->  Build Server
-
-   Student              Course
-
-   Testing Components of a Learning Ensemble
-
-.. note:: Increasing test coverage.
-
-Course Artifacts and Components
-==================================
-"I want to download all of this as a zip file"
-
-* Syllabus
-* Lectures
-* Media Resources
-* Quizzes
-* Assignments
-
-  * Expected Duration
-
-* Linked Data
-* Document
-* Audio
-* Photo
-* Video
-
-Device Diversity
-==================
-I want to review this course on my
-
-  * Laptop
-  * TV
-  * Tablet
-  * Phone
-
-Mobile Device Support
-========================
-How difficult is it to copy lectures to my device?
-
-* Screen Size
-* Bandwidth
-* External Media
-
-  * USB Drive
-  * SD Card
-  * MicroSD Card
-
-Learning and Software R&D
-==========================
+Software R&D and Learning
+--------------------------
 .. note:: clearly, what is being learned is that analysis of structured
    data interchange in regards to optimizing for outcomes
 
@@ -1656,26 +1464,6 @@ Learning Comes from a diverse background
 
 the software is the person is not the curriculum
 
-Standard Project Documents
-============================
-* README: Project Goals, Objectives, URLs
-* TODO: Task Lists
-* CHANGELOG: Project Change Log
-
-Revision Control
------------------
-* Commit changes to files
-* Commit Log
-* Manifest
-
-Revision Control Best Practices
----------------------------------
-* Link to TODO/Issue/Ticket item numbers
-
-  * ``working on #123: this, this, and this``
-  * ``working on #123``
-  * ``task:course/project/n: this, this, and this```
-
 Project Based Learning
 ========================
 .. note:: So, okay, well these assignments look great but we're going to
@@ -1686,94 +1474,84 @@ Project Based Learning
 * Which feature scores correlate with success?
 * Learning Scientific, Creative and Collaborative Processes
 
-Lightweight Markup Languages
-=========================================
-:term:`Markup Languages <Markup Language>`
 
-Folder of files with:
 
-* an index manifest
-* intra-document links
-* citations
-* glossary terms
 
-The root index.html is expected to branch (and link) into the
-:term:`document`
-:term:`graph`.
 
-Language for producing
+Augmenting Learning
+=====================
+.. epigraph:: "Here's a library, knock yourself out"
 
-* Books
-* Web Sites
-* Documentation Sets
+Simplest, least complex approach
+Accelerating and Augmenting Learning
 
-Transformed between various :term:`Markup Languages <Markup Language>`
-at *build/compile* time:
 
-* :term:`ReStructuredText`
-* :term:`HTML`
-* :term:`PDF`
-* :term:`EPUB`
-* :term:`TXT`
+:ref:`Englebart 1964`
 
-Stored in a changeset of a :term:`DVCS` repository.
 
-Organizing a Sphinx Documentation Project
-==========================================
-To write a paper, which may later be a book:
 
-* :term:`HTML`
-* :term:`PDF`
-* :term:`EPUB`
-* :term:`JSON`
-
-Examples:
-
-* http://docs.python.org
-* http://hgbook TODO
-* http://python-guide.org
-* http://scipy-lectures.github.com
-* http://readthedocs.org
-
-Gap: Extending Documentation Grammar
-=====================================
-Docutils
-
-* Roles
-* Directives
-* Publishers
-
-Language to describe the course curricula
-
-* Processes
-* Content
-* Questions
-* Answers
-
-ReStructuredText Citations
+Standard Project Documents
 ============================
-Managing structured citation references
+* README: Project Goals, Objectives, URLs
+* TODO: Task Lists
+* CHANGELOG: Project Change Log
 
-* :term:`ReStructuredText` Syntax
+Revision Control
+=================
 
-  * Citation
-  * Reference
-  * Footnote
+* Commit changes to files
+* Commit Log
+* Manifest
 
-* :term:`sphinxcontrib-bibtex`
+* Link to TODO/Issue/Ticket item numbers
 
-  * Reference :term:`BibTeX` citations
-    in :term:`Sphinx`-flavored
-    :term:`ReStructuredText`
-  * TODO: .. pypi: sphinxcontrib-bibtex
+  * ``working on #123: this, this, and this``
+  * ``working on #123``
+  * ``task:course/project/n: this, this, and this```
 
-Gap: Citations: Zotero BibTeX Exporter
-========================================
-Export a :term:`Zotero` resource collection to :term:`BibTeX`
 
-Gap: ReStructured Text Q&A Directive
-======================================
-Syntax for expressing Questions and Answers in :term:`ReStructuredText`
+Open Source Software Development Community
+============================================
+Healthy Online Communities
+
+* Documentation: Sphinx/ReStructuredText
+* Issue and resolution tracking
+* Proposal Review Workflow
+* Learning Community
+  
+  * Wikis, Blogs
+
+* Books: Paper, Digital, Web
+* Distributed Version Control
+
+[TODO:cite]
+
+Version Control Workflow Development
+=====================================
+
+::
+
+    1. edit, edit, commit
+    2. edit, commit
+    3. todo, edit, commit
+    4. todo, edit, test, commit
+    5. todo, test, edit, test, commit
+    6. todo, test, edit, test, commit, tag
+
+    7. todo, branch, test, edit, test, commit, tag, push
+    8. todo, branch, test, edit, test, commit, tag, send patch
+
+
+Collaborative Review
+=====================
+TODO
+
+Reviewboard
+~~~~~~~~~~~~~
+* Patches & Comments
+* Review & Approval Workflows
+* Changesets as versioned patch queues
+
 
 Compile a Course
 =================
@@ -1793,82 +1571,211 @@ Compile a Course
 
   * Calendaring
 
-Interface Questions
-=====================
-* Can I download a list of my assignment due dates?
-
-  * To my iCal
-  * As a list of tasks with duration
-  * As an RSS feed
-
-* What does it mean that a course is worth N credit hours?
-
-  * How many hours a week is that?
-
-Reviewboard
-=============
-* Patches & Comments
-* Review & Approval Workflows
-* Changesets as versioned patch queues
-
 Continuous Regression Testing for Learning
 ============================================
-* Linking Things Together
-
-Software Testing
-==================
-* Lean Production
-* Agile Development
-* Component :term:`Namespacing <namespacing>`
+* Testing Linked,
+  :term:`namespaced <namespacing>`
+  :term:`components <component>`
 
     
 * Test Cases
 * Build & Test Metrics
 * Test *Coverage*
+ 
 
-Laboratory Based Courses
-==========================
-* Real world tools/eqipment
+Sequences
+===========
+* Linear
+* Goal Objective
+* Path-Based Routing
+* Serious Games
+
+
+Spaced Repetitions
+============================
+:term:`Mnemosyne`
+
+::
+
+   spaced repetition chart
+
+
+Optimization: Machine Learning for Sequence Optimization
+=========================================================
+
+Optimizing yields from :term:`activity`
+:term:`graphs <graph>`
+and :term:`Activity Metrics`
+
+* Variance
+* Confidence
+* A/B Split Testing
+* Cost/Flow algorithms
+* Rotation, Mutation, Mutability
+* Logarithmic Logistic Crossover
+* Mutual Information Coefficient
+* Learning Perceptron Weights
+* Perceptron Graph Serialization
+* Vertex Messaging
+* Event Queues
+
+
+
+Optimization: A/B Testing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This document modification yielded this increase/decrease.
+
+::
+
+    TODO: Content Branch Crossover
+
+
+Optimization: Cost/Flow
+~~~~~~~~~~~~~~~~~~~~~~~~
+Cost flow calculation of a path toward subgraph objectives.
+
+::
+
+    TODO: a river
+
+
+
+Optimization: Receiver Operating Characteristics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Learning Process Knowledge
+* Identifying Productive Personal Behaviors
+* Identifying Productive Organizational Behaviors
+
+.. note:: similar to optimizing for conversions
+
+::
+
+   TODO: ROC quadrants
+
+:: 
+
+   TODO: ROC Curve
+
+
+Optimization: Streamgraph Conversion Funnel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+::
+
+   TODO:chart
+               STEM Specialization
+
+   General Education    Undergrad   Grad  Doctorate
+
+   stacked/stream graph
+
+Searching and Indexing
+=======================
+
+* Index
+* Cluster
+* Archive
+* Share
+* Normalizing
+* Eventual Consistency
+* Document Checksums
+* Computed Attribute Indexing
+
+.. epigraph:: which part do I copy to the search service?
+
+
+
+
+Namespacing
+=============
+TODO
+
+* Namespace: 
+* URL: 
+* Query:
+
+
+Finding and Disambiguating Concept & Instance Identifiers
+=========================================================
+.. epigraph:: How do our fields link together? What do they call a _____ ?
+
+* *Concept*: ``Bookmark``
+* *Instance*: ``bookmarks/{id}``::
+
+   { 'ID': ID,
+     'isA': Bookmark,
+     'url':URL,
+     'title': TITLE }
+
+* *User Instance*: ``bookmarks/{username}/{id}``
+
+.. note:: Nodes and edges with activities whereupon potentiation
+   potentiates with behaviors determined by namespaced attributes
+
+Collaboratively linked ontologies for augmenting sequence authors
+
+Cognitive Ontological Knowledge Graph
+
+* Concept Trees
+* Concept Vines
+
+* Namespace Prefixes
+* Typed Links/Edges
+* :term:`RDF` /
+  :term:`OWL` /
+  :term:`SPARQL` /
+  :term:`JSON`
+
+
+Linked Open Data: Wikipedia and DBPedia
+========================================
+**Value**
+
+Shared, Multi-Lingual Concept Identifiers
+
+*  Translate Terminological References
+*  http://en.wikipedia.org/wiki/Wikipedia
+*  http://jp.wikipedia.org/wiki/Wikipedia
+
+::
+
+   TODO: SPARQL SELECT query
+
+
+.. note:: Wikipedia is written in :term:`MediaWiki` syntax
+
+
+
+STEM Labs
+----------
+
+STEM Labs: Laboratory Based Learning
+=====================================
 * Learning process knowledge
 * Team Collaboration
 
-* Suitability of :term:`Virtual Learning Environment`
 * Experimental Design
 
   * Null Hypothesis testing
   * Drawing conclusions about correlation and causation
 
-Python Tools for STEM Learning
-=================================
-Tools for Developing :term:`STEM`
-:term:`Python` Applications
 
-* ipython notebook
-  
-  * visual charting
-  * repeatable processes
-  * procedural spreadsheets
-  * testable spreadsheets
+STEM Labs: Data Science Laboratory
+===================================
+Skills
 
-* Science Libraries
+* Data Science
+* Sequence Modeling
+* Software Development
+* Process Modeling
+* Process Controls
 
-  * :term:`scipy`
-  * :term:`numpy`
-  * :term:`pandas`
-  * :term:`scikits`
-  * :term:`statsmodels`
+"Development Lab" of virtual :term:`services <service>` and
+:term:`resources <resource>`, per-course and/or per-student.
 
-* Version Control
-
-  * :term:`Mercurial`
-  * :term:`Bazaar`
-
-* Issue Tracking
-
-  * :term:`Trac`
-
-Data Science Laboratory
-=========================
+* Objectives
+* Processes
+* Tools
+* Data
 
 ::
 
@@ -1881,40 +1788,20 @@ Data Science Laboratory
    TODO
 
 
-STEM Laboratory DevOps
-========================
-Skills
 
-* Sequence Modeling
-* Process Modeling
-
-Processes
-
-* Allocate virtual resources
-* Build projects
-* Test results
-
-Local Project Hosting
-
-* :term:`GitLib`
-* :term:`Fossil`
-* :term:`Trac`
-
-STEM Labs Processes
-====================
-* Allocate Identity Service Credentials
-* Allocate Grid/Cloud/Stack Resources
-* Allocate Service API Keys
-* Allocate Grid Credentials
-* Allocate homedir
-* Bootstrap configuration
-
-STEM Labs Services
+STEM Labs: Services
 ===================
 
-* Repository Hosting
 * Q&A
 * Apps Accounts
+* Web Hosting
+* Repository Hosting
+* Project Hosting
+
+  * :term:`GitLib`
+  * :term:`Fossil`
+  * :term:`Trac`
+
 * :term:`Cloud` Service
 
 STEM Labs: Student API
@@ -1942,6 +1829,62 @@ STEM Labs: Student API
   * Structured Bibliographies
   * Portfolio / Curriculum Vitae
 
+
+STEM Labs: Student Assignment API
+==================================
+.. epigraph:: What is a continuous learning ensemble?
+
+:term:`Activity` Objectives:
+
+* Complete an :term:`ipython notebook` worksheet
+* Run functional tests
+* Store changes in a :term:`repository <DVCS>`
+* Integrate the worksheet with an API interface for grading
+
+  1. Create a POST :term:`HTTP Request`
+     to an :term:`API`.
+  2. :term:`API` returns 
+     :term:`HTTP Response` with evaluation
+
+
+
+.. epigraph:: "Make yours like mine."
+
+::
+
+   Code Repository      Code Repository
+   Local Workspace      Activity Tests  
+   Books
+   Lectures
+   API     <--------->  Build Server
+
+   Student              Course
+
+   Testing Components of a Learning Ensemble
+
+.. note:: Increasing test coverage.
+
+
+Repository Event Hooks
+
+.. code-block:: python
+
+  def on_commit(repository):
+      # check syntax
+      # strip answers
+
+URL Schema::
+
+  http://hostname.edu/{coursename}/{courseunit}/{taskname}#{task_link}
+
+
+Grading Criteria:
+
+* Does it match tolerances?
+* Is it repeatable?
+
+
+
 STEM Labs: Setup Python Application Framework
 =============================================
 Objective: Continuously test submitted problem/test solutions with a
@@ -1958,85 +1901,226 @@ Relevant Courses:
 * Web Development
 * Agile Project Mangement
 
-STEM Labs
-==========
-* Objectives
-* Processes
-* Tools
-* Data
 
-STEM Labs: Use Cases
-====================
-"Development Lab" of virtual :term:`services <service>` and
-:term:`resources <resource>`, per-course and/or per-student.
+STEM Labs: Python Tools
+=========================
+Tools for Developing :term:`STEM`
+:term:`Python` Applications
 
-* I want to run :term:`ipython notebook` with
-  :term:`STEM libraries` and resource quotas
-  for each student.
+* :term:`ipython` notebook
+  
+  * visual charting
+  * repeatable processes
+  * procedural spreadsheets
+  * testable spreadsheets
+
+* Science Libraries
+
+  * :term:`scipy`
+  * :term:`numpy`
+  * :term:`pandas`
+  * :term:`scikits`
+  * :term:`statsmodels`
+
+* Version Control
+
+  * :term:`Mercurial`
+  * :term:`Bazaar`
+
+* Issue Tracking
+
+  * :term:`Trac`
+
+* :term:`Python(X,Y)`
+
+TODO:cite
 
 
 
-Gap: TinCan Server Python Reference Implementation
-==================================================
-Objective: Record structured data from event-based
-:term:`Web Hooks`
 
-* :term:`Python`
-* :term:`WSGI`
-* Store, verify, and forward :term:`upstream <HTTP Request>`
-  :term:`activity metrics <Activity Metric>`
 
-* Design Q&A Quiz :term:`UI`
-* Draw heat map
-
-Python API Tools
-
-* :pypi:`Cornice`
-* :pypi:`Tasty`
-
-Javascript Activity Metrics
-
-* TODO
-
-TODO:code
-
-Gap: Student API Access Control
-===============================
-How do I share this :term:`API` with a limited set of people?
-
-:term:`Access Control`
-
-* Reverse Proxy
-* :term:`API Token`
-* :term:`OAUTH`
-
-STEM Labs DevStack
-===================
-Local Cloud/Grid
-
+STEM Labs: Cloud Services
+=========================
 Primary Services
 
-* Allocate cloud/grid resources
-* Allocate IP addresses
-* Perform Load Balancing
 * Deploy Applications
+* Perform Load Balancing
+* Allocate Identity Service Credentials
+* Allocate Grid/Cloud/Stack Resources
+* Alloccate IP Adresses
+* Allocate Service API Keys
+* Allocate Grid Credentials
 
 Configuration Management
 
 * Bootstrap Server
 * Freeze/Save/Snapshot Server
+* Generate new home directories
+
+STEM Labs: Open Learning Stacks
+================================
+* :term:`OpenCourseWare`
+* :term:`Open Stack`
+* :term:`Open Source`
+* :term:`Open Access`
+* :term:`Linked Open Data`
 
 
-OpenStack
-===========
-* :term:`OpenStack Compute`
-  :term:`OpenStack Nova <OpenStack Compute>`
-* :term:`OpenStack Storage`
-  :term:`OpenStack Swift <OpenStack Storage>`
-* :term:`OpenStack Keystone`
 
-Gap: Q&A Authoring
-============================
+
+
+STEM Labs: Media Repository 
+=============================
+Storing versioned media :term:`resources <resource>`
+
+Resource Repository Standards
+
+* OAI
+* REST API
+* :term:`Metadata`
+
+Build a Bookstore API
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Citations, References
+* Books
+* Films
+
+API Lookup
+
+* Bookstores: AMZN, APPL, GOOG
+* Social Web: GoodReads, LibraryThing
+* WorldCat API
+
+
+
+Identifying Tools Gaps as Opportunities
+----------------------------------------
+# TODO -> Feature Requests
+
+Communicating Feature Requests
+===============================
+Sample Templated Use Case::
+
+   As a _________ <user>,
+   when I ______________,
+   it ________________,
+   but it/I ________ <would/should/could>
+   _________________,
+   which would save __________ <amount of time>.
+
+.. note:: Eliciting Value Criteria Matrices
+
+Achieving Feature Decision Consensus
+======================================
+* Feature Value Elicitation
+* Solution Evaluation
+
+* How important is this feature to you? 1-10
+* How many _____ <noun> is this feature worth?
+* How many ______ <noun-plural> do we have?
+
+
+Learning Content Management Systems
+=====================================
+Examples of :term:`Learning Content Management Systems <LMS>`
+
+* Sakai
+* Moodle
+* Blackboard
+
+Someone has a LMS/LRS :term:`Feature Matrix`
+
+Rubrics and Feature Matrices
+=============================
+
+   Grading :term:`Rubric` :: :term:`Feature Matrix`
+
+Document Publishing Feature Comparison Matrix
+================================================
+A :term:`feature matrix` for comparing 
+:term:`components` of a
+:term:`document`
+:term:`publshing`
+system
+
+* :term:`Authoring Tools` 
+* :term:`Learning Content Management Systems <LCMS>`
+
+::
+
+   Feature                    Choice-0    Choice-1    Choice-n
+   Category1.
+      .Feature A  
+   Interfaces
+      .HTTP
+      .HTML
+      .Javascript
+      .JSON
+      .XML
+      .CSV
+   Hosting
+      .Standard Web Hosting
+      .Local Application
+      .Hosted Application
+   Code
+      .Open Source
+      .Proprietary
+   Support
+      .Agreement
+      .Yearly
+      .Monthly
+
+
+
+
+
+Gap: Freemind to ReStructuredText
+=================================
+Objective: Transform between a :term:`ReStructuredText` document set
+and a :term:`Freemind` mind map
+
+Value: Generate document outlines from mindmaps
+
+::
+
+   MindMap to Paper
+
+   If I am creating a linearly sequenced book, I am essentially creating a
+   depth first search/walk of an ordered graph of document sections with
+   hopefully compile-time checking for links and references
+   hyperlinked within and between documents with markup.
+
+Gap: sphinxcontrib-courses
+===========================
+* Language to describe questions, answers, and sources
+* Roles and directives for referencing Q&A with learning object resources
+* Check and cite links to learning resources
+* :term:`Metadata` 
+  :term:`attributes <attribute>`
+  with :term:`URIs <URI>`
+
+Docutils
+
+* Roles
+* Directives
+* Publishers
+
+Language to describe the course curricula
+
+* Processes
+* Content
+* Questions
+* Answers
+
+Q&A Authoring
+~~~~~~~~~~~~~~
+Syntax for expressing Questions and Answers in :term:`ReStructuredText`
+
+Re-:term:`sequencable` tests for comprehension::
+
+  1,2,3,4 ; 4,3,2,1 ; 2,1,3,4
+
 Similar to web commenting services, but with questions and various
 categories of answers
 
@@ -2054,8 +2138,6 @@ categories of answers
   with a :term:`Learning Dashboard`
   for identifying opportunities to improve.
 
-
-
 Allow for question/label randomization
 and :term:`optmization <optimizing>`
 
@@ -2064,151 +2146,100 @@ and :term:`optmization <optimizing>`
 
 .. note:: Audience testing
 
-Q&A: Stripping Answers from ReStructuredText Documents
-=======================================================
 .. epigraph:: "But they are sharing the answers!"
 
-Re-:term:`sequencable` tests for comprehension::
 
-  1,2,3,4 ; 4,3,2,1 ; 2,1,3,4
 
 Branch Commit Preprocessing Hooks
 
-.. code-block:: python
-
-  def on_commit(repo):
-      # check syntax
-      # strip answers
-
-Where do we store all the answers?
-====================================
-How do you ask for answers?
-"I'm going to post my answers to these questions."
-
-Q&A Sites
------------
-* http://stackoverflow.com
-* http://quora.com
-
 TODO:cite
 
-STEM Labs Student Assignment API
-==================================
-Activity: Complete API functions, test, and commit the changes.
 
-URL Schema::
-
-  http://hostname.edu/{coursename}/{courseunit}/{taskname}#{task_link}
-
-Grading Criteria:
-
-* Does it match tolerances?
-* Is it repeatable?
-
-
-Version Control Workflow Development
-=====================================
-1. edit, edit, commit
-2. edit, commit
-3. todo, edit, commit
-4. todo, edit, test, commit
-5. todo, test, edit, test, commit
-6. todo, test, edit, test, commit, tag
-
-7. todo, branch, test, edit, test, commit, tag, push
-8. todo, branch, test, edit, test, commit, tag, send patch
-
-
-Sequencing
-=================
-* Linear
-* Goal Objective
-* Path-Based Routing
-* Serious Games
-
-Content Repositories
-======================
-Storing media :term:`resources <resource>`
-
-* OAI
-* REST API
-* :term:`Metadata`
-
-
-Authoring Tool Features
+Gap: Per-Course Sidewiki
 =========================
-* Output Format
-
-  * :term:`SCORM`
-  * :term:`HTML`
-  * :term:`PDF`
-  * :term:`Zip`
-
-* Web Support
-
-  * Linking
-  * Bookmarks
-  * Metadata
-
-* Mobile Support
-
-  * Does it work on my device?
+* Per-course sidewiki
+* with scholarly overlays
+* and an answers tab, for teachers
 
 
-TinCan API
-============
-:term:`Activity Metrics <Activity Metric>`
-
-* :term:`JSON`
-* :term:`XML`
+Process: Citations
+====================
 
 
-STEM Labs Media Repository Project
-====================================
-Build a Bookstore API
+Tools: Managing Bibliographic Sources
+=========================================
+How best should I reference source materials?
 
-* Citations, References
-* Books
-* Films
+* How should I link to a table?
+* Can we archive these links at compile time?
+* Would we draw the same conclusions?
+* Repeatability
 
-API Lookup
-
-* Bookstores: AMZN, APPL, GOOG
-* Social Web: GoodReads, LibraryThing
-* WorldCat API
-
-Gap: Freemind to ReStructuredText
-=================================
-Objective: Transform between a :term:`ReStructuredText` document set
-and a :term:`Freemind` mind map
-
-Value: Generate document outlines from mindmaps
-
-Gap: sphinxcontrib-courses
-===========================
-* Roles and directives for referencing Q&A with learning object resources
-* Check and cite links to learning resources
-* :term:`Metadata` 
-  :term:`attributes <attribute>`
-  with :term:`URIs <URI>`
+* DOI, ISBN, URL
 
 
-STEM Labs Assignments
-======================
-Objective: Complete an :term:`ipython notebook` worksheet
-Objective: Connect the worksheet to an API interface for grading
+Publishing Research Metadata
+==============================
+
+So, I have now prepared roughly 100 slides with pen and paper, and now
+need to lookup which references I browsed, bookmarked, and slept on.
+
+* Tagged Bookmarks (Per Browser)
+* Zotero References
+
+  * Archived Resources
+  * ISBN, DOI
+  * URLs
+
+* Mendeley References
+* Course Syllabi
+* Course Readings
+* Research Journal Databases
+* OpenCyc Concept Identifiers
+* Wiki Resource Identifiers
+* Video URLs
+* Media Repositories
+
+That I would like to reference, and draw from
+
+* As footnotes
+* As links in blogs & wikis
+* As project and career relevant knowledge
+* As stable, permalink URLs
+
+Which textual citation serialization?
+
+* Zotero Styles
+
+[TODO:cite]
+
+Tools: Managing Bibliographic Sources
+=======================================
+::
+
+   Artifacts -> Repository
+   Metadata -> Citation Knowledge Graph
+   Groups   -> Citation Knowledge Graph
 
 
-Process Component Competency Graph
-====================================
+   Bookmarks
+      Bookmarklet
+      API
+
+   Storing Media
+      Logical Filesystem Naming
+      Interfaces: HTTP GET/PUT/POST, WebDAV, API, JSON, XML
+
+RDFa
+
+[TODO:cite]
 
 
-Gap: Preprocessing and Serializing Structured Data in ReStructuredText
-========================================================================
 
 
 Gap: Managing Structured Citations
 ======================================
+Preprocessing and Serializing Structured Data in ReStructuredText
 
 Data:
 
@@ -2248,6 +2279,48 @@ Standards
 
 * :term:`Microdata`
 * :term:`Permalink <Permalink>`
+* :term:`RDFa`
+
+
+Zotero
+~~~~~~~~~~
+* http://github.com/zotero
+
+* transactions
+* translation server
+* pyzotero collection API
+
+TODO:cite
+
+.. note:: :term:`Zotero` will export a
+            resource collection to :term:`BibTeX`
+
+
+ReStructuredText Citations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Managing structured citation references
+
+* :term:`ReStructuredText` Syntax
+
+  * Citation
+  * Reference
+  * Footnote
+
+* :term:`sphinxcontrib-bibtex`
+
+  * Reference :term:`BibTeX` citations
+    in :term:`Sphinx`-flavored
+    :term:`ReStructuredText`
+  * TODO: .. pypi: sphinxcontrib-bibtex
+
+
+Convenient globally non-unique hashed identifiers.
+
+Maintaining Bibliographic citations with BibTeX
+
+Managing citations as structured data with a plain text lightweight
+markup format.
+
 
 Interface
 
@@ -2272,45 +2345,73 @@ Interface
 .. note:: :pypi:`sphinxcontrib-bibtex` solves for part of these
    requirements
 
+.. note:: Footnote :term:`naming` simplifies reference lookup.
+
+[TODO:cite]
 
 
 
-Zotero
-==========
-* http://github.com/zotero
-
-* transactions
-* translation server
-* pyzotero collection API
-
-TODO: cite
 
 Gap: Sphinx Widont
 ====================
 Jinja2 Typography extensions
 
-STEM Labs: Python Distribution
-================================
-* :term:`Python(X,Y)`
-
-TODO:cite
-
-Augmenting the Calculator Tools Dependency
-============================================
 
 
-Q&A
-====
-.. epigraph:: "But they are sharing the answers!"
+Gap: TinCan Server Python Reference Implementation
+==================================================
+Objective: Record structured data from event-based
+:term:`Web Hooks`
+
+* :term:`Python`
+* :term:`WSGI`
+* Store, verify, and forward :term:`upstream <HTTP Request>`
+  :term:`activity metrics <Activity Metric>`
+
+* Design Q&A Quiz :term:`UI`
+* Draw heat map
+
+Python API Tools
+
+* :pypi:`Cornice`
+* :pypi:`Tasty`
+
+Javascript Activity Metrics
+
+* TODO
+
+TODO:code
+
+Gap: Security: Student API Access Control
+==========================================
+How do I share this :term:`API` with a limited set of people?
+
+:term:`Access Control`
+
+* Reverse Proxy
+* :term:`API Token`
+* :term:`OAUTH`
 
 
-LMS UI Usability
-===================
-When I go to the gradebook, or the pages with the links the assignment
-PDFs, why does it not link to the assignment in the gradebook?
+Gap: ReStructuredText Outlines and S5 Presentations
+=====================================================
 
-Managing and encouraging feedback at scale
+Chunking for Presentation and Delivery
 
-Designing flexibly linked data models to support cool :term:`UIs <UI>`.
+Point outlines which map into *slides*
+of a *document*
+in *serial order* containing
+*references* to sources of information
+regarding the *contextual subject* being discussed.
+
+Slides have a *next* and *previous* and can follow a *question* &
+*answer* format
+
+.. note:: presentation timing with sliding windows
 
 
+Gap: Sphinx Glossary Thesarus
+=================================
+Linking words together.
+
+.. TODO:: Categories
