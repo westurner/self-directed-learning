@@ -1,6 +1,6 @@
 
 Glossary
-=========
++++++++++
 .. note:: The terms listed in this :doc:`glossary`
    are listed in the :ref:`genindex`.
 
@@ -1019,11 +1019,49 @@ Collaboration Engineering
       TODO
 
 
+   Feature Matrix
+      TODO
+
+      ::
+    
+         Feature:
+            Label
+            Description
+            Value
+
+         Choice:
+            Label
+            Description
+            {Version}
+
+         Choice-Feature:
+            Feature
+            Choice
+            --
+            Score
+            Reason
+            Reference URIs
+            Cost
+            Cost URIs
+
+         Display Algorithm:
+            for f in sorted(features):
+               print(feature)
+               for c in sorted(choices):
+                     print(choice_features((feature,choice)))
+
+      .. note:: Categorically enumerated heat map/contour plot
+         with combinatorially optimized feature islands
+
+      .. note:: max-flow algorithms
+
+
+
 TODO:cite
 
 Index
-=======
-.. note:: These terms are listed in the :ref:`genindex`.
+-------
+.. note:: These terms are listed in the :ref:`Index <genindex>`.
 
 
 
