@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys, os
 
-version = '0.2'
+version = '0.0.5'
 
 install_requires = [
     'PasteDeploy',
@@ -25,17 +25,22 @@ docs_extras = [
     'github-tools[template]',
 ]
 
+def read_file(_path):
+    return open(_path).read()
+
+def read_readme():
+    import os
+    _path = os.path.join(os.path.abspath(__file__).dirname(), 'README.rst')
+    return open(_path).read()
 
 setup(name='techw',
       version=version,
-      description="techw",
-      long_description="""\
-TODO""",
+      description="Technical Report: Self Directed Learning With Online Resources",
+      long_description=read_readme(),
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
-      keywords='TODO',
-      author='Wes Turner <wes@wrd.nu>',
-      author_email='TODO',
-      url='TODO',
+      keywords='online learning, self directed learning, ',
+      author='Wes Turner',
+      url='http://self-directed-learning.rtfd.org',
       license='Creative Commons',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
       include_package_data=True,
@@ -52,4 +57,4 @@ TODO""",
       [paste.app_factory]
       main = techw.wsgiapp:make_app
       """,
-      )
+)
