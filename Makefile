@@ -274,9 +274,21 @@ auto_setup:
 	wget https://raw.github.com/seb-m/pyinotify/master/python2/examples/autocompile.py
 
 auto_html: html_preview
-	python ./autocompile.py . '.rst,.bib,Makefile,conf.py,theme.conf' "make html"
+	python ./autocompile.py . '.rst,Makefile,conf.py,theme.conf' "make html"
 
 auto_s5: s5_preview
-	python ./autocompile.py . '.rst,.bib,Makefile' "make s5"
+	python ./autocompile.py . '.rst,Makefile' "make s5"
 
+GLOSSARY_TERMS=_glossary_undefined.rst
 
+glossary_terms: clean
+	make html 2>&1 \
+		| grep 'term not in glossary' \
+		| awk '{ path = print $$7,$$8,$$9,$$10  }' \
+	    | tee $(GLOSSARY_TERMS)
+
+glossary_terms_uniq: check_glossary_terms
+	cat $(GLOSSARY_TERMS) \
+		| sort \
+	   	| uniq -c \
+		| sort -n -r
