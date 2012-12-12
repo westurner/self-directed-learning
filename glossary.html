@@ -1,0 +1,1266 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Glossary &mdash; Self Directed Learning with Online Resources</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     'v0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/sidebar.js"></script>
+    <link rel="top" title="Self Directed Learning with Online Resources" href="index.html" />
+    <link rel="prev" title="Self-Directed Learning with Online Resources" href="slides.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="slides.html" title="Self-Directed Learning with Online Resources"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">Self Directed Learning with Online Resources</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="glossary">
+<h1>Glossary<a class="headerlink" href="#glossary" title="Permalink to this headline">¶</a></h1>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">The terms listed in this <a class="reference internal" href=""><em>glossary</em></a>
+are listed in the <a class="reference internal" href="genindex.html"><em>Index</em></a>.</p>
+</div>
+<div class="section" id="sequence-development">
+<h2>Sequence Development<a class="headerlink" href="#sequence-development" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-sequencing">sequencing</dt>
+<dd><p class="first">developing <a class="reference internal" href="#term-path"><em class="xref std std-term">paths</em></a> of <a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a> between
+<a class="reference internal" href="#term-vertex"><em class="xref std std-term">node</em></a> <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a>.</p>
+<p class="last">Often augmented with <a class="reference internal" href="#term-authoring-tools"><em class="xref std std-term">authoring tools</em></a></p>
+</dd>
+<dt id="term-authoring">authoring</dt>
+<dd><p class="first">Creating and synthesizing <a class="reference internal" href="#term-sequencing"><em class="xref std std-term">sequences</em></a>
+of <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a> like:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-document"><em class="xref std std-term">documents</em></a></li>
+<li><a class="reference internal" href="#term-learning-object"><em class="xref std std-term">learning objects</em></a></li>
+</ul>
+</dd>
+<dt id="term-naming">naming</dt>
+<dd>assigning unique identifiers to concepts, objects, and categories</dd>
+<dt id="term-namespacing">namespacing</dt>
+<dd><p class="first">TODO</p>
+<div class="last highlight-python"><div class="highlight"><pre><span class="c"># Dots:     path.to.resource</span>
+<span class="c"># Slashes:  path/to/resource</span>
+<span class="c"># Hahes:                    #url_fragment``</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-tagging">tagging</dt>
+<dd><p class="first">adding attribute <a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a> between <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a> and tag strings, which can be <a class="reference internal" href="#term-namespace"><em class="xref std std-term">namespaced</em></a> <a class="reference internal" href="#term-url"><em class="xref std std-term">URLs</em></a>.
+Tags can denote <a class="reference internal" href="#term-category"><em class="xref std std-term">categories</em></a></p>
+<p>Example in <a class="reference internal" href="#term-json"><em class="xref std std-term">JSON</em></a></p>
+<div class="highlight-javascript"><div class="highlight"><pre><span class="p">{</span>
+   <span class="s2">&quot;url&quot;</span><span class="o">:</span> <span class="s2">&quot;http://example.com/ns/products/XYZ_123&quot;</span><span class="p">,</span>
+   <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;XYZ_123&quot;</span><span class="p">,</span>
+   <span class="s2">&quot;tags&quot;</span><span class="o">:</span> <span class="p">[</span><span class="s2">&quot;Widgets&quot;</span><span class="p">,</span> <span class="s2">&quot;XYZ_Widgets&quot;</span><span class="p">]</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p class="last">Often augmented with <a class="reference internal" href="#term-annotation-tool"><em class="xref std std-term">annotation tools</em></a></p>
+</dd>
+<dt id="term-linking">linking</dt>
+<dd><p class="first">Adding <a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a> between <a class="reference internal" href="#term-vertex"><em class="xref std std-term">nodes</em></a> of
+<a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a></p>
+<p>Often augmented with <a class="reference internal" href="#term-authoring-tools"><em class="xref std std-term">authoring tools</em></a></p>
+<p><strong>software development</strong></p>
+<p class="last">Bundling required <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a>
+and <a class="reference internal" href="#term-component"><em class="xref std std-term">components</em></a></p>
+</dd>
+<dt id="term-optimizing">optimizing</dt>
+<dd>finding optima for making decisions that better achieve objectives</dd>
+<dt id="term-publishing">publishing</dt>
+<dd>sharing <a class="reference internal" href="#term-document"><em class="xref std std-term">document</em></a> and <a class="reference internal" href="#term-linked-data"><em class="xref std std-term">Linked Data</em></a>
+<a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a> in order to benefit from
+<a class="reference internal" href="#term-collaboration"><em class="xref std std-term">collaborative</em></a> <a class="reference internal" href="#term-feedback"><em class="xref std std-term">feedback</em></a></dd>
+<dt id="term-interfacing">interfacing</dt>
+<dd>requesting and sharing <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a></dd>
+</dl>
+</div>
+<div class="section" id="graphs">
+<h2>Graphs<a class="headerlink" href="#graphs" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-graph">Graph</dt>
+<dd>A network of <a class="reference internal" href="#term-vertex"><em class="xref std std-term">vertices</em></a> and <a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a>.
+May have a <a class="reference internal" href="#term-naming"><em class="xref std std-term">name</em></a></dd>
+<dt id="term-category">Category</dt>
+<dd>TODO</dd>
+<dt id="term-schema">Schema</dt>
+<dd><p class="first">A set of <a class="reference internal" href="#term-category"><em class="xref std std-term">categories</em></a>
+and <a class="reference internal" href="#term-attribute"><em class="xref std std-term">attributes</em></a></p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-xsd"><em class="xref std std-term">XSD</em></a></li>
+<li><a class="reference internal" href="#term-rdf"><em class="xref std std-term">RDF</em></a></li>
+<li><a class="reference internal" href="#term-markup-language"><em class="xref std std-term">Markup Languages</em></a></li>
+</ul>
+</dd>
+<dt id="term-vertex">Vertex</dt>
+<dd>A node in a <a class="reference internal" href="#term-graph"><em class="xref std std-term">graph</em></a></dd>
+<dt id="term-edge">Edge</dt>
+<dd>A connection between <a class="reference internal" href="#term-vertex"><em class="xref std std-term">vertices</em></a>. Also called a
+<a class="reference internal" href="#term-link"><em class="xref std std-term">link</em></a>.</dd>
+<dt id="term-path">Path</dt>
+<dd>A sequence of <a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a> between <a class="reference internal" href="#term-vertex"><em class="xref std std-term">vertices</em></a>
+of a graph</dd>
+<dt id="term-feedback">Feedback</dt>
+<dd>TODO</dd>
+</dl>
+</div>
+<div class="section" id="web-standards">
+<h2>Web Standards<a class="headerlink" href="#web-standards" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-resource">Resource</dt>
+<dd><p class="first">TODO. An object with content, a <a class="reference internal" href="#term-url"><em class="xref std std-term">URL</em></a>,
+and <a class="reference internal" href="#term-metadata"><em class="xref std std-term">metadata</em></a></p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-html"><em class="xref std std-term">HTML</em></a></li>
+<li><a class="reference internal" href="#term-document"><em class="xref std std-term">Document</em></a></li>
+<li><a class="reference internal" href="#term-web-video"><em class="xref std std-term">Web Video</em></a></li>
+</ul>
+</dd>
+<dt id="term-www">WWW</dt>
+<dd>World Wide Web. <a class="reference internal" href="#term-graph"><em class="xref std std-term">Graph</em></a> of
+<a class="reference internal" href="#term-html"><em class="xref std std-term">HTML</em></a> <a class="reference internal" href="#term-document"><em class="xref std std-term">Document</em></a>
+and <a class="reference internal" href="#term-resource"><em class="xref std std-term">Resource</em></a>
+<a class="reference internal" href="#term-vertex"><em class="xref std std-term">Vertices</em></a> with
+<a class="reference internal" href="#term-url"><em class="xref std std-term">URL</em></a> <a class="reference internal" href="#term-edge"><em class="xref std std-term">Edges</em></a>
+shared over <a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a></dd>
+<dt id="term-web">Web</dt>
+<dd>See: <a class="reference internal" href="#term-www"><em class="xref std std-term">WWW</em></a></dd>
+<dt id="term-w3c">W3C</dt>
+<dd><a class="reference external" href="http://w3c.org">World Wide Web Consortium</a>.
+The main international standards organization for the <a class="reference internal" href="#term-www"><em class="xref std std-term">WWW</em></a>.</dd>
+<dt id="term-web-standard">Web Standard</dt>
+<dd>TODO. Standard defined by a standards-making body such as
+<a class="reference internal" href="#term-w3c"><em class="xref std std-term">W3C</em></a></dd>
+<dt id="term-sgml">SGML</dt>
+<dd>Standard Generalized Markup Language</dd>
+<dt id="term-pdf">PDF</dt>
+<dd>Portable Document Format</dd>
+<dt id="term-url">URL</dt>
+<dd>Uniform Resource Locator</dd>
+<dt id="term-uri">URI</dt>
+<dd>Uniform Resource Indicator</dd>
+<dt id="term-http">HTTP</dt>
+<dd>Hypertext Transfer Protocol. Standard <a class="reference internal" href="#term-http-request"><em class="xref std std-term">request</em></a>
+/<a class="reference internal" href="#term-http-response"><em class="xref std std-term">response</em></a>
+protocol for the <a class="reference internal" href="#term-web"><em class="xref std std-term">web</em></a>.</dd>
+<dt id="term-http-request">HTTP Request</dt>
+<dd><p class="first"><a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a> Request with a type, headers, and a body</p>
+<p>Types:</p>
+<ul class="simple">
+<li>GET</li>
+<li>POST</li>
+<li>PUT</li>
+<li>DELETE</li>
+</ul>
+<p>Example:</p>
+<div class="last highlight-html"><div class="highlight"><pre>GET /ns/products/XYZ_123 HTTP/1.1
+User-Agent: browsername
+Host: example.org
+Accept: application/json
+</pre></div>
+</div>
+</dd>
+<dt id="term-http-response">HTTP Response</dt>
+<dd><p class="first"><a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a> Response with a response code, headers, and a body</p>
+<p>Example Response Codes:</p>
+<ul class="simple">
+<li>200: OK</li>
+<li>404: Not Found</li>
+<li>500: Server Error</li>
+</ul>
+<p>Example Response:</p>
+<div class="highlight-html"><div class="highlight"><pre>HTTP/1.1 200 OK
+Server: servername
+Content-Type: application/json
+Content-Length: 172
+Connection: keep-alive
+
+{&quot;title&quot;:&quot;Document Title&quot;, &quot;author&quot;: ... }
+</pre></div>
+</div>
+<p class="last">TODO:cite</p>
+</dd>
+<dt id="term-html">HTML</dt>
+<dd><p class="first">Hyptertext Markup Language.</p>
+<p>Derived from <a class="reference internal" href="#term-sgml"><em class="xref std std-term">SGML</em></a></p>
+<p>Often served over <a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a></p>
+<p>Example</p>
+<div class="last highlight-html"><div class="highlight"><pre>TODO: doctype
+<span class="nt">&lt;html&gt;</span>
+   <span class="nt">&lt;head&gt;</span>
+      <span class="nt">&lt;title&gt;</span>Document Title<span class="nt">&lt;/title&gt;</span>
+      <span class="nt">&lt;meta</span> <span class="na">author=</span><span class="s">&quot;Document Author&quot;</span><span class="nt">/&gt;</span>
+   <span class="nt">&lt;/head&gt;</span>
+   <span class="nt">&lt;body&gt;</span>
+      <span class="nt">&lt;h1&gt;</span>Document Title<span class="nt">&lt;/h1&gt;</span>
+      <span class="nt">&lt;p&gt;</span>... Document Content ...<span class="nt">&lt;/p&gt;</span>
+   <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-xml">XML</dt>
+<dd><p class="first">Extensible Markup Language. Derived from <a class="reference internal" href="#term-sgml"><em class="xref std std-term">SGML</em></a> and
+<a class="reference internal" href="#term-html"><em class="xref std std-term">HTML</em></a></p>
+<p>Example</p>
+<div class="last highlight-xml"><div class="highlight"><pre>TODO: XMLNS
+<span class="nt">&lt;object&gt;</span>
+   <span class="nt">&lt;dc:title&gt;</span>Document Title<span class="nt">&lt;/dc:title&gt;</span>
+   <span class="nt">&lt;dc:author&gt;</span>Document Author&gt;/dc:author&gt;
+   <span class="nt">&lt;content&gt;</span>... Document Content ...<span class="nt">&lt;/content&gt;</span>
+   <span class="nt">&lt;year&gt;</span>2012<span class="nt">&lt;/year&gt;</span>
+<span class="nt">&lt;/object&gt;</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-xhtml">XHTML</dt>
+<dd><a class="reference internal" href="#term-xml"><em class="xref std std-term">XML</em></a>-compliant <a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a></dd>
+<dt id="term-namespace">Namespace</dt>
+<dd><p class="first">A <a class="reference internal" href="#term-url"><em class="xref std std-term">URL</em></a> for a set of <a class="reference internal" href="#term-resources"><em class="xref std std-term">resources</em></a> within a
+<a class="reference internal" href="#term-schema"><em class="xref std std-term">schema</em></a>.</p>
+<p>Examples in <a class="reference internal" href="#term-turtle"><em class="xref std std-term">Turtle</em></a> syntax</p>
+<div class="highlight-turtle"><pre>@prefix rdfs: http://TODO/TODO/TODO
+@prefix ex: http://example.org/ns/example/
+@prefix products: http://example.com/ns/products/</pre>
+</div>
+<p>Examples in <a class="reference internal" href="#term-xhtml"><em class="xref std std-term">XHTML</em></a> syntax:</p>
+<div class="last highlight-python"><div class="highlight"><pre><span class="n">TODO</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-json">JSON</dt>
+<dd><p class="first"><a class="reference internal" href="#term-javascript"><em class="xref std std-term">JavaScript</em></a> Object Notation.</p>
+<p>Example</p>
+<div class="last highlight-javascript"><div class="highlight"><pre><span class="p">[</span>
+ <span class="p">{</span> <span class="s1">&#39;dc:title&#39;</span><span class="o">:</span>    <span class="s1">&#39;Document Title&#39;</span><span class="p">,</span>
+   <span class="s1">&#39;dc:author&#39;</span><span class="o">:</span>   <span class="s1">&#39;Document Author&#39;</span><span class="p">,</span>
+   <span class="s1">&#39;content&#39;</span><span class="o">:</span>     <span class="s1">&#39;... Document Content ...&#39;</span><span class="p">,</span>
+   <span class="s1">&#39;year&#39;</span><span class="o">:</span>        <span class="mi">2012</span><span class="p">},</span>
+ <span class="p">{</span><span class="s1">&#39;dc:title&#39;</span><span class="o">:</span><span class="s1">&#39;Document N&#39;</span><span class="p">,</span><span class="s1">&#39;content&#39;</span><span class="o">:</span><span class="s1">&#39;Hello World&#39;</span><span class="p">,</span> <span class="s1">&#39;year&#39;</span><span class="o">:</span><span class="mi">2012</span><span class="p">}</span>
+<span class="p">]</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-web-hooks">Web Hooks</dt>
+<dd><a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a> Push Notifications</dd>
+</dl>
+</div>
+<div class="section" id="linked-data-science">
+<h2>Linked Data Science<a class="headerlink" href="#linked-data-science" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-data-science">Data Science</dt>
+<dd>TODO</dd>
+<dt id="term-metadata">Metadata</dt>
+<dd><p class="first">Data about data: <a class="reference internal" href="#term-attribute"><em class="xref std std-term">attributes</em></a> and
+<a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a></p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><tt class="docutils literal"><span class="pre">dc:title</span></tt> &#8211; Dublin Core Title Attribute</li>
+<li><tt class="docutils literal"><span class="pre">dc:author</span></tt> &#8211; Dublin Core Author Attribute</li>
+<li><tt class="docutils literal"><span class="pre">last_modified</span></tt></li>
+</ul>
+</dd>
+<dt id="term-key">Key</dt>
+<dd><p class="first">A hashable identifier for a record <a class="reference internal" href="#term-value"><em class="xref std std-term">value</em></a>.</p>
+<p>Example:</p>
+<div class="last highlight-python"><pre>key = http://example.org/ns/products/XYZ_123</pre>
+</div>
+</dd>
+<dt id="term-value">Value</dt>
+<dd><p class="first">A value stored with a <a class="reference internal" href="#term-key"><em class="xref std std-term">key</em></a></p>
+<p>Example</p>
+<div class="last highlight-python"><div class="highlight"><pre><span class="n">database</span> <span class="o">=</span> <span class="p">{</span>
+   <span class="s">&#39;http://example.org/ns/products/XYZ_123&#39;</span><span class="p">:</span>   <span class="c"># KEY</span>
+      <span class="p">{</span>
+      <span class="s">&#39;type&#39;</span><span class="p">:</span><span class="s">&#39;ex:Widget&#39;</span><span class="p">,</span>                       <span class="c"># VALUE</span>
+      <span class="s">&#39;rdfs:label&#39;</span><span class="p">:</span>  <span class="s">&quot;Product XYZ_123&quot;</span>
+      <span class="s">&#39;ex:linksWith&#39;</span><span class="p">:</span> <span class="p">[</span> <span class="n">ex</span><span class="p">:</span><span class="n">XYZ_Widgets</span> <span class="p">],</span>
+      <span class="p">},</span>
+<span class="p">}</span>
+<span class="n">database</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">&#39;http://example.org/ns/products/XYZ_123&#39;</span><span class="p">)</span>
+<span class="n">database</span><span class="p">[</span><span class="s">&#39;http://example.org/ns/products/XYZ_123&#39;</span><span class="p">]</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-entity-attribute-value">Entity Attribute Value</dt>
+<dd><p class="first">A flexible data storage pattern.</p>
+<p class="last">&lt;<a class="reference internal" href="#term-subject"><em class="xref std std-term">entity</em></a>&gt; &lt;<a class="reference internal" href="#term-predicate"><em class="xref std std-term">attribute</em></a>&gt;
+&lt;<a class="reference internal" href="#term-value"><em class="xref std std-term">value</em></a>&gt;</p>
+</dd>
+<dt id="term-triple">Triple</dt>
+<dd><p class="first">Data-model of <a class="reference internal" href="#term-rdf"><em class="xref std std-term">RDF</em></a></p>
+<p class="last">&lt;<a class="reference internal" href="#term-subject"><em class="xref std std-term">subject</em></a>&gt; &lt;<a class="reference internal" href="#term-predicate"><em class="xref std std-term">predicate</em></a>&gt; &lt;<a class="reference internal" href="#term-object"><em class="xref std std-term">object</em></a>&gt;</p>
+</dd>
+<dt id="term-subject">Subject</dt>
+<dd><a class="reference internal" href="#term-url"><em class="xref std std-term">URL</em></a> Subject of a triple. Also: <a class="reference internal" href="#term-key"><em class="xref std std-term">Key</em></a> and
+<a class="reference internal" href="#term-subject"><em class="xref std std-term">Entity</em></a></dd>
+<dt id="term-predicate">Predicate</dt>
+<dd><a class="reference internal" href="#term-url"><em class="xref std std-term">URL</em></a> predicate of a triple. Also: <a class="reference internal" href="#term-key"><em class="xref std std-term">Key</em></a></dd>
+<dt id="term-object">Object</dt>
+<dd>Object or <a class="reference internal" href="#term-value"><em class="xref std std-term">value</em></a> of a triple.</dd>
+<dt id="term-attribute">Attribute</dt>
+<dd><p class="first">A factual assertion about a <a class="reference internal" href="#term-resource"><em class="xref std std-term">Resource</em></a>.</p>
+<p>A <a class="reference internal" href="#term-predicate"><em class="xref std std-term">predicate</em></a> and an <a class="reference internal" href="#term-object"><em class="xref std std-term">object</em></a> about a <a class="reference internal" href="#term-subject"><em class="xref std std-term">subject</em></a></p>
+<p>Example with <a class="reference internal" href="#term-triple"><em class="xref std std-term">Triples</em></a> in <a class="reference internal" href="#term-turtle"><em class="xref std std-term">Turtle</em></a> syntax:</p>
+<div class="last highlight-python"><pre>@prefix rdfs: http://TODO/TODO/TODO
+@prefix ex: http://example.org/ns/example/
+@prefix products: http://example.com/ns/products/
+
+products:XYZ_123
+   a ex:Widget ;
+   ex:linksWith ex:XYZ_Widgets ;
+   rdfs:label "Product XYZ_123" ;
+   .</pre>
+</div>
+</dd>
+<dt id="term-ontology">Ontology</dt>
+<dd>A structured set of <a class="reference internal" href="#term-attribute"><em class="xref std std-term">Attributes</em></a> and
+<a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a> between <a class="reference internal" href="#term-concept"><em class="xref std std-term">concepts</em></a> in a
+<a class="reference internal" href="#term-graph"><em class="xref std std-term">named graph</em></a></dd>
+<dt id="term-rdf">RDF</dt>
+<dd>Resource Description Framework.
+<a class="reference internal" href="#term-w3c"><em class="xref std std-term">W3C</em></a> <a class="reference internal" href="#term-triples"><em class="xref std std-term">triples</em></a> metadata data-model.
+Often expressed as <a class="reference internal" href="#term-xml"><em class="xref std std-term">XML</em></a></dd>
+<dt id="term-turtle">Turtle</dt>
+<dd>Lightweight syntax for expressing <a class="reference internal" href="#term-rdf"><em class="xref std std-term">RDF</em></a> <a class="reference internal" href="#term-triples"><em class="xref std std-term">triples</em></a>
+(<a class="reference internal" href="#term-turtle"><em class="xref std std-term">.ttl</em></a>, <a class="reference internal" href="#term-n3"><em class="xref std std-term">.n3</em></a> )</dd>
+<dt id="term-trig">TriG</dt>
+<dd>Syntax extension for expressing <a class="reference internal" href="#term-named-graphs"><em class="xref std std-term">named graphs</em></a> in
+<a class="reference internal" href="#term-turtle"><em class="xref std std-term">turtle</em></a></dd>
+<dt id="term-microdata">Microdata</dt>
+<dd>TODO. <a class="reference internal" href="#term-markup-language"><em class="xref std std-term">Markup syntax</em></a> for expressing
+structured data.</dd>
+<dt id="term-foaf">FOAF</dt>
+<dd>Friend of a Friend <a class="reference internal" href="#term-rdf"><em class="xref std std-term">RDF</em></a> <a class="reference internal" href="#term-ontology"><em class="xref std std-term">ontology</em></a></dd>
+<dt id="term-doap">DOAP</dt>
+<dd>Description of a Project <a class="reference internal" href="#term-rdf"><em class="xref std std-term">RDF</em></a> <a class="reference internal" href="#term-ontology"><em class="xref std std-term">ontology</em></a></dd>
+<dt id="term-oembed">OEMBED</dt>
+<dd>Authoring feature for automatically identifying and
+<a class="reference internal" href="#term-linking"><em class="xref std std-term">linking</em></a> to
+<a class="reference internal" href="#term-resource"><em class="xref std std-term">resource</em></a> <a class="reference internal" href="#term-url"><em class="xref std std-term">URLs</em></a>
+on sites that support <a class="reference internal" href="#term-microdata"><em class="xref std std-term">microdata</em></a> <a class="reference internal" href="#term-metadata"><em class="xref std std-term">metadata</em></a></dd>
+<dt id="term-linked-data">Linked Data</dt>
+<dd>Data <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a> linked through the <a class="reference internal" href="#term-www"><em class="xref std std-term">WWW</em></a> using
+<a class="reference internal" href="#term-attribute"><em class="xref std std-term">structured attributes</em></a> of various
+<a class="reference internal" href="#term-ontology"><em class="xref std std-term">ontologies</em></a></dd>
+<dt id="term-linked-open-data">Linked Open Data</dt>
+<dd><p class="first"><a class="reference internal" href="#term-linked-data"><em class="xref std std-term">Linked Data</em></a> shared as <a class="reference internal" href="#term-data-sets"><em class="xref std std-term">Data sets</em></a>
+with <a class="reference internal" href="#term-open-license"><em class="xref std std-term">Open License</em></a> terms</p>
+<p>Examples:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://dbpedia.org">http://dbpedia.org</a></li>
+<li></li>
+</ul>
+<p class="last">TODO:Cite LODCloud</p>
+</dd>
+</dl>
+</div>
+<div class="section" id="education">
+<h2>Education<a class="headerlink" href="#education" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-stem">STEM</dt>
+<dd>Science, Technology, Engineering and Mathematics</dd>
+<dt id="term-curriculum">Curriculum</dt>
+<dd>A course or courses of study required for meeting objectives</dd>
+<dt id="term-theory">Theory</dt>
+<dd>TODO</dd>
+<dt id="term-process">Process</dt>
+<dd>TODO</dd>
+<dt id="term-knowledge">Knowledge</dt>
+<dd>TODO</dd>
+<dt id="term-wisdom">Wisdom</dt>
+<dd>TODO</dd>
+</dl>
+</div>
+<div class="section" id="learning">
+<h2>Learning<a class="headerlink" href="#learning" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-online-learning">Online Learning</dt>
+<dd>Learning delivered over <a class="reference internal" href="#term-web"><em class="xref std std-term">web</em></a> <a class="reference internal" href="#term-channels"><em class="xref std std-term">channels</em></a></dd>
+<dt id="term-learning-object">Learning Object</dt>
+<dd><p class="first">&#8220;Any entity, digital or non-digital, that may be used for
+learning, education, or training&#8221;
+&#8211;<a class="reference external" href="http://ltsc.ieee.org/wg12/files/LOM_1484_12_1_v1_Final_Draft.pdf">IEEE 1484.12-1-2002</a></p>
+<p class="last">A learning <a class="reference internal" href="#term-resource"><em class="xref std std-term">resource</em></a>.</p>
+</dd>
+<dt id="term-learning-activity">Learning Activity</dt>
+<dd>TODO</dd>
+<dt id="term-learning-assessment">Learning Assessment</dt>
+<dd>Documenting educational progress</dd>
+<dt id="term-lms">LMS</dt>
+<dd><p class="first">Learning Management System.
+An application for creating and delivering courses and training.
+&#8220;Limbs&#8221;</p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference external" href="http://blackboard.com">http://blackboard.com</a></li>
+<li>TODO: <a class="reference external" href="http://moodle.org">http://moodle.org</a></li>
+<li>TODO: <a class="reference external" href="http://sakaiproject.org">http://sakaiproject.org</a></li>
+</ul>
+</dd>
+<dt id="term-lcms">LCMS</dt>
+<dd>Learning Content Management System. Authoring and publishing
+workflows to support content for a <a class="reference internal" href="#term-lms"><em class="xref std std-term">Learning Management
+System</em></a></dd>
+<dt id="term-adl">ADL</dt>
+<dd>Advanced Distributed Learning Initiative</dd>
+<dt id="term-scorm">SCORM</dt>
+<dd>Sharable Content Object Reference Model. Based on <a class="reference internal" href="#term-xml"><em class="xref std std-term">XML</em></a></dd>
+<dt id="term-clcims">CLCIMS</dt>
+<dd>Computer Learning Content Information Management System:
+<a class="reference internal" href="#term-scorm"><em class="xref std std-term">SCORM</em></a>-compliant.</dd>
+<dt id="term-tincan">TinCan</dt>
+<dd><p class="first">TinCAN API</p>
+<p>&#8220;Next Generation <a class="reference internal" href="#term-scorm"><em class="xref std std-term">SCORM</em></a>&#8220;</p>
+<p class="last"><a class="reference internal" href="#term-web-hooks"><em class="xref std std-term">Web Hooks</em></a> for <a class="reference internal" href="#term-learning-activity"><em class="xref std std-term">learning activity</em></a> metrics</p>
+</dd>
+<dt id="term-lrs">LRS</dt>
+<dd><p class="first">Learning Record Store. A repository for <a class="reference internal" href="#term-tincan"><em class="xref std std-term">TinCan</em></a>
+<a class="reference internal" href="#term-learning-activity"><em class="xref std std-term">learning activity</em></a> records.</p>
+<p class="last">Can integrate with an <a class="reference internal" href="#term-lms"><em class="xref std std-term">LMS</em></a> or <a class="reference internal" href="#term-lcms"><em class="xref std std-term">LCMS</em></a></p>
+</dd>
+<dt id="term-opencourseware">OpenCourseWare</dt>
+<dd>TODO</dd>
+<dt id="term-mooc">MOOC</dt>
+<dd><p class="first">Massive Open Online Course. Large scale <a class="reference internal" href="#term-distance-learning"><em class="xref std std-term">distance learning</em></a>
+course offered <a class="reference internal" href="#term-scalability"><em class="xref std std-term">at scale</em></a>
+through the <a class="reference internal" href="#term-www"><em class="xref std std-term">WWW</em></a></p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-coursera"><em class="xref std std-term">Coursera</em></a></li>
+<li><a class="reference internal" href="#term-edx"><em class="xref std std-term">EdX</em></a></li>
+</ul>
+</dd>
+<dt id="term-scalability">Scalability</dt>
+<dd>TODO</dd>
+</dl>
+</div>
+<div class="section" id="tools">
+<h2>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-browser">Browser</dt>
+<dd><p class="first">An application for retrieving, presenting and traversing
+<a class="reference internal" href="#term-web"><em class="xref std std-term">web</em></a>
+<a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a>
+like <a class="reference internal" href="#term-html"><em class="xref std std-term">HTML</em></a>
+<a class="reference internal" href="#term-document"><em class="xref std std-term">Documents</em></a>
+over <a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a>.</p>
+<p class="last">Responsible for processing <a class="reference internal" href="#term-javascript"><em class="xref std std-term">JavaScript</em></a>.</p>
+</dd>
+<dt id="term-web-server">Web Server</dt>
+<dd><p class="first">Software for handling <a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a> requests over the <a class="reference internal" href="#term-web"><em class="xref std std-term">web</em></a></p>
+<p class="last">Often placed in front of a <a class="reference internal" href="#term-web-application-server"><em class="xref std std-term">Web Application Server</em></a></p>
+</dd>
+<dt id="term-web-application-server">Web Application Server</dt>
+<dd><p class="first">Software service for hosting web applications that serve
+<a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a> over <a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a> <a class="reference internal" href="#term-api"><em class="xref std std-term">APIs</em></a>
+as content types like <tt class="docutils literal"><span class="pre">text/html</span></tt>, <tt class="docutils literal"><span class="pre">application/json</span></tt>,
+<tt class="docutils literal"><span class="pre">text/xml</span></tt>. TODO</p>
+<p>Interface Standards:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-wsgi"><em class="xref std std-term">WSGI</em></a></li>
+<li><a class="reference internal" href="#term-osgi"><em class="xref std std-term">OSGI</em></a></li>
+</ul>
+</dd>
+<dt id="term-service">Service</dt>
+<dd><p class="first"><strong>Business Service</strong></p>
+<p>TODO</p>
+<p><strong>Information Systems</strong></p>
+<p>A locally or remotely hosted application for solving part of a
+process.</p>
+<p><strong>API</strong></p>
+<p class="last">An <a class="reference internal" href="#term-api"><em class="xref std std-term">API</em></a> web service.</p>
+</dd>
+<dt id="term-api">API</dt>
+<dd><p class="first">TODO Programming Interface.</p>
+<p>An application that responds to a standard set of
+<a class="reference internal" href="#term-http-request"><em class="xref std std-term">requests</em></a> and
+returns a standard set of <a class="reference internal" href="#term-http-response"><em class="xref std std-term">responses</em></a></p>
+<p>Elements:</p>
+<ul class="last simple">
+<li>Authentication Keys</li>
+<li>Authorization</li>
+<li><a class="reference internal" href="#term-http-response"><em class="xref std std-term">Error Codes</em></a></li>
+<li><a class="reference internal" href="#term-resource"><em class="xref std std-term">Resource</em></a> Schema</li>
+<li><a class="reference internal" href="#term-web-service"><em class="xref std std-term">Web Service</em></a>  Definitions</li>
+</ul>
+</dd>
+<dt id="term-repository">Repository</dt>
+<dd>A <a class="reference internal" href="#term-version-control-system"><em class="xref std std-term">version-controlled</em></a> folder of
+file <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a></dd>
+<dt id="term-version-control-system">Version Control System</dt>
+<dd><p class="first">System for storing changesets to a <a class="reference internal" href="#term-repository"><em class="xref std std-term">Repository</em></a>
+Also <a class="reference internal" href="#term-revision-control-system-rcs"><em class="xref std std-term">Revision Control System (RCS)</em></a></p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-dvcs"><em class="xref std std-term">Distributed Version Control System</em></a></li>
+</ul>
+</dd>
+<dt id="term-dvcs">DVCS</dt>
+<dd><p class="first">Distributed <cite>Version Control System</cite>.</p>
+<p>Advantages:</p>
+<ul class="simple">
+<li>Branching</li>
+<li>Tagging</li>
+<li>Offline</li>
+</ul>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-git"><em class="xref std std-term">Git</em></a></li>
+<li><a class="reference internal" href="#term-mercurial"><em class="xref std std-term">Mercurial</em></a></li>
+</ul>
+</dd>
+<dt id="term-git">Git</dt>
+<dd><p class="first"><a class="reference internal" href="#term-version-control-system"><em class="xref std std-term">Version Control System</em></a></p>
+<ul class="last simple">
+<li>TODO <a class="reference external" href="http://github.com/mirror/kernel">http://github.com/mirror/kernel</a></li>
+<li>TODO <a class="reference external" href="http://">http://</a></li>
+</ul>
+</dd>
+<dt id="term-mercurial">Mercurial</dt>
+<dd><p class="first"><a class="reference internal" href="#term-version-control-system"><em class="xref std std-term">Version Control System</em></a> written in <a class="reference internal" href="#term-python"><em class="xref std std-term">Python</em></a></p>
+<ul class="last simple">
+<li><a class="reference external" href="http://hg.python.org">http://hg.python.org</a></li>
+<li><a class="reference external" href="http://hg.mozilla.org">http://hg.mozilla.org</a></li>
+</ul>
+</dd>
+<dt id="term-version-control-service">Version Control Service</dt>
+<dd><p class="first">Hosted <a class="reference internal" href="#term-version-control-system"><em class="xref std std-term">Version Control System</em></a> for storing
+<a class="reference internal" href="#term-repository"><em class="xref std std-term">Repositories</em></a></p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference external" href="http://github.com">http://github.com</a></li>
+<li><a class="reference external" href="http://bitbucket.org">http://bitbucket.org</a></li>
+</ul>
+</dd>
+<dt id="term-scripting-language">Scripting Language</dt>
+<dd><p class="first">Third generation programming language.</p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-javascript"><em class="xref std std-term">JavaScript</em></a> (<a class="reference internal" href="#term-javascript"><em class="xref std std-term">.js</em></a>)</li>
+<li><a class="reference internal" href="#term-python"><em class="xref std std-term">Python</em></a> (<a class="reference internal" href="#term-python"><em class="xref std std-term">.py</em></a>)</li>
+<li><a class="reference internal" href="#term-ruby"><em class="xref std std-term">Ruby</em></a> (<a class="reference internal" href="#term-ruby"><em class="xref std std-term">.rb</em></a>)</li>
+<li><a class="reference internal" href="#term-perl"><em class="xref std std-term">Perl</em></a> (<a class="reference internal" href="#term-perl"><em class="xref std std-term">.pl</em></a>)</li>
+</ul>
+</dd>
+<dt id="term-javascript">JavaScript</dt>
+<dd>A <a class="reference internal" href="#term-scripting-language"><em class="xref std std-term">scripting language</em></a> which can be interpreted
+client-side in a <a class="reference internal" href="#term-browser"><em class="xref std std-term">Browser</em></a>
+locally as a <a class="reference internal" href="#term-script"><em class="xref std std-term">script</em></a>
+or server-side in a <a class="reference internal" href="#term-web-application-server"><em class="xref std std-term">Web Application Server</em></a>.
+(<a class="reference internal" href="#term-javascript"><em class="xref std std-term">.js</em></a>)</dd>
+<dt id="term-python">Python</dt>
+<dd>A <a class="reference internal" href="#term-scripting-language"><em class="xref std std-term">scripting language</em></a> which is compiled and/or interpreted
+locally as a <a class="reference internal" href="#term-script"><em class="xref std std-term">script</em></a>
+or server-side in an <a class="reference internal" href="#term-web-application-server"><em class="xref std std-term">Web Application Server</em></a></dd>
+</dl>
+</div>
+<div class="section" id="research-tools">
+<h2>Research Tools<a class="headerlink" href="#research-tools" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="authoring-tools">
+<h2>Authoring Tools<a class="headerlink" href="#authoring-tools" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-authoring-tools">Authoring Tools</dt>
+<dd><p class="first">Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-text-editor"><em class="xref std std-term">Text Editor</em></a></li>
+<li><a class="reference internal" href="#term-markup-language"><em class="xref std std-term">Markup Language</em></a></li>
+</ul>
+</dd>
+<dt id="term-document">Document</dt>
+<dd><p class="first">TODO. A <a class="reference internal" href="#term-resource"><em class="xref std std-term">resource</em></a> <a class="reference internal" href="#term-vertex"><em class="xref std std-term">vertex</em></a> in a
+<a class="reference internal" href="#term-resource"><em class="xref std std-term">resource</em></a> <a class="reference internal" href="#term-graph"><em class="xref std std-term">graph</em></a> containing
+textual content often stored in a structured <a class="reference internal" href="#term-markup-language"><em class="xref std std-term">markup language</em></a>.</p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-html"><em class="xref std std-term">HTML</em></a> (<a class="reference internal" href="#term-html"><em class="xref std std-term">.html</em></a>)</li>
+</ul>
+</dd>
+<dt id="term-markup-language">Markup Language</dt>
+<dd><p class="first">Textual Markup Language for expressing
+<a class="reference internal" href="#term-document"><em class="xref std std-term">documents</em></a>
+with <a class="reference internal" href="#term-content"><em class="xref std std-term">content</em></a>
+and <a class="reference internal" href="#term-presentation"><em class="xref std std-term">presentation</em></a>.</p>
+<p>Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-restructuredtext"><em class="xref std std-term">ReStructuredText</em></a> (<a class="reference internal" href="#term-restructuredtext"><em class="xref std std-term">.rst</em></a>)</li>
+<li><a class="reference internal" href="#term-latex"><em class="xref std std-term">LaTeX</em></a> (<a class="reference internal" href="#term-latex"><em class="xref std std-term">.tex</em></a>)</li>
+<li><a class="reference internal" href="#term-bibtex"><em class="xref std std-term">BibTeX</em></a></li>
+<li><a class="reference internal" href="#term-95"><em class="xref std std-term">PDF</em></a> (<a class="reference internal" href="#term-95"><em class="xref std std-term">.pdf</em></a>)</li>
+<li><a class="reference internal" href="#term-html"><em class="xref std std-term">HTML</em></a> (<a class="reference internal" href="#term-html"><em class="xref std std-term">.html</em></a>)</li>
+<li><a class="reference internal" href="#term-xhtml"><em class="xref std std-term">XHTML</em></a> (<a class="reference internal" href="#term-xhtml"><em class="xref std std-term">.xhtml</em></a>)</li>
+<li><a class="reference internal" href="#term-html5"><em class="xref std std-term">HTML5</em></a></li>
+<li><a class="reference internal" href="#term-markdown"><em class="xref std std-term">Markdown</em></a> (<a class="reference internal" href="#term-markdown"><em class="xref std std-term">.md</em></a>)</li>
+<li><a class="reference internal" href="#term-mediawiki"><em class="xref std std-term">MediaWiki Syntax</em></a></li>
+<li><a class="reference internal" href="#term-json"><em class="xref std std-term">JSON</em></a></li>
+<li><a class="reference internal" href="#term-xml"><em class="xref std std-term">XML</em></a> (<a class="reference internal" href="#term-xml"><em class="xref std std-term">.xml</em></a>)</li>
+<li><a class="reference internal" href="#term-docbook"><em class="xref std std-term">DocBook</em></a> (<a class="reference internal" href="#term-xml"><em class="xref std std-term">.xml</em></a>)</li>
+<li><a class="reference internal" href="#term-odf"><em class="xref std std-term">OpenDocument (OpenOffice)</em></a> (<a class="reference internal" href="#term-odf"><em class="xref std std-term">.odf</em></a>)</li>
+<li><a class="reference internal" href="#term-openxml"><em class="xref std std-term">OpenXML (MS Word)</em></a> (<a class="reference internal" href="#term-openxml"><em class="xref std std-term">.docx</em></a>) # TODO</li>
+</ul>
+</dd>
+<dt id="term-text-editor">Text Editor</dt>
+<dd><p class="first">Examples:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-vim"><em class="xref std std-term">vim</em></a></li>
+<li><a class="reference internal" href="#term-emacs"><em class="xref std std-term">emacs</em></a></li>
+<li><a class="reference internal" href="#term-gedit"><em class="xref std std-term">gedit</em></a></li>
+<li><a class="reference internal" href="#term-notepad"><em class="xref std std-term">notepad</em></a></li>
+<li><a class="reference internal" href="#term-202"><em class="xref std std-term">notepad++</em></a></li>
+</ul>
+</dd>
+<dt id="term-restructuredtext">ReStructuredText</dt>
+<dd><p class="first">A lightweight <a class="reference internal" href="#term-markup-language"><em class="xref std std-term">Markup Language</em></a>.
+Also: <a class="reference internal" href="#term-restructuredtext"><em class="xref std std-term">ReST</em></a> and
+<a class="reference internal" href="#term-restructuredtext"><em class="xref std std-term">RST</em></a>. (<a class="reference internal" href="#term-restructuredtext"><em class="xref std std-term">.rst</em></a>)</p>
+<p>Example:</p>
+<div class="highlight-restructuredtext"><div class="highlight"><pre><span class="p">..</span> <span class="ow">header</span><span class="p">::</span> Document Header
+<span class="p">..</span> <span class="ow">meta</span><span class="p">::</span>
+   <span class="nc">:description lang=en:</span> <span class="nf">Document Description</span>
+   <span class="nc">:author:</span> <span class="nf">Document Author</span>
+
+<span class="p">..</span> <span class="ow">contents</span><span class="p">::</span> Table of Contents
+   :depth: 1
+
+<span class="gh">Intro</span>
+<span class="gh">======</span>
+<span class="cp">.. note: This is a `note directive &lt;note_directive&gt;`_</span>
+
+<span class="p">..</span> <span class="nt">_note_directive:</span> http://docutils.sf.net/
+
+<span class="gh">Background</span>
+<span class="gh">-----------</span>
+<span class="cp">.. Document Content ...</span>
+
+<span class="gh">Glossary</span>
+<span class="gh">=========</span>
+<span class="p">..</span> <span class="ow">glossary</span><span class="p">::</span>
+
+   ReStructuredText
+      A lightweight <span class="na">:term:</span><span class="nv">`Markup Language`</span>
+</pre></div>
+</div>
+<dl class="last docutils">
+<dt>SeeAlso:</dt>
+<dd><ul class="first last simple">
+<li><a class="reference external" href="http://docutils.sf.net/docs/user/rst/demo.txt">http://docutils.sf.net/docs/user/rst/demo.txt</a></li>
+<li><a class="reference external" href="http://docutils.sf.net/docs/user/demo.rst">http://docutils.sf.net/docs/user/demo.rst</a></li>
+</ul>
+</dd>
+</dl>
+</dd>
+<dt id="term-latex">LaTeX</dt>
+<dd><p class="first">Plaintext typesetting <a class="reference internal" href="#term-markup-language"><em class="xref std std-term">Markup Language</em></a></p>
+<p>Example:</p>
+<div class="last highlight-python"><div class="highlight"><pre><span class="n">TODO</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-bibtex">BibTeX</dt>
+<dd><p class="first">Language and system for managing Bibliographic References in
+<a class="reference internal" href="#term-latex"><em class="xref std std-term">LaTeX</em></a> syntax</p>
+<div class="last highlight-latex"><div class="highlight"><pre>@techreport<span class="nb">{</span>this,
+   author      = &quot;Wesley <span class="nb">{</span>Turner<span class="nb">}</span>&quot;,
+   title       = &quot;Self-Directed Learning with Online Resources&quot;,
+   institution = &quot;WRD&quot;,
+   year        =  2012,
+   address     = &quot;Omaha, NE, USA&quot;,
+<span class="nb">}</span>
+</pre></div>
+</div>
+</dd>
+<dt id="term-95">PDF</dt>
+<dd>Portable Document Format</dd>
+<dt id="term-rst2pdf">rst2pdf</dt>
+<dd><p class="first"><a class="reference internal" href="#term-restructuredtext"><em class="xref std std-term">ReStructuredText</em></a> <a class="reference internal" href="#term-95"><em class="xref std std-term">PDF</em></a> publisher.</p>
+<p>Output formats:</p>
+<ul class="last simple">
+<li><a class="reference internal" href="#term-95"><em class="xref std std-term">PDF</em></a></li>
+</ul>
+</dd>
+<dt id="term-sphinx">Sphinx</dt>
+<dd><p class="first"><a class="reference internal" href="#term-restructuredtext"><em class="xref std std-term">RestructuredText</em></a> documentation publisher.</p>
+<p>Output Formats:</p>
+<ul class="simple">
+<li><a class="reference internal" href="#term-html"><em class="xref std std-term">HTML</em></a></li>
+<li><a class="reference internal" href="#term-json"><em class="xref std std-term">JSON</em></a></li>
+<li><a class="reference internal" href="#term-95"><em class="xref std std-term">PDF</em></a></li>
+<li><a class="reference internal" href="#term-latex"><em class="xref std std-term">LaTeX</em></a></li>
+</ul>
+<p>Examples:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://docs.python.org">http://docs.python.org</a></li>
+<li><a class="reference external" href="http://packages.python.org">http://packages.python.org</a></li>
+<li><a class="reference external" href="http://readthedocs.org">http://readthedocs.org</a></li>
+<li><a class="reference external" href="http://sphinxdoc.org">http://sphinxdoc.org</a></li>
+</ul>
+<p class="last">TODO:cite</p>
+</dd>
+</dl>
+</div>
+<div class="section" id="review-tools">
+<h2>Review Tools<a class="headerlink" href="#review-tools" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+</dl>
+</div>
+<div class="section" id="ui-ux-design">
+<h2>UI/UX Design<a class="headerlink" href="#ui-ux-design" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-interface">Interface</dt>
+<dd>TODO</dd>
+<dt id="term-ui">UI</dt>
+<dd>User Interface</dd>
+<dt id="term-ux">UX</dt>
+<dd>User Experience</dd>
+</dl>
+</div>
+<div class="section" id="cloud">
+<h2>Cloud<a class="headerlink" href="#cloud" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-cloud">Cloud</dt>
+<dd>TODO</dd>
+<dt id="term-grid">Grid</dt>
+<dd>TODO</dd>
+<dt id="term-stack">Stack</dt>
+<dd>TODO</dd>
+<dt id="term-distributed-computing">Distributed Computing</dt>
+<dd>TODO</dd>
+</dl>
+</div>
+<div class="section" id="collaboration-engineering">
+<h2>Collaboration Engineering<a class="headerlink" href="#collaboration-engineering" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary docutils">
+<dt id="term-collaboration">Collaboration</dt>
+<dd>working together to create, share, and improve
+<a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a></dd>
+<dt id="term-collaboration-engineering">Collaboration Engineering</dt>
+<dd>TODO</dd>
+<dt id="term-six-patterns-of-collaboration">Six Patterns of Collaboration</dt>
+<dd><ol class="first arabic simple">
+<li><a class="reference internal" href="#term-generate"><em class="xref std std-term">Generate</em></a>: Fewer to more concepts</li>
+<li><a class="reference internal" href="#term-reduce"><em class="xref std std-term">Reduce</em></a>: Many concepts -&gt; focus</li>
+<li><a class="reference internal" href="#term-clarify"><em class="xref std std-term">Clarify</em></a>: Less -&gt; More Shared Understanding</li>
+<li><a class="reference internal" href="#term-organize"><em class="xref std std-term">Organize</em></a>:</li>
+<li><a class="reference internal" href="#term-evaluate"><em class="xref std std-term">Evaluate</em></a>: Less -&gt; More Value Understanding</li>
+<li><a class="reference internal" href="#term-build-consensus"><em class="xref std std-term">Build Consensus</em></a>: Less -&gt; More Willingness to Commit</li>
+</ol>
+<p class="last">TODO:Cite</p>
+</dd>
+<dt id="term-generate">Generate</dt>
+<dd><p class="first">Fewer to more concepts.</p>
+<p class="last"><a class="reference internal" href="#term-six-patterns-of-collaboration"><em class="xref std std-term">Six Patterns of Collaboration</em></a> #1</p>
+</dd>
+<dt id="term-reduce">Reduce</dt>
+<dd><p class="first">Many concepts -&gt; focus</p>
+<p class="last"><a class="reference internal" href="#term-six-patterns-of-collaboration"><em class="xref std std-term">Six Patterns of Collaboration</em></a> #2</p>
+</dd>
+<dt id="term-clarify">Clarify</dt>
+<dd><p class="first">Less -&gt; More Shared Understanding</p>
+<p class="last"><a class="reference internal" href="#term-six-patterns-of-collaboration"><em class="xref std std-term">Six Patterns of Collaboration</em></a> #3</p>
+</dd>
+<dt id="term-organize">Organize</dt>
+<dd><p class="first">TODO</p>
+<p class="last"><a class="reference internal" href="#term-six-patterns-of-collaboration"><em class="xref std std-term">Six Patterns of Collaboration</em></a> #4</p>
+</dd>
+<dt id="term-evaluate">Evaluate</dt>
+<dd><p class="first">Less -&gt; More Value Understanding</p>
+<p class="last"><a class="reference internal" href="#term-six-patterns-of-collaboration"><em class="xref std std-term">Six Patterns of Collaboration</em></a> #5</p>
+</dd>
+<dt id="term-build-consensus">Build Consensus</dt>
+<dd><p class="first">Less -&gt; More Willingness to Commit</p>
+<p class="last"><a class="reference internal" href="#term-six-patterns-of-collaboration"><em class="xref std std-term">Six Patterns of Collaboration</em></a> #6</p>
+</dd>
+<dt id="term-seven-layer-model">Seven Layer Model</dt>
+<dd><ol class="first last arabic simple">
+<li><a class="reference internal" href="#term-goal"><em class="xref std std-term">Goals</em></a></li>
+<li><a class="reference internal" href="#term-product"><em class="xref std std-term">Products</em></a></li>
+<li><a class="reference internal" href="#term-activity"><em class="xref std std-term">Activities</em></a></li>
+<li><a class="reference internal" href="#term-pattern"><em class="xref std std-term">Patterns</em></a></li>
+<li><a class="reference internal" href="#term-technique"><em class="xref std std-term">Techniques</em></a></li>
+<li><a class="reference internal" href="#term-tool"><em class="xref std std-term">Tools</em></a></li>
+<li><a class="reference internal" href="#term-script"><em class="xref std std-term">Scripts</em></a></li>
+</ol>
+</dd>
+<dt id="term-goal">Goal</dt>
+<dd>TODO</dd>
+<dt id="term-product">Product</dt>
+<dd>TODO</dd>
+<dt id="term-activity">Activity</dt>
+<dd>TODO
+See <a class="reference internal" href="#term-learning-activity"><em class="xref std std-term">Learning Activity</em></a></dd>
+<dt id="term-pattern">Pattern</dt>
+<dd>TODO</dd>
+<dt id="term-technique">Technique</dt>
+<dd>TODO</dd>
+<dt id="term-tool">Tool</dt>
+<dd>TODO</dd>
+<dt id="term-script">Script</dt>
+<dd>TODO</dd>
+<dt id="term-comparison-scheme-for-collaborative-technology">Comparison Scheme for Collaborative Technology</dt>
+<dd><ul class="first last simple">
+<li><a class="reference internal" href="#term-core-functionality"><em class="xref std std-term">Core Functionality</em></a></li>
+<li><a class="reference internal" href="#term-access-controls"><em class="xref std std-term">Access Controls</em></a></li>
+<li><a class="reference internal" href="#term-alerts-interrupts"><em class="xref std std-term">Alerts/Interrupts</em></a></li>
+<li><a class="reference internal" href="#term-content"><em class="xref std std-term">Content</em></a></li>
+<li><a class="reference internal" href="#term-actions"><em class="xref std std-term">Actions</em></a></li>
+<li><a class="reference internal" href="#term-synchronicity"><em class="xref std std-term">Synchronicity</em></a></li>
+<li><a class="reference internal" href="#term-identifiability"><em class="xref std std-term">Identifiability</em></a></li>
+<li><a class="reference internal" href="#term-relationships"><em class="xref std std-term">Relationships</em></a></li>
+<li><a class="reference internal" href="#term-persistence"><em class="xref std std-term">Persistence</em></a></li>
+</ul>
+</dd>
+<dt id="term-core-functionality">Core Functionality</dt>
+<dd>TODO</dd>
+<dt id="term-access-controls">Access Controls</dt>
+<dd>TODO</dd>
+<dt id="term-alerts-interrupts">Alerts/Interrupts</dt>
+<dd>TODO</dd>
+<dt id="term-content">Content</dt>
+<dd>TODO</dd>
+<dt id="term-actions">Actions</dt>
+<dd><p class="first">TODO</p>
+<p class="last">See also: <a class="reference internal" href="#term-activity"><em class="xref std std-term">activities</em></a></p>
+</dd>
+<dt id="term-synchronicity">Synchronicity</dt>
+<dd>TODO</dd>
+<dt id="term-identifiability">Identifiability</dt>
+<dd>TODO</dd>
+<dt id="term-relationships">Relationships</dt>
+<dd>TODO</dd>
+<dt id="term-persistence">Persistence</dt>
+<dd>TODO</dd>
+<dt id="term-creative-process">Creative Process</dt>
+<dd><ul class="first last simple">
+<li><a class="reference internal" href="#term-problem-identification"><em class="xref std std-term">Problem Identification</em></a></li>
+<li><a class="reference internal" href="#term-information-search"><em class="xref std std-term">Information Search</em></a></li>
+<li><a class="reference internal" href="#term-idea-solution-generation"><em class="xref std std-term">Idea/Solution Generation</em></a></li>
+<li><a class="reference internal" href="#term-idea-solution-evaluation-and-selection"><em class="xref std std-term">Idea/Solution Evaluation and Selection</em></a></li>
+<li><a class="reference internal" href="#term-implementation-planning"><em class="xref std std-term">Implementation Planning</em></a></li>
+</ul>
+</dd>
+<dt id="term-problem-identification">Problem Identification</dt>
+<dd>TODO</dd>
+<dt id="term-information-search">Information Search</dt>
+<dd>TODO</dd>
+<dt id="term-idea-solution-generation">Idea/Solution Generation</dt>
+<dd>TODO</dd>
+<dt id="term-idea-solution-evaluation-and-selection">Idea/Solution Evaluation and Selection</dt>
+<dd>TODO</dd>
+<dt id="term-implementation-planning">Implementation Planning</dt>
+<dd>TODO</dd>
+<dt id="term-goal-attainment-paradigm">Goal Attainment Paradigm</dt>
+<dd><ul class="first last simple">
+<li>Understand Problem</li>
+<li>Develop alternate solutions</li>
+<li>Evaluate solutions</li>
+<li>Make choices</li>
+<li>Make plans</li>
+<li>Take action</li>
+<li>Review</li>
+</ul>
+</dd>
+<dt id="term-six-sigma">Six Sigma</dt>
+<dd>TODO</dd>
+<dt id="term-dmaic">DMAIC</dt>
+<dd><p class="first"><a class="reference internal" href="#term-six-sigma"><em class="xref std std-term">Six Sigma</em></a> process</p>
+<ul class="last simple">
+<li>Define</li>
+<li>Measure</li>
+<li>Analyze</li>
+<li>Implement</li>
+<li>Control</li>
+</ul>
+</dd>
+<dt id="term-define">Define</dt>
+<dd>TODO</dd>
+<dt id="term-measure">Measure</dt>
+<dd>TODO</dd>
+<dt id="term-analyze">Analyze</dt>
+<dd>TODO</dd>
+<dt id="term-implement">Implement</dt>
+<dd>TODO</dd>
+<dt id="term-control">Control</dt>
+<dd>TODO</dd>
+<dt id="term-feature-matrix">Feature Matrix</dt>
+<dd><p class="first">TODO</p>
+<div class="highlight-python"><pre>Feature:
+   Label
+   Description
+   Value
+
+Choice:
+   Label
+   Description
+   {Version}
+
+Choice-Feature:
+   Feature
+   Choice
+   --
+   Score
+   Reason
+   Reference URIs
+   Cost
+   Cost URIs
+
+Display Algorithm:
+   for f in sorted(features):
+      print(feature)
+      for c in sorted(choices):
+            print(choice_features((feature,choice)))</pre>
+</div>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Categorically enumerated heat map/contour plot
+with combinatorially optimized feature islands</p>
+</div>
+<div class="last admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">max-flow algorithms</p>
+</div>
+</dd>
+</dl>
+<p>TODO:cite</p>
+</div>
+<div class="section" id="index">
+<h2>Index<a class="headerlink" href="#index" title="Permalink to this headline">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">These terms are listed in the <a class="reference internal" href="genindex.html"><em>Index</em></a>.</p>
+</div>
+<div class="section" id="todo-undefined">
+<h3>TODO/Undefined<a class="headerlink" href="#todo-undefined" title="Permalink to this headline">¶</a></h3>
+<div class="highlight-python"><pre>sort -u &lt;(cat ./build.log | grep 'term not in glossary' | pyline "l.split(':')[-1].strip()") | pyline "'   %s      %s\n' % (l,l)"</pre>
+</div>
+<dl class="glossary docutils">
+<dt id="term-ability">ability</dt>
+<dd>ability</dd>
+<dt id="term-access-control">access control</dt>
+<dd>access control</dd>
+<dt id="term-activity-metric">activity metric</dt>
+<dd>activity metric</dd>
+<dt id="term-activity-metrics">activity metrics</dt>
+<dd>activity metrics</dd>
+<dt id="term-annotation-tool">annotation tool</dt>
+<dd>annotation tool</dd>
+<dt id="term-api-token">api token</dt>
+<dd>api token</dd>
+<dt id="term-aptitude">aptitude</dt>
+<dd>aptitude</dd>
+<dt id="term-archive">archive</dt>
+<dd>archive</dd>
+<dt id="term-artifact">artifact</dt>
+<dd>artifact</dd>
+<dt id="term-artifacts">artifacts</dt>
+<dd>artifacts</dd>
+<dt id="term-askbot">askbot</dt>
+<dd>askbot</dd>
+<dt id="term-augment">augment</dt>
+<dd>augment</dd>
+<dt id="term-autodidactism">autodidactism</dt>
+<dd>autodidactism</dd>
+<dt id="term-badges">badges</dt>
+<dd>badges</dd>
+<dt id="term-bazaar">bazaar</dt>
+<dd>bazaar</dd>
+<dt id="term-blog">blog</dt>
+<dd>blog</dd>
+<dt id="term-bookmark">bookmark</dt>
+<dd>bookmark</dd>
+<dt id="term-channels">channels</dt>
+<dd>channels</dd>
+<dt id="term-citation">citation</dt>
+<dd>citation</dd>
+<dt id="term-competencies">competencies</dt>
+<dd>competencies</dd>
+<dt id="term-component">component</dt>
+<dd>component</dd>
+<dt id="term-components">components</dt>
+<dd>components</dd>
+<dt id="term-concept">concept</dt>
+<dd>concept</dd>
+<dt id="term-coursera">coursera</dt>
+<dd>coursera</dd>
+<dt id="term-curriculum-vitae">curriculum vitae</dt>
+<dd>curriculum vitae</dd>
+<dt id="term-dataset">dataset</dt>
+<dd>dataset</dd>
+<dt id="term-data-sets">data sets</dt>
+<dd>data sets</dd>
+<dt id="term-distance-learning">distance learning</dt>
+<dd>distance learning</dd>
+<dt id="term-docbook">docbook</dt>
+<dd>docbook</dd>
+<dt id="term-doi">doi</dt>
+<dd>doi</dd>
+<dt id="term-edx">edx</dt>
+<dd>edx</dd>
+<dt id="term-emacs">emacs</dt>
+<dd>emacs</dd>
+<dt id="term-epub">epub</dt>
+<dd>epub</dd>
+<dt id="term-fossil">fossil</dt>
+<dd>fossil</dd>
+<dt id="term-freemind">freemind</dt>
+<dd>freemind</dd>
+<dt id="term-gedit">gedit</dt>
+<dd>gedit</dd>
+<dt id="term-gift">gift</dt>
+<dd>gift</dd>
+<dt id="term-gitlib">gitlib</dt>
+<dd>gitlib</dd>
+<dt id="term-html5">html5</dt>
+<dd>html5</dd>
+<dt id="term-ipython">ipython</dt>
+<dd>ipython</dd>
+<dt id="term-ipython-notebook">ipython notebook</dt>
+<dd>ipython notebook</dd>
+<dt id="term-isbn">isbn</dt>
+<dd>isbn</dd>
+<dt id="term-learning-dashboard">learning dashboard</dt>
+<dd>learning dashboard</dd>
+<dt id="term-learning-objects">learning objects</dt>
+<dd>learning objects</dd>
+<dt id="term-learning-resource">learning resource</dt>
+<dd>learning resource</dd>
+<dt id="term-learning-resources">learning resources</dt>
+<dd>learning resources</dd>
+<dt id="term-link">link</dt>
+<dd>link</dd>
+<dt id="term-markdown">markdown</dt>
+<dd>markdown</dd>
+<dt id="term-markup-languages">markup languages</dt>
+<dd>markup languages</dd>
+<dt id="term-media-repository">media repository</dt>
+<dd>media repository</dd>
+<dt id="term-mediawiki">mediawiki</dt>
+<dd>mediawiki</dd>
+<dt id="term-mnemosyne">mnemosyne</dt>
+<dd>mnemosyne</dd>
+<dt id="term-n3">n3</dt>
+<dd>n3</dd>
+<dt id="term-named-graphs">named graphs</dt>
+<dd>named graphs</dd>
+<dt id="term-notepad">notepad</dt>
+<dd>notepad</dd>
+<dt id="term-202">notepad++</dt>
+<dd>notepad++</dd>
+<dt id="term-numpy">numpy</dt>
+<dd>numpy</dd>
+<dt id="term-oauth">oauth</dt>
+<dd>oauth</dd>
+<dt id="term-odf">odf</dt>
+<dd>odf</dd>
+<dt id="term-open-access">open access</dt>
+<dd>open access</dd>
+<dt id="term-open-license">open license</dt>
+<dd>open license</dd>
+<dt id="term-open-source">open source</dt>
+<dd>open source</dd>
+<dt id="term-open-stack">open stack</dt>
+<dd>open stack</dd>
+<dt id="term-openxml">openxml</dt>
+<dd>openxml</dd>
+<dt id="term-osgi">osgi</dt>
+<dd>osgi</dd>
+<dt id="term-owl">owl</dt>
+<dd>owl</dd>
+<dt id="term-pandas">pandas</dt>
+<dd>pandas</dd>
+<dt id="term-paper">paper</dt>
+<dd>paper</dd>
+<dt id="term-perl">perl</dt>
+<dd>perl</dd>
+<dt id="term-permalink">permalink</dt>
+<dd>permalink</dd>
+<dt id="term-phone">phone</dt>
+<dd>phone</dd>
+<dt id="term-presentation">presentation</dt>
+<dd>presentation</dd>
+<dt id="term-proficiency">proficiency</dt>
+<dd>proficiency</dd>
+<dt id="term-publshing">publshing</dt>
+<dd>publshing</dd>
+<dt id="term-python-x-y">python(x,y)</dt>
+<dd>python(x,y)</dd>
+<dt id="term-rdfa">rdfa</dt>
+<dd>rdfa</dd>
+<dt id="term-resources">resources</dt>
+<dd>resources</dd>
+<dt id="term-revision-control-system-rcs">revision control system (rcs)</dt>
+<dd>revision control system (rcs)</dd>
+<dt id="term-rif">rif</dt>
+<dd>rif</dd>
+<dt id="term-rubric">rubric</dt>
+<dd>rubric</dd>
+<dt id="term-ruby">ruby</dt>
+<dd>ruby</dd>
+<dt id="term-scikits">scikits</dt>
+<dd>scikits</dd>
+<dt id="term-scipy">scipy</dt>
+<dd>scipy</dd>
+<dt id="term-sequencable">sequencable</dt>
+<dd>sequencable</dd>
+<dt id="term-sequences">sequences</dt>
+<dd>sequences</dd>
+<dt id="term-skills">skills</dt>
+<dd>skills</dd>
+<dt id="term-sparql">sparql</dt>
+<dd>sparql</dd>
+<dt id="term-sphinxcontrib-bibtex">sphinxcontrib-bibtex</dt>
+<dd>sphinxcontrib-bibtex</dd>
+<dt id="term-standard">standard</dt>
+<dd>standard</dd>
+<dt id="term-statsmodels">statsmodels</dt>
+<dd>statsmodels</dd>
+<dt id="term-tablet">tablet</dt>
+<dd>tablet</dd>
+<dt id="term-tincan-api">tincan api</dt>
+<dd>tincan api</dd>
+<dt id="term-trac">trac</dt>
+<dd>trac</dd>
+<dt id="term-triples">triples</dt>
+<dd>triples</dd>
+<dt id="term-txt">txt</dt>
+<dd>txt</dd>
+<dt id="term-url-fragment">url fragment</dt>
+<dd>url fragment</dd>
+<dt id="term-vim">vim</dt>
+<dd>vim</dd>
+<dt id="term-web-service">web service</dt>
+<dd>web service</dd>
+<dt id="term-web-standards">web standards</dt>
+<dd>web standards</dd>
+<dt id="term-web-video">web video</dt>
+<dd>web video</dd>
+<dt id="term-wiki">wiki</dt>
+<dd>wiki</dd>
+<dt id="term-worldcat">worldcat</dt>
+<dd>worldcat</dd>
+<dt id="term-wsgi">wsgi</dt>
+<dd>wsgi</dd>
+<dt id="term-xsd">xsd</dt>
+<dd>xsd</dd>
+<dt id="term-zip">zip</dt>
+<dd>zip</dd>
+<dt id="term-zotero">zotero</dt>
+<dd>zotero</dd>
+</dl>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Glossary</a><ul>
+<li><a class="reference internal" href="#sequence-development">Sequence Development</a></li>
+<li><a class="reference internal" href="#graphs">Graphs</a></li>
+<li><a class="reference internal" href="#web-standards">Web Standards</a></li>
+<li><a class="reference internal" href="#linked-data-science">Linked Data Science</a></li>
+<li><a class="reference internal" href="#education">Education</a></li>
+<li><a class="reference internal" href="#learning">Learning</a></li>
+<li><a class="reference internal" href="#tools">Tools</a></li>
+<li><a class="reference internal" href="#research-tools">Research Tools</a></li>
+<li><a class="reference internal" href="#authoring-tools">Authoring Tools</a></li>
+<li><a class="reference internal" href="#review-tools">Review Tools</a></li>
+<li><a class="reference internal" href="#ui-ux-design">UI/UX Design</a></li>
+<li><a class="reference internal" href="#cloud">Cloud</a></li>
+<li><a class="reference internal" href="#collaboration-engineering">Collaboration Engineering</a></li>
+<li><a class="reference internal" href="#index">Index</a><ul>
+<li><a class="reference internal" href="#todo-undefined">TODO/Undefined</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="slides.html"
+                        title="previous chapter">Self-Directed Learning with Online Resources</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/glossary.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="slides.html" title="Self-Directed Learning with Online Resources"
+             >previous</a> |</li>
+        <li><a href="index.html">Self Directed Learning with Online Resources</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2012, Wes Turner.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>
