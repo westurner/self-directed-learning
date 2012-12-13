@@ -1,6 +1,6 @@
 
-Brainstorming Exercise
-=========================
+Draft Outline 2
+================
 
 .. code-block:: restructuredtext
 
@@ -203,4 +203,8 @@ Brainstorming Exercise
    Node
    Edge
    Vertex
+
+
+
+
 
