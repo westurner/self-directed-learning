@@ -1,9 +1,9 @@
-.. header:: ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan
-.. footer:: Page ###Page###/###Total###
+.. header: ENGL 3980: Technical Writing: Assignment 2: Report Subject & Research Plan
+.. footer: Page ###Page###/###Total###
 
 
 ==================================
-2: Report Subject & Research Plan
+Report Subject
 ==================================
 :Date: September 16, 2012
 :From: Wes Turner
@@ -12,16 +12,14 @@
 This memo includes the Report Subject, Research Log, and Research Plan
 for my proposed report on Self-Directed Learning with Online Resources.
 
-.. contents::
-
-Report Subject
-==============
 Self-Directed Learning with Online Resources
+==============================================
 
 Subject
 -------
-I formally request your permission to write about Self-Directed Learning
-with Online Resources. The report would address challenges, opportunities,
+Self-Directed Learning with Online Resources.
+
+Challenges, opportunities,
 and strategies for learning online by reviewing implementations of and
 empirical research regarding online-based instruction.
 
@@ -195,7 +193,3 @@ It may be difficult to address our Prussian tendencies in relation to
 both creativity and the achievement gap.
 
 
-.. include:: research_log.rst
-
-
-.. include:: research_plan.rst
