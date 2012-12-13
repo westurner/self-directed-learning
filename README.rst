@@ -14,8 +14,16 @@ An Independent Technical Report
 .. :author: Wesley Turner
 .. :title: Self Directed Learning with Online Resources
 
-* HTML: http://self-directed-learning.readthedocs.org
+**Report URL**
 
+* `Self Directed Learning (HTML) <http://westurner.github.com/self-directed-learning>`_
+
+**ReadTheDocs.org**
+
+* `HTML <http://self-directed-learning.readthedocs.org>`_
+* `HTML ZIP <http://media.readthedocs.org/htmlzip/self-directed-learning/self-directed-learning.zip>`_
+* `PDF <http://media.readthedocs.org/pdf/self-directed-learning/latest/self-directed-learning.pdf>`_
+* `EPUB <http://media.readthedocs.org/epub/self-directed-learning/latest/self-directed-learning.epub>`_
 
 Sources
 --------
@@ -28,8 +36,8 @@ The report, presentation, and process documentation for this project
 are authored in `ReStructuredText`_, a plaintext Lighweight Markup
 Language.
 
-`Sphinx`_ generates HTML and PDF files from plaintext `ReStructuredText`_
-documents.
+`Sphinx`_ generates HTML, LaTeX, PDF, and ePub files
+from linked sets of plaintext `ReStructuredText`_ documents.
 
 .. _ReStructuredText: http://en.wikipedia.org/wiki/ReStructuredText
 .. _Sphinx: http://sphinx-doc.org
