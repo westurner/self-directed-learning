@@ -16,7 +16,7 @@ An Independent Technical Report
 
 **Report URL**
 
-* `Self Directed Learning (HTML) <http://westurner.github.com/self-directed-learning>`_
+* `Self Directed Learning with Online Resources (HTML) <http://westurner.github.com/self-directed-learning>`_
 
 **ReadTheDocs.org**
 
@@ -48,7 +48,7 @@ License
 This work is licensed under a `Creative Commons Attribution-ShareAlike 3.0
 Unported License <http://creativecommons.org/licenses/by-sa/3.0/deed.en_US>`_
 
-.. image:: https://bitbucket.org/westurner/self-directed-learning/raw/c4e0a416a51537a2564b0156864a4ba2e59806fc/_static/cc_sa_3.0_88x31.png 
+.. image:: https://bitbucket.org/westurner/self-directed-learning/raw/c4e0a416a51537a2564b0156864a4ba2e59806fc/_static/cc_sa_3.0_88x31.png
    :align: center
    :target: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
@@ -58,7 +58,7 @@ report is not necessary. The suggested citation is::
    Turner, Wesley. *Self-directed Learning with Online Resources*,
       Omaha, NE, USA. 2012.
 
-BibTex::
+**BibTex**::
 
    @techreport{this,
       author      = "Wesley {Turner}",
