@@ -7,45 +7,36 @@
 Self-Directed Learning with Online Resources
 =============================================
 
-
-
-
-
 :doc:`Report <report>`
 ========================
 .. toctree::
    :maxdepth: 3
 
-   report
+    report
 
 :doc:`Presentation <slides>`
 ==============================
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 3
 
    slides
 
-:doc:`Process <02_report_subject_research_plan>`
-=================================================
+
+:doc:`Process <process>`
+==========================
+The :doc:`process` of developing this report.
+
+:doc:`Glossary <glossary>`
+==========================
 .. toctree::
-   :maxdepth: 2
-
-   draft_outline
-   02_report_subject_research_plan
-
-Indices and tables
-==================
-
-Glossary
-----------
-.. toctree:: Glossary
 
    glossary
 
 
-Index
-------
-* :ref:`genindex`
+:ref:`Index <genindex>`
+=======================
+The :ref:`Index <genindex>` lists the terms in the :ref:`glossary`
+
 
 :ref:`Search`
 =============

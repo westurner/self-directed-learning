@@ -1,7 +1,8 @@
 
+==========
 Glossary
-+++++++++
-.. note:: The terms listed in this :doc:`glossary`
+==========
+.. note:: The terms listed in this :doc:`glossary <glossary>`
    are listed in the :ref:`genindex`.
 
 .. contents:
@@ -1062,6 +1063,10 @@ TODO:cite
 Index
 -------
 .. note:: These terms are listed in the :ref:`Index <genindex>`.
+
+
+
+
 
 
 

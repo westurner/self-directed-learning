@@ -2,34 +2,9 @@
 .. Presentation Slides
 .. ====================
 
-0 Outlines
-++++++++++
-
-1 H2
---------
-
-2 H3
-=========
-
-4 H4
-~~~~~~
-
-
-
-.. contents::
-   :class: handout
-
-
-
-
-
-Intro
-++++++
-
-
 
 Self-Directed Learning with Online Resources
-
+++++++++++++++++++++++++++++++++++++++++++++++
 An independent study of
 challenges,
 opportunities
@@ -37,6 +12,9 @@ and strategies
 for encouraging feedback
 between tools and resources
 in online learning systems
+
+.. contents::
+   :class: handout
 
 
 ::
@@ -46,8 +24,10 @@ in online learning systems
 .. note:: might as well be a request for proposal
 
 
+
 Objectives
 ------------
+
 
 Self Directed Learning
 ========================
@@ -65,12 +45,12 @@ And tools that :term:`augment` learning in application to:
 * Knowledge
 * Wisdom
 
+
 Aquariums and Cave Diving
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 ::
 
     Aquariums and Cave Diving
-
 
 * Jacques Cousteau
 * Edutainment/Infotainment
@@ -88,8 +68,11 @@ Undergradate STEM Graduates
 * Efficient, Sustainable, Creative Producers
 * Data Science Influencers
 
+
+
 Background
 ------------
+
 
 Learning Resource Timeline
 ============================
@@ -111,6 +94,7 @@ Learning Resource Timeline
 
 [TODO:cite][TODO:correct]
 
+
 Knowledge Economy Roles
 =========================
 *Producer*
@@ -131,6 +115,7 @@ Knowledge Economy Roles
 
 .. epigraph:: When are the dances?
 
+
 Yearly Knowledge/Data Graph
 ============================
 ::
@@ -138,13 +123,6 @@ Yearly Knowledge/Data Graph
    Stream/stacked graph by source with rough yearly data transfer
 
 [TODO:cite]
-
-
-
-
-
-
-
 
 
 Challenges
@@ -172,11 +150,10 @@ Reaching People with Busy Schedules
   * Referenceable
   * Archivable
 
+
 Resource Constraints
 ----------------------
 
-Teacher Salaries
-==================
 
 Learning Materials
 ====================
@@ -529,6 +506,10 @@ Opportunities
 Direct Returns
 ----------------
 
+Teacher Salaries
+==================
+
+
 Indirect Returns / Externalities
 ----------------------------------
 
@@ -737,6 +718,7 @@ for :term:`scalability`
 * http://edx.edu
 * http://udacity TODO
 
+
 MOOC Online Course Features
 =============================
 * Web Hosting
@@ -754,12 +736,19 @@ Online Course Experience
 
 [TODO:cite]
 
+
+Software Programming: CodeCademy
+==================================
+
+
+Math-based web game design
+===========================
+
+
+
 University Online Offerings
 ============================
 # TODO -> LCMS
-
-Comparison Scheme for Collaborative Technology
-===============================================
 
 
 Learning Dashboard
@@ -777,14 +766,6 @@ Charting Competencies
 * :term:`Activity Metrics <Activity Metric>`
 
 [TODO:cite]
-
-Lab Exercises
---------------
-CodeCademy
-===========
-
-Math-based web game design
-===========================
 
 
 
@@ -2175,3 +2156,7 @@ Gap: Sphinx Glossary Thesarus
 Linking words together.
 
 .. TODO:: Categories
+
+License
++++++++++
+.. include:: COPYING.rst
