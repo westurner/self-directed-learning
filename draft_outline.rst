@@ -1,10 +1,9 @@
-========================
-0: Tech Writing Outline
-========================
-Tech Writing Outline
-++++++++++++++++++++++
+===============
+Draft Outline 0
+===============
+
 Problem Identification
-=======================
+-----------------------
 How best to implement and integrate online learning?
 
 Online Education
