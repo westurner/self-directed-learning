@@ -1,7 +1,7 @@
 _build/
 notes/
 index.pdf
-syntax:glob
+ghp-import
 *.egg-info
 *.pyc
 *.un~
