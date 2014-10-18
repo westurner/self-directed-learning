@@ -294,3 +294,10 @@ glossary_terms_uniq: check_glossary_terms
 		| sort \
 		| uniq -c \
 		| sort -n -r
+
+ghp-import:
+	pip install ghp-import
+	touch ghp-import
+
+gh-pages: ghp-import
+	ghp-import -n -p ./_build/html/
