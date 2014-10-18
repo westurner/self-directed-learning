@@ -7,6 +7,8 @@ SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = _build
 
+MAKE_LOG = make.log
+
 SLIDES_BUILDDIR = $(BUILDDIR)/slides
 SLIDES_FILE		 = slides.rst
 SLIDES_TMP		 = $(SLIDES_BUILDDIR)/$(SLIDES_FILE)_
@@ -73,7 +75,8 @@ clean:
 	-rm -rf $(BUILDDIR)/*
 
 html:
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html \
+		| tee $(MAKE_LOG)
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
@@ -283,17 +286,39 @@ auto_s5: s5_preview
 
 GLOSSARY_TERMS=_glossary_undefined.rst
 
-glossary_terms: clean
-	make html 2>&1 \
+#e <file> +<lineno>  <term>
+glossary_terms_numbered:
+	@cat $(MAKE_LOG) \
 		| grep 'term not in glossary' \
-		| awk '{ path = print $$7,$$8,$$9,$$10  }' \
+		| pyline '"e " + " +".join(w[0].split("/")[-1].split(":")[:2]) + "    # " + " ".join(w[6:])'
+
+#<term>		e <file> +<lineno>
+glossary_terms_sorted_locations:
+	@cat $(MAKE_LOG) \
+		| grep 'term not in glossary' \
+		| pyline '" ".join(w[6:]) + "\t\te " + " +".join(w[0].split("/")[-1].split(":")[:2])' \
+		| sort
+
+# sphinx glossary
+glossary_terms_glossary:
+	@echo ".. glossary::"
+	@echo ""
+	@cat $(MAKE_LOG) \
+		| grep 'term not in glossary' \
+		| pyline '" ".join(w[6:])' \
+		| sort -u \
+		| pyline '"   " + " ".join(w) + "\n      TODO\n\n"' \
 		| tee $(GLOSSARY_TERMS)
 
-glossary_terms_uniq: check_glossary_terms
-	cat $(GLOSSARY_TERMS) \
+#  <count> <term>
+glossary_terms_uniq:
+	@cat $(MAKE_LOG) \
+		| grep 'term not in glossary' \
+		| pyline '" ".join(w[6:])' \
 		| sort \
 		| uniq -c \
-		| sort -n -r
+		| sort -n -r \
+		| tee $(GLOSSARY_TERMS)
 
 ghp-import:
 	pip install ghp-import

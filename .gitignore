@@ -2,6 +2,7 @@ _build/
 notes/
 index.pdf
 ghp-import
+make.log
 *.egg-info
 *.pyc
 *.un~
