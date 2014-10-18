@@ -184,21 +184,21 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 latex_build_deps_ubuntu:
-	sudo apt-get install -y texlive-latex-base \
-							texlive-latex-extra \
-							texlive-latex-recommended \
-							texlive-fonts-recommended
+	sudo apt-get install -y \
+		texlive-latex-base \
+		texlive-latex-extra \
+		texlive-latex-recommended \
+		texlive-fonts-recommended
 
 rst2pdf_build_deps_ubuntu:
 	sudo apt-get install -y rst2pdf
 
 sphinx_deps_ubuntu:
-	sudo apt-get install -y \
-								--install-suggests \
-								   python-sphinx \
-									python-sphinxcontrib.issuetracer \
-									python-sphinxcontrib.spelling
-								  #python3-sphinx
+	sudo apt-get install -y --install-suggests \
+		python-sphinx \
+		python-sphinxcontrib.issuetracker \
+		python-sphinxcontrib.spelling
+		#python3-sphinx
 
 setup_ubuntu: rst2pdf_build_deps_ubuntu latex_build_deps_ubuntu sphinx_deps_ubuntu auto_setup
 	
@@ -206,9 +206,10 @@ setup_ubuntu: rst2pdf_build_deps_ubuntu latex_build_deps_ubuntu sphinx_deps_ubun
 rst2pdf:
 	mkdir -p pdfrst
 	rst2pdf --break-level=1 \
-			--stylesheets=_static/pdf.styles \
-			--repeat-table-rows \
-			report.rst -o _build/pdfrst/report.pdf
+		--stylesheets=_static/pdf.styles \
+		--repeat-table-rows \
+		-o _build/pdfrst/report.pdf \
+		report.rst
 
 rst2pdf_open:
 	evince _build/pdf-rst/report.pdf
@@ -224,12 +225,13 @@ html_preview: html html_open
 
 latex_debug:
 	cd _build/latex/
-	gvim -p _build/latex/*.tex \
-				_build/latex/*.aux \
-				_build/latex/*.toc \
-				_build/latex/*.out \
-				_build/latex/*.log \
-				_build/latex/*.idx
+	gvim -p \
+		_build/latex/*.tex \
+		_build/latex/*.aux \
+		_build/latex/*.toc \
+		_build/latex/*.out \
+		_build/latex/*.log \
+		_build/latex/*.idx
 
 latexpdf_open:
 	evince _build/latex/TechWPaper.pdf
@@ -285,10 +287,10 @@ glossary_terms: clean
 	make html 2>&1 \
 		| grep 'term not in glossary' \
 		| awk '{ path = print $$7,$$8,$$9,$$10  }' \
-	    | tee $(GLOSSARY_TERMS)
+		| tee $(GLOSSARY_TERMS)
 
 glossary_terms_uniq: check_glossary_terms
 	cat $(GLOSSARY_TERMS) \
 		| sort \
-	   	| uniq -c \
+		| uniq -c \
 		| sort -n -r
