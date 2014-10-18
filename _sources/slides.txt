@@ -13,9 +13,6 @@ for encouraging feedback
 between tools and resources
 in online learning systems
 
-.. contents::
-   :class: handout
-
 
 ::
 
