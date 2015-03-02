@@ -1,0 +1,20 @@
+/* TODO: responsive break */
+@media (min-width: 767px) {
+    #content-wrapper {
+        left: 0;
+    }
+
+    #navbar-related, footer {
+        width: 58.33333333%;
+        padding-left: 0;
+    }
+}
+
+
+#sidebar-wrapper, #sidebar-wrapper.affix-bottom, #sidebar-wrapper.affix-top {
+    right: 0;
+}
+
+div.sidebar {
+    padding-bottom: 9px;
+}

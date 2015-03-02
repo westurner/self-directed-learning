@@ -326,3 +326,19 @@ ghp-import:
 
 gh-pages: ghp-import
 	ghp-import -n -p ./_build/html/
+
+
+STATIC:=./_static
+LOCALCSS=$(STATIC)/css/local.css
+localcss:
+	echo '' > $(LOCALCSS)
+	cat $(STATIC)/css/custom.css >> $(LOCALCSS)
+	cat $(STATIC)/css/resume.css >> $(LOCALCSS)
+
+LOCALJS=$(STATIC)/js/local.js
+localjs:
+	echo '' > $(LOCALJS)
+	cat $(STATIC)/js/ga.js >> $(LOCALJS)
+	cat $(STATIC)/js/newtab.js >> $(LOCALJS)
+	cat $(STATIC)/js/affix-sidenav.js >> $(LOCALJS)
+

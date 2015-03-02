@@ -100,7 +100,7 @@ html_theme_options = {
     'lang': 'en',
     'nosidebar': False,
     'rightsidebar': True,
-    'sidebar_span': 4,
+    'sidebar_span': 5,
     'nav_fixed_top': False,
     'nav_fixed': False,
     'nav_width': '768px',
@@ -325,3 +325,8 @@ epub_copyright = u'2012, Wes Turner'
 
 # Example configuration for intersphinx: refer to the Python standard library.
 # intersphinx_mapping = {'http://docs.python.org/': None}
+
+def setup(app):
+    app.add_javascript('js/local.js')
+    app.add_stylesheet('css/local.css')
+
