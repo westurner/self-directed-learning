@@ -342,3 +342,8 @@ localjs:
 	cat $(STATIC)/js/newtab.js >> $(LOCALJS)
 	cat $(STATIC)/js/affix-sidenav.js >> $(LOCALJS)
 
+push:
+	git push origin master
+
+pull:
+	git pull origin master
