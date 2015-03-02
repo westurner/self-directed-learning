@@ -57,7 +57,7 @@ Slides
    slides
 
 :doc:`Glossary <glossary>`
-----------------
+---------------------------
 .. toctree::
 
    glossary
