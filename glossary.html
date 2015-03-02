@@ -22,6 +22,7 @@
 <link rel="stylesheet" href="_static/css/basicstrap.css" type="text/css" />
 <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
 <link rel="stylesheet" href="_static/css/local.css" type="text/css" />
+<link rel="stylesheet" href="_static/css/local.css" type="text/css" />
     
 <script type="text/javascript">
   var DOCUMENTATION_OPTIONS = {
@@ -35,7 +36,8 @@
     <script type="text/javascript" src="_static/js/jquery.min.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/js/local.js"></script>
+    <script type="text/javascript" src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap3.min.js"></script>
 <script type="text/javascript" src="_static/js/jquery.cookie.min.js"></script>
 <script type="text/javascript" src="_static/js/basicstrap.js"></script>
@@ -102,7 +104,11 @@
                   <input type="hidden" name="area" value="default" />
                 </form>
             </li>
+
+            
+
           </ul>
+
         </div>
       </div>
     </div>
@@ -116,7 +122,7 @@
         
         
 
-        <div class="col-md-8">
+        <div class="col-md-7" id="content-wrapper">
           <div class="document" role="main">
             <div class="documentwrapper">
               <div class="bodywrapper">
@@ -369,9 +375,9 @@ Connection: keep-alive
 <a class="reference internal" href="#term-edge"><em class="xref std std-term">edges</em></a></p>
 <p>Examples:</p>
 <ul class="last simple">
-<li><tt class="docutils literal"><span class="pre">dc:title</span></tt> &#8211; Dublin Core Title Attribute</li>
-<li><tt class="docutils literal"><span class="pre">dc:author</span></tt> &#8211; Dublin Core Author Attribute</li>
-<li><tt class="docutils literal"><span class="pre">last_modified</span></tt></li>
+<li><code class="docutils literal"><span class="pre">dc:title</span></code> &#8211; Dublin Core Title Attribute</li>
+<li><code class="docutils literal"><span class="pre">dc:author</span></code> &#8211; Dublin Core Author Attribute</li>
+<li><code class="docutils literal"><span class="pre">last_modified</span></code></li>
 </ul>
 </dd>
 <dt id="term-key">Key</dt>
@@ -570,8 +576,8 @@ over <a class="reference internal" href="#term-http"><em class="xref std std-ter
 <dt id="term-web-application-server">Web Application Server</dt>
 <dd><p class="first">Software service for hosting web applications that serve
 <a class="reference internal" href="#term-resource"><em class="xref std std-term">resources</em></a> over <a class="reference internal" href="#term-http"><em class="xref std std-term">HTTP</em></a> <a class="reference internal" href="#term-api"><em class="xref std std-term">APIs</em></a>
-as content types like <tt class="docutils literal"><span class="pre">text/html</span></tt>, <tt class="docutils literal"><span class="pre">application/json</span></tt>,
-<tt class="docutils literal"><span class="pre">text/xml</span></tt>. TODO</p>
+as content types like <code class="docutils literal"><span class="pre">text/html</span></code>, <code class="docutils literal"><span class="pre">application/json</span></code>,
+<code class="docutils literal"><span class="pre">text/xml</span></code>. TODO</p>
 <p>Interface Standards:</p>
 <ul class="last simple">
 <li><em class="xref std std-term">WSGI</em></li>
@@ -737,7 +743,7 @@ Also: <a class="reference internal" href="#term-restructuredtext"><em class="xre
    <span class="nc">:author:</span> <span class="nf">Document Author</span>
 
 <span class="p">..</span> <span class="ow">contents</span><span class="p">::</span> Table of Contents
-   :depth: 1
+   <span class="nc">:depth:</span> <span class="nf">1</span>
 
 <span class="gh">Intro</span>
 <span class="gh">======</span>
@@ -1056,7 +1062,7 @@ with combinatorially optimized feature islands</p>
           </div>
         </div>
          
-<div class="col-md-4 hidden-xs">
+<div class="col-md-5 hidden-xs" id="sidebar-wrapper">
   <div class="sidebar hidden-xs" role="navigation" aria-label="main navigation">
   <h3><a href="index.html">Table Of Contents</a></h3>
   <ul>
@@ -1082,11 +1088,13 @@ with combinatorially optimized feature islands</p>
   <h4>Previous topic</h4>
   <p class="topless"><a href="slides.html"
                         title="previous chapter">Self-Directed Learning with Online Resources</a></p>
-  <h3>This Page</h3>
-  <ul class="this-page-menu">
-    <li><a href="_sources/glossary.txt"
-           rel="nofollow">Show Source</a></li>
-  </ul>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/glossary.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
 <div id="searchbox" role="search">
   <h3>Quick search</h3>
   <form class="search form-inline" action="search.html" method="get">
@@ -1112,13 +1120,14 @@ with combinatorially optimized feature islands</p>
       <div class="row footer-relbar">
 <div id="navbar-related" class=" related navbar navbar-default" role="navigation" aria-label="related navigation">
   <div class="navbar-inner">
-    <ul class="nav navbar-nav">
+    <ul class="nav navbar-nav ">
         <li><a href="index.html">Self Directed Learning with Online Resources</a></li>
     </ul>
-    <ul class="nav navbar-nav pull-right hidden-xs hidden-sm">
+<ul class="nav navbar-nav pull-right hidden-xs hidden-sm">
       
         <li><a href="slides.html" title="Self-Directed Learning with Online Resources" >previous</a></li>
-        <li><a href="genindex.html" title="General Index" >index</a></li> 
+        <li><a href="genindex.html" title="General Index" >index</a></li>
+        <li><a href="#">top</a></li> 
       
     </ul>
   </div>
@@ -1128,7 +1137,7 @@ with combinatorially optimized feature islands</p>
       <!-- footer -->
       <footer role="contentinfo">
           &copy; Copyright 2012, Wes Turner.
-        Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.
+        Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.3b3.
       </footer>
       <!-- /footer -->
 

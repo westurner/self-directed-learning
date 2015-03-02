@@ -22,6 +22,7 @@
 <link rel="stylesheet" href="_static/css/basicstrap.css" type="text/css" />
 <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
 <link rel="stylesheet" href="_static/css/local.css" type="text/css" />
+<link rel="stylesheet" href="_static/css/local.css" type="text/css" />
     
 <script type="text/javascript">
   var DOCUMENTATION_OPTIONS = {
@@ -35,7 +36,8 @@
     <script type="text/javascript" src="_static/js/jquery.min.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/js/local.js"></script>
+    <script type="text/javascript" src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/bootstrap3.min.js"></script>
 <script type="text/javascript" src="_static/js/jquery.cookie.min.js"></script>
 <script type="text/javascript" src="_static/js/basicstrap.js"></script>
@@ -313,7 +315,11 @@
                   <input type="hidden" name="area" value="default" />
                 </form>
             </li>
+
+            
+
           </ul>
+
         </div>
       </div>
     </div>
@@ -327,7 +333,7 @@
         
         
 
-        <div class="col-md-8">
+        <div class="col-md-7" id="content-wrapper">
           <div class="document" role="main">
             <div class="documentwrapper">
               <div class="bodywrapper">
@@ -708,10 +714,10 @@ additional <em class="xref std std-term">Resources</em></p>
 <h3>Interface Criteria<a class="headerlink" href="#interface-criteria" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li>Where is the table of contents?</li>
-<li>What do <tt class="docutils literal"><span class="pre">Page</span> <span class="pre">Up</span></tt> and <tt class="docutils literal"><span class="pre">Page</span> <span class="pre">Down</span></tt> do?</li>
-<li>What about <tt class="docutils literal"><span class="pre">Tab</span></tt>?</li>
+<li>What do <code class="docutils literal"><span class="pre">Page</span> <span class="pre">Up</span></code> and <code class="docutils literal"><span class="pre">Page</span> <span class="pre">Down</span></code> do?</li>
+<li>What about <code class="docutils literal"><span class="pre">Tab</span></code>?</li>
 <li>Why do I have to <strong>click</strong> next and previous?</li>
-<li>Can I <tt class="docutils literal"><span class="pre">Ctrl-F</span></tt> to search within the resource?</li>
+<li>Can I <code class="docutils literal"><span class="pre">Ctrl-F</span></code> to search within the resource?</li>
 <li>Can I tab through these?</li>
 <li>What can I link to?</li>
 <li>Can I link to a URL fragment in a new tab?</li>
@@ -951,7 +957,7 @@ and their <em class="xref std std-term">artifacts</em></p>
 <li>Which columns can I add?</li>
 <li>Which columns are already there?</li>
 <li>Which columns should I add?</li>
-<li>What did they call a <tt class="docutils literal"><span class="pre">Widget</span></tt>?</li>
+<li>What did they call a <code class="docutils literal"><span class="pre">Widget</span></code>?</li>
 </ul>
 <div class="section" id="channels">
 <h2>Channels<a class="headerlink" href="#channels" title="Permalink to this headline">¶</a></h2>
@@ -1505,9 +1511,9 @@ Accelerating and Augmenting Learning</p>
 <li>Commit Log</li>
 <li>Manifest</li>
 <li>Link to TODO/Issue/Ticket item numbers<ul>
-<li><tt class="docutils literal"><span class="pre">working</span> <span class="pre">on</span> <span class="pre">#123:</span> <span class="pre">this,</span> <span class="pre">this,</span> <span class="pre">and</span> <span class="pre">this</span></tt></li>
-<li><tt class="docutils literal"><span class="pre">working</span> <span class="pre">on</span> <span class="pre">#123</span></tt></li>
-<li><tt class="docutils literal"><span class="pre">task:course/project/n:</span> <span class="pre">this,</span> <span class="pre">this,</span> <span class="pre">and</span> <span class="pre">this`</span></tt></li>
+<li><code class="docutils literal"><span class="pre">working</span> <span class="pre">on</span> <span class="pre">#123:</span> <span class="pre">this,</span> <span class="pre">this,</span> <span class="pre">and</span> <span class="pre">this</span></code></li>
+<li><code class="docutils literal"><span class="pre">working</span> <span class="pre">on</span> <span class="pre">#123</span></code></li>
+<li><code class="docutils literal"><span class="pre">task:course/project/n:</span> <span class="pre">this,</span> <span class="pre">this,</span> <span class="pre">and</span> <span class="pre">this`</span></code></li>
 </ul>
 </li>
 </ul>
@@ -1693,9 +1699,9 @@ stacked/stream graph
 <blockquote class="epigraph">
 <div>How do our fields link together? What do they call a _____ ?</div></blockquote>
 <ul>
-<li><p class="first"><em>Concept</em>: <tt class="docutils literal"><span class="pre">Bookmark</span></tt></p>
+<li><p class="first"><em>Concept</em>: <code class="docutils literal"><span class="pre">Bookmark</span></code></p>
 </li>
-<li><p class="first"><em>Instance</em>: <tt class="docutils literal"><span class="pre">bookmarks/{id}</span></tt>:</p>
+<li><p class="first"><em>Instance</em>: <code class="docutils literal"><span class="pre">bookmarks/{id}</span></code>:</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="p">{</span> <span class="s">&#39;ID&#39;</span><span class="p">:</span> <span class="n">ID</span><span class="p">,</span>
   <span class="s">&#39;isA&#39;</span><span class="p">:</span> <span class="n">Bookmark</span><span class="p">,</span>
   <span class="s">&#39;url&#39;</span><span class="p">:</span><span class="n">URL</span><span class="p">,</span>
@@ -1703,7 +1709,7 @@ stacked/stream graph
 </pre></div>
 </div>
 </li>
-<li><p class="first"><em>User Instance</em>: <tt class="docutils literal"><span class="pre">bookmarks/{username}/{id}</span></tt></p>
+<li><p class="first"><em>User Instance</em>: <code class="docutils literal"><span class="pre">bookmarks/{username}/{id}</span></code></p>
 </li>
 </ul>
 <div class="admonition note">
@@ -2429,7 +2435,7 @@ report is not necessary. The suggested citation is:</p>
           </div>
         </div>
          
-<div class="col-md-4 hidden-xs">
+<div class="col-md-5 hidden-xs" id="sidebar-wrapper">
   <div class="sidebar hidden-xs" role="navigation" aria-label="main navigation">
   <h3><a href="index.html">Table Of Contents</a></h3>
   <ul>
@@ -2667,11 +2673,13 @@ report is not necessary. The suggested citation is:</p>
   <h4>Next topic</h4>
   <p class="topless"><a href="glossary.html"
                         title="next chapter">Glossary</a></p>
-  <h3>This Page</h3>
-  <ul class="this-page-menu">
-    <li><a href="_sources/slides.txt"
-           rel="nofollow">Show Source</a></li>
-  </ul>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/slides.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
 <div id="searchbox" role="search">
   <h3>Quick search</h3>
   <form class="search form-inline" action="search.html" method="get">
@@ -2697,14 +2705,15 @@ report is not necessary. The suggested citation is:</p>
       <div class="row footer-relbar">
 <div id="navbar-related" class=" related navbar navbar-default" role="navigation" aria-label="related navigation">
   <div class="navbar-inner">
-    <ul class="nav navbar-nav">
+    <ul class="nav navbar-nav ">
         <li><a href="index.html">Self Directed Learning with Online Resources</a></li>
     </ul>
-    <ul class="nav navbar-nav pull-right hidden-xs hidden-sm">
+<ul class="nav navbar-nav pull-right hidden-xs hidden-sm">
       
         <li><a href="index.html" title="Self-Directed Learning with Online Resources" >previous</a></li>
         <li><a href="glossary.html" title="Glossary" >next</a></li>
-        <li><a href="genindex.html" title="General Index" >index</a></li> 
+        <li><a href="genindex.html" title="General Index" >index</a></li>
+        <li><a href="#">top</a></li> 
       
     </ul>
   </div>
@@ -2714,7 +2723,7 @@ report is not necessary. The suggested citation is:</p>
       <!-- footer -->
       <footer role="contentinfo">
           &copy; Copyright 2012, Wes Turner.
-        Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2.2.
+        Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.3b3.
       </footer>
       <!-- /footer -->
 
