@@ -347,3 +347,5 @@ push:
 
 pull:
 	git pull origin master
+
+docs: localjs localcss html
